@@ -1,4 +1,4 @@
-# Event Planning
+# Event Planning Team
 
 ## Responsibilities
   - hackathons

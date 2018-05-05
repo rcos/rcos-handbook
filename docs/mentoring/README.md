@@ -1,7 +1,5 @@
 # Mentors
 
-## Mentors
-
 Mentors are the life blood of RCOS, a mentor can help you with technical problems, show
 you where/how to find help for your project, and help you find a new project etc.
 

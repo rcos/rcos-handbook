@@ -1,4 +1,4 @@
-# Public Relations
+# Public Relations Team
 
 ## Responsibilities
   - RCOS Blog - Editing, curation, etc.

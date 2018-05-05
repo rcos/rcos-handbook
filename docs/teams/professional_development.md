@@ -1,4 +1,4 @@
-# Professional Development
+# Professional Development Team
 
 ## Responsibilities
   - organizes CCPD events
