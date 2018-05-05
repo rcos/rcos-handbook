@@ -6,9 +6,8 @@
 
 * Getting started
   * [Join RCOS](membership/join_rcos.md)
-  * [Project Pitch](membership/speed_dating.md)
+  <!-- * [Project Pitch](membership/speed_dating.md) -->
   * [Speed Dating](membership/speed_dating.md)
-  * [Code Of Conduct](../CODE_OF_CONDUCT.md)
 
 * Events
   * [Large Group Meetings](events/large_group_meetings.md)
@@ -44,12 +43,14 @@
   * [What are Faculty Advisors?](coordinating/README.md)
 
 * Student Resources
-  * [Code Of Conduct Template](resources/code_of_conduct_template.md)
+  * [Code Of Conduct](../CODE_OF_CONDUCT.md)
   * [Presentation Slides](resources/slides.md)
   * [Tech Recommendations](resources/README.md)
+  * [Code Of Conduct Template](resources/code_of_conduct_template.md)
 
-* Press Resources
-  * [Brand Standards](resources/brand_standards.md)
+* Branding
+  * [Assets](resources/brand_assets.md)
+  * [Standards](resources/brand_standards.md)
   * [Press Kit](resources/press_kit.md)
 
 * RCOS Handbook
