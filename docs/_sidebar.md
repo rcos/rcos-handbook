@@ -8,7 +8,7 @@
   * [Join RCOS](docs/membership/join_rcos.md)
   * [Project Pitch](docs/membership/speed_dating.md)
   * [Speed Dating](docs/membership/speed_dating.md)
-  * [Code Of Conduct](CODE_OF_CONDUCT.md)
+  * [Code Of Conduct](../CODE_OF_CONDUCT.md)
 
 * Events
   * [Large Group Meetings](docs/events/large_group_meetings.md)
