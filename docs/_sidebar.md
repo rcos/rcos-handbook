@@ -13,14 +13,16 @@
   * [Large Group Meetings](events/large_group_meetings.md)
   * [Small Group Meetings](events/small_group_meetings.md)
   * [Casual Coding Sessions](events/casual_coding_sessions.md)
+  * [Tech Talks](events/tech_talks.md)
   * [Code Jams](events/code_jams.md)
   * [Hackathons](events/hackathons.md)
+  * [Accepted Students Day](events/accepted_students_day.md)
   * [RCOS Expo](events/expo.md)
 
 * Grading
   * [Overview](grading/README.md)
   * [Rubric](grading/rubric.md)
-  * [Excused Absences](grading/excused_absences.md)
+  * [Attendance](grading/attendance.md)
   * [Status Updates](grading/status_updates.md)
   * [Flex](grading/flex.md)
 
