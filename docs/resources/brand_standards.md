@@ -9,11 +9,13 @@ Information regarding our brand standards
 
 ### Colors
 
-Color is important. When using our brand elements please ensure that you use the following color swatches:
+Color is important. The primary colors for the Rensselaer identity system are Pantone 485, Pantone 424, and Black. Equivalent formulas for four-color printing are provided to the right. When using our brand elements please ensure that you use the following color swatches:
 
-|Swatch|Name|Pantone|HEX|RGB|
+|Swatch|Pantone|HEX|RGB|CMKY|
 |---|---|---|---|---|
-|![#da291c](https://placehold.it/40/da291c/000000?text=+)|Rensselaer Red|Pantone 485|`#da291c`|`rgb(218, 41, 28)`|
+|![#da291c](https://placehold.it/40/da291c/000000?text=+)|Pantone 485|`#da291c`|`rgb(218, 41, 28)`|`c0 m100 y100 k0`|
+|![#707372](https://placehold.it/40/707372/000000?text=+)|Pantone 485|`#707372`|`rgb(112, 115, 114)`|`c0 m0 y0 k61`|
+|![#000000](https://placehold.it/40/000000/000000?text=+)|Black|`#000000`|`rgb(0, 0, 0)`|`c0 m0 y0 k100`|
 
 ### Additional Resources
 
