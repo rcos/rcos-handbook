@@ -18,7 +18,7 @@ During our large group sessions, we have the following policies.
 ### Presentations on Sensitive Topics (full policy TBD)
 > NOTE: this policy may be already implicit, but it may be necessary as we stray into more traditionally off-topic talks. This guideline is not set in stone, feel free to remove or revise if necessary. See comments in source code for more commentary.
 
-Please keep in mind that RCOS large group sessions are mandatory for all students currently in RCOS. Detailed and explicit discussion of sensitive, upsetting, or controversial topics without warning can create an especially hostile environment when this attendance requirement is considered. 
+Please keep in mind that RCOS large group sessions are mandatory for all students currently in RCOS. Presentations containing detailed discussion of sensitive, upsetting, or controversial topics without warning can create an especially hostile environment when this attendance requirement is considered. 
 
 <!--TODO: flesh out specifics of "sensitive topics".
 Preliminary list may include things like sex, violence, bigotry, drugs/alcohol, death, trauma, serious physical or mental illness, etc. However, it might be better to deal with these things on a case-by-case basis. E.g. a talk on inclusive sex education should be handled much differently than explicit and graphic discussion of pornography
