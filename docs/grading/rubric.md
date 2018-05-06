@@ -41,3 +41,10 @@ Although RCOS is a team sport, grading is done on the individual member. Make su
 | **C** | Repeatedly misses meetings or does not make up unexcused absences. |
 | **D** | Misses many meetings and does not attempt to make up unexcused absences. |
 | **F** | Makes no effort to regularly attend meetings. |
+
+## Addendum - Code of Conduct:
+We want all of you at RCOS to learn in a safe, welcoming, and inclusive environment. The way you conduct yourself at RCOS may have a long-lasting impact on the community, whether that be positive or negative.
+
+Students who go above and beyond to model and encourage positive behaviors outlined in our community Code of Conduct may receive a bonus added to the [Flex](grading/flex.md) portion of their grade and/or additional consideration for leadership positions within RCOS (e.g. task force teams, mentor, coordinator).  
+
+On the other hand, students may be penalized, depending on the severity of the offense, for violating the Code of Conduct. These penalties are given at faculty discretion and may range from a small attendance penalty to an F in the course. Please review the [Code of Conduct](resources/CODE_OF_CONDUCT.md) as well as our [Bylaws](resources/bylaws.md) for more detailed information.

@@ -20,6 +20,7 @@
 * Grading
   * [Overview](grading/README.md)
   * [Rubric](grading/rubric.md)
+  * [Excused Absences](grading/excused_absences.md)
   * [Status Updates](grading/status_updates.md)
   * [Flex](grading/flex.md)
 
@@ -43,9 +44,10 @@
   * [What are Faculty Advisors?](coordinating/README.md)
 
 * Student Resources
-  * [Code Of Conduct](../CODE_OF_CONDUCT.md)
+  * [Code Of Conduct](resources/CODE_OF_CONDUCT.md)
+    * [Bylaws](resources/bylaws.md)
   * [Presentation Slides](resources/slides.md)
-  * [Tech Recommendations](resources/README.md)
+  * [Resources](resources/README.md)
   * [Code Of Conduct Template](resources/code_of_conduct_template.md)
 
 * Branding
