@@ -85,10 +85,11 @@ Whether you're completely new to programming or you feel ready to tackle advance
 
 [Ladies Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)
 
-
 [Geek Feminism](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki)
 
 ## LGBTQ+ in Technology
 [Lesbians Who Tech](https://lesbianswhotech.org/about/)
+
 [Out in Tech](https://outintech.com/)
+
 [Rensselaer Pride Alliance](http://rpa.union.rpi.edu/)
