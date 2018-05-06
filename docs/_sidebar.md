@@ -7,6 +7,7 @@
 
 * Getting started
   * [Join RCOS](membership/join_rcos.md)
+  * [What You'll Need](membership/requirements.md)
   <!-- * [Project Pitch](membership/speed_dating.md) -->
   * [Speed Dating](membership/speed_dating.md)
 
