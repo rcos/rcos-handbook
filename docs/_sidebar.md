@@ -20,7 +20,7 @@
 * Grading
   * [Overview](grading/README.md)
   * [Rubric](grading/rubric.md)
-  * [Excused Absences](grading/excused_absences.md)
+  * [Attendance](grading/attendance.md)
   * [Status Updates](grading/status_updates.md)
   * [Flex](grading/flex.md)
 
