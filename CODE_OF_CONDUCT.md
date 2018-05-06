@@ -39,7 +39,7 @@ At any point, you may report instances of CoC violations to RCOS faculty at <coo
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. In the case of contributors external to RPI and/or RCOS, temporary or permanent bans may occur. RPI-specific policies are outlined below.
 
 ## RPI-Specific Policies
-RPI-specific policies, including consequences for violating the RCOS Code of Conduct in the context of RCOS at RPI, can be found under our [Bylaws](resources/bylaws.md). Please review these if you are a student, mentor, or coordinator at RPI, as you will also be expected to follow these bylaws.
+RPI-specific policies, including consequences for violating the RCOS Code of Conduct in the context of RCOS at RPI, can be found under our [Bylaws](docs/resources/bylaws.md). Please review these if you are a student, mentor, or coordinator at RPI, as you will also be expected to follow these bylaws.
 
 ## License and Attribution
 
