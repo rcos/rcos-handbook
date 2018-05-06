@@ -70,14 +70,6 @@ Each project group is required to give one large group presentation. Presentatio
 
 In addition to the large group project presentation, each member is required to either give one large group tech talk, host a bonus session, or alternatively attend a bonus session. A bonus session is simply any event hosted outside of the normal RCOS hours. Upperclassmen and more senior members are encouraged to give tech talks for the benefit of the RCOS community. All members are encouraged to attend bonus sessions. A bonus session attended in lieu of hosting a bonus session or giving a tech talk cannot also count as an attendence makeup.
 
-## Attendance
-
-Being part of the RCOS community means seeing what RCOS members are doing, giving feedback, and learning from tech talks and guest speakers. Attendence is required and is taken on Tuesdays and Fridays via Observatory.
-
-Unexcused absences can be made up by attending bonus sessions. Generally bonus sessions are unique, long or workshop-style tech talks, an RCOS hackathon, or an optional RCOS session. Pay attention in the large group meeting to hear bonus sessions announced.
-
-A student can have two unexcused absences before their grade is affected or make-ups are needed.
-
 ## External Contributions
 
 Contribute to something outside of RCOS or help out another group with an issue! External contributions are encouraged as it allows RCOS to give back to the larger open source community. The project you're contributing to should be used by a significant number of people outside of RPI.
