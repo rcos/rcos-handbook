@@ -3,8 +3,13 @@
 ## Email
 - [coordinators@rcos.io](mailto:coordinators@rcos.io)
 
+## GitHub
+- [RCOS](https://www.github.com/rcos)
+- [YACS](https://github.com/YACS-RCOS)
+- [Venue](https://github.com/venue)
+- [Observatory](https://github.com/observatory-server)
+
 ## Social Media
-- [GitHub](https://www.github.com/rcos)
 - [Facebook](https://www.facebook.com/RCOSatRPI)
 - [Twitter](https://twitter.com/rcosrpi)
 
