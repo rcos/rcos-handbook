@@ -7,3 +7,11 @@ Information to include:
 - how to become a sponsor
 - how to donate to RCOS
 - contact information
+
+## Companies
+- RedHat
+- Microsoft
+- Mozilla
+- Open Source Initiative
+- Google
+- The Humanitarian FOSS Project
