@@ -13,8 +13,10 @@
   * [Large Group Meetings](events/large_group_meetings.md)
   * [Small Group Meetings](events/small_group_meetings.md)
   * [Casual Coding Sessions](events/casual_coding_sessions.md)
+  * [Tech Talks](events/tech_talks.md)
   * [Code Jams](events/code_jams.md)
   * [Hackathons](events/hackathons.md)
+  * [Accepted Students Day](events/accepted_students_day.md)
   * [RCOS Expo](events/expo.md)
 
 * Grading

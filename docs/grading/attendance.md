@@ -4,9 +4,21 @@
 
 Being part of the RCOS community means seeing what RCOS members are doing, giving feedback, and learning from tech talks and guest speakers. Attendence is required and is taken on Tuesdays and Fridays via Observatory.
 
-Unexcused absences can be made up by attending bonus sessions. Generally bonus sessions are unique, long or workshop-style tech talks, an RCOS hackathon, or an optional RCOS session. Pay attention in the large group meeting to hear bonus sessions announced.
-
 A student can have two unexcused absences before their grade is affected or make-ups are needed.
+
+TODO - we need to establish a threshold percentage that must be fulfilled by regular, non-bonus session attendance. The reason for this threshold is to ensure that bonus sessions are used to fill gaps in attendance, rather than supplement a significant portion of the requirement.
+
+## Bonus Sessions
+Unexcused absences can be made up by attending bonus sessions. Bonus sessions can be fulfilled by any of the following events:
+
+- [Casual Coding Sessions](/events/casual_coding_sessions)
+- [Tech Talks](/events/tech_talks)
+- [Code Jams](/events/code_jams)
+- [Hackathons](/events/hackathons)
+- [Accepted Students Day](/events/accepted_students_day)
+- [RCOS Expo](/events/expo)
+
+Pay attention in the large group meeting to hear bonus sessions announced!
 
 ## Excused Absence Policy
 Excused absences can be given for any of the following:
