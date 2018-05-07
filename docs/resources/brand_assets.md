@@ -10,24 +10,18 @@ All of our brand assets and associated source files are available at [github.com
 
 ### Logo
 
-<p>
-TODO - add logo description and usage
-</p>
+> TODO - add logo description and usage
 
-<img src="https://raw.githubusercontent.com/rcos/rcos-branding/master/img/logo_red.png" width="150px">
+<img src="https://raw.githubusercontent.com/rcos/rcos-branding/master/img/logo-square-red.png" width="150px">
 
 ### Wordmark
 
-<p>
-TODO - add wordmark description and usage
-</p>
+> TODO - add wordmark description and usage
 
-<img src="https://raw.githubusercontent.com/rcos/rcos-branding/master/img/wordmark_red.png" width="400px">
+<img src="https://raw.githubusercontent.com/rcos/rcos-branding/master/img/wordmark-red.png" width="400px">
 
 ### Lockup
 
-<p>
-TODO - add lockup description and usage
-</p>
+> TODO - add lockup description and usage
 
-<img src="https://raw.githubusercontent.com/rcos/rcos-branding/master/img/lockup_red.png" width="400px">
+<img src="https://raw.githubusercontent.com/rcos/rcos-branding/master/img/lockup-red.png" width="400px">
