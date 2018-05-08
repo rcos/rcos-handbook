@@ -1,3 +1,136 @@
 # History
 
-TODO - document the history of RCOS here
+> NOTE - all the content below was taking from the following [RCOS OverviewJan16,2018-old presentation](https://docs.google.com/presentation/d/1mX6wNaIBUDo1RnLvu1POPQGLMi4wp8OA44SbA5C7xHM/edit#slide=id.g827926ff0_0_0). It needs to be refined a bit more now that it's been ported to the RCOS handbook.
+
+### Overview
+
+Founded in 2006 by generous $2M donation
+from Sean O'Sullivan
+Past and current leadership:
+- 2006-2007: Frank Luk, Director
+- 2007-2010: Badri Roysam, Mukkai Krishnamoorthy, co-Directors
+- 2010-2013: Mukkai Krishnamoorthy, Director
+- 2013-2016: Mukkai Krishnamoorthy, David Goldschmidt, co-Directors
+- 2016-present: Mukkai Krishnamoorthy, David Goldschmidt, Wes Turner, co-Directors/Advisor
+
+Gained momentum in 2007 with launch
+
+of Open Source Software course
+
+Funding rejuvenated by Red Hat in 2015
+
+### Mission Statement
+
+> To provide a creative, intellectual, and entrepreneurial outlet for students to use the latest open-source software platforms to develop applications that solve societal problems.
+
+### Statistics
+
+Total Number of Students: 1719+
+
+Total Number of Projects: 683+
+
+### Achievements
+
+Past student projects and achievements include...
+
+- [Concerto - Digital Signage](http://www.concerto-signage.com)
+
+HackRPI, RPITV, Ease and Seed
+https://www.youtube.com/watch?v=O7oHrGDqSZg
+https://www.youtube.com/watch?v=swRas8SOkZA&list=UUdjdB1nIknBxvez4jZaJR0w
+https://www.youtube.com/watch?v=Hz8OTz-Xnl4&list=UUm9MAsRymQPaXLsGVlrPnaA
+http://en.wikipedia.org/wiki/Seed_(programming)
+
+
+Course Scheduler
+http://j2ee6.server.rpi.edu:9090/web/guest/rpi-scheduler#rocs-welcome
+
+YACS
+http://yacs.cs.rpi.edu
+
+FastestFox Firefox Plugin
+https://addons.mozilla.org/en-US/firefox/addon/fastestfox-browse-faster/
+
+Observatory - Project Dashboard
+http://rcos.rpi.edu/projects/
+
+MobileNotifier (??)
+
+iPhone App Entrepreneur Book
+
+RPI ShuttleTracker
+http://shuttles.rpi.edu/
+
+Ease - GNOME Presentations
+http://www.ease-project.org/
+
+Astro-IQ
+https://rcos.io/projects/cisprague/astro.iq/profile
+
+Chrometana
+http://chrometana.theo.li/
+
+https://chrome.google.com/webstore/detail/chrometana-redirect-bing/kaicbfmipfpfpjmlbpejaoaflfdnabnc?hl=en
+
+https://www.youtube.com/watch?v=qedUbMYT0e4
+
+
+### Hack Prizes (sampling)
+
+Chris Sprague (RCOS member) and his team team won an award in the Spark Innovation competition held on March 25, 2017 at Syracuse.
+
+Charlie You’18 Third place in the Change the World Challenge, Spring 2017 for Chloe.a
+
+Kathleen Burkhardt'19 for her RedFlag Project in HackRPI 2016 which won an award Best Domain and HackHarassment Project
+
+Josh Makkinen '16 won Google API Prize (Bose Speaker) and the Best Hardware Hack (ssd) in  HackRPI 2015.
+
+Jim Boulter '17 and Kiana McNellis '17 won the jetblue API award at YHack 2015
+
+Eric Zhang ‘17 won the grandprize in YHack 2015
+
+Aaron Perl '18 won the "Best Hardware Hack" in the HackRU 2015 (Hackathon at Rutgers University).
+
+Jacob Martin, Noah Goldman, Erin Quin, Satoshi Masura are  finalists in HackUMass’15
+
+### OSI Membership
+
+We Became an Affiliate Member of OSI
+
+### RedHat Funding (2014-2015)
+
+Thrust: To improve the overall quality of RCOS projects and to increase diversity
+
+- Funding Level $180,000
+- Funds two RCOS projects per year
+- Funds the development of two (one CS and one HASS) freshmen/sophomore-level courses on Open Source
+- Funds Undergraduate Mentors for two new courses
+
+
+### RedHat Funding (contd)
+- Diversity Hackathon - April 16-17, 2016
+- Primarily Hackathon for women students in Capital District universities, colleges and high schools
+- Coordinated jointly with Pearlhacks and RedHat
+
+- CSCI 296x Introduction to Open Source was taught in Fall 2015 and Spring 2016.
+- Aimed at Freshmen and Sophomores
+- Enrollment around 35 students
+- Bring students up to speed to join RCOS
+- Syllabus and Other details may be found at http://rcos.github.io/CSCI2961-01/ and https://github.com/rcos/CSCI2961-01
+
+### Going Forward
+- Scale the Course - How to reach more students.
+- Sustain software projects
+- Increase the sophistication of RCOS Projects
+- Increase the diversity of participants
+- Hacker Space and Community Space
+- Increase projects using new hardware
+- Increased interaction with OSI and other universities
+- We are working to make RCOS a BIG part of Summer Arch!
+
+### Paperwork and forms
+- URP forms, Course Credit Form, for Pay I9 form
+- Send the project proposal to rcos group mailing list  <rcos-at-rensselaer@googlegroups.com> for feedback
+
+http://www.rpi.edu/dept/cct/apps/undergrad/resources/PDFs/URP_Application_NoLines_FieldsV6Jan2016_TEST.pdf
+
