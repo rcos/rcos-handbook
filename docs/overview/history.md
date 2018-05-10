@@ -1,5 +1,12 @@
 # History
 
+<!-- Overview -->
+<!-- from Google Drive document, 'RCOS History-June 2017' -->
+
+<!-- RCOS was founded in 2006 from a generous donation of $2,000,000 from Mr. Sean O’Sullivan ‘85. I think that Dr. P. Hajela (Dean of Undergraduate education at that time) and Dr. F. Luk (Professor of Computer Science) were instrumental in getting the fund. You will see a document describing RCOS Rationale in this directory. -->
+
+<!-- Initial donation was to the tune of $250,000.  Dr. Luk was the first director of this center (I think). On Dr. Luk’s resignation in 2007,  a call for directorship went to a few CS faculty members in March 2007.  The directorship has to be joint between Computer Science Department and Computer and Systems Engineering Department. Dr. B. Roysam was appointed from computer systems engineering department I was appointed from the computer science department. (I was the only person who volunteered ) -->
+
 > NOTE - all the content below was taking from the following [RCOS OverviewJan16,2018-old presentation](https://docs.google.com/presentation/d/1mX6wNaIBUDo1RnLvu1POPQGLMi4wp8OA44SbA5C7xHM/edit#slide=id.g827926ff0_0_0). It needs to be refined a bit more now that it's been ported to the RCOS handbook.
 
 ### Overview
@@ -13,11 +20,8 @@ Past and current leadership:
 - 2013-2016: Mukkai Krishnamoorthy, David Goldschmidt, co-Directors
 - 2016-present: Mukkai Krishnamoorthy, David Goldschmidt, Wes Turner, co-Directors/Advisor
 
-Gained momentum in 2007 with launch
-
-of Open Source Software course
-
-Funding rejuvenated by Red Hat in 2015
+Gained momentum in 2007 with launch of Open Source Software course
+Funding rejuvenated by Red Hat in 2015.
 
 ### Mission Statement
 
