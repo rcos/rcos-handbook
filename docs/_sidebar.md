@@ -46,6 +46,8 @@
 * Coordinating
   * [What are Coordinators?](coordinating/README.md)
   * [First Week Agenda](coordinating/agenda.md)
+  * [Observatory](coordinating/observatory.md)
+  * [Passwords](coordinating/passwords.md)
 
 * Faculty Advisor
   * [What are Faculty Advisors?](coordinating/README.md)

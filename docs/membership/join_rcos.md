@@ -23,3 +23,10 @@ If you're looking to get involved with RCOS as a member outside of RPI, email a 
 ## Finding an Open Source project to contribute to
 
 [Github Explore](https://github.com/explore) allows you to explore Github and find awesome open source projects to contribute to. Spend a good amount of time finding a project that you like. Don't be intimidated! Many projects that seem very complicated are actively looking for new contributors and will give you "easy" issues to get started. You'll learn fast! Feel free to tackle issues as a team.
+
+<!-- ## Paperwork and forms -->
+<!-- - URP forms, Course Credit Form, for Pay I9 form -->
+<!-- - Send the project proposal to rcos group mailing list  <rcos-at-rensselaer@googlegroups.com> for feedback -->
+
+<!-- http://www.rpi.edu/dept/cct/apps/undergrad/resources/PDFs/URP_Application_NoLines_FieldsV6Jan2016_TEST.pdf -->
+
