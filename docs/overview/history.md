@@ -23,83 +23,33 @@ Past and current leadership:
 Gained momentum in 2007 with launch of Open Source Software course
 Funding rejuvenated by Red Hat in 2015.
 
-### Mission Statement
+<!-- ### Mission Statement -->
 
-> To provide a creative, intellectual, and entrepreneurial outlet for students to use the latest open-source software platforms to develop applications that solve societal problems.
+<!-- > To provide a creative, intellectual, and entrepreneurial outlet for students to use the latest open-source software platforms to develop applications that solve societal problems. -->
 
-### Statistics
+<!-- ###### -->
 
-Total Number of Students: 1719+
+<!-- ### Hack Prizes (sampling) -->
 
-Total Number of Projects: 683+
+<!-- Chris Sprague (RCOS member) and his team team won an award in the Spark Innovation competition held on March 25, 2017 at Syracuse. -->
 
-### Achievements
+<!-- Charlie You’18 Third place in the Change the World Challenge, Spring 2017 for Chloe.a -->
 
-Past student projects and achievements include...
+<!-- Kathleen Burkhardt'19 for her RedFlag Project in HackRPI 2016 which won an award Best Domain and HackHarassment Project -->
 
-- [Concerto - Digital Signage](http://www.concerto-signage.com)
+<!-- Josh Makkinen '16 won Google API Prize (Bose Speaker) and the Best Hardware Hack (ssd) in  HackRPI 2015. -->
 
-HackRPI, RPITV, Ease and Seed
-https://www.youtube.com/watch?v=O7oHrGDqSZg
-https://www.youtube.com/watch?v=swRas8SOkZA&list=UUdjdB1nIknBxvez4jZaJR0w
-https://www.youtube.com/watch?v=Hz8OTz-Xnl4&list=UUm9MAsRymQPaXLsGVlrPnaA
-http://en.wikipedia.org/wiki/Seed_(programming)
+<!-- Jim Boulter '17 and Kiana McNellis '17 won the jetblue API award at YHack 2015 -->
 
+<!-- Eric Zhang ‘17 won the grandprize in YHack 2015 -->
 
-Course Scheduler
-http://j2ee6.server.rpi.edu:9090/web/guest/rpi-scheduler#rocs-welcome
+<!-- Aaron Perl '18 won the "Best Hardware Hack" in the HackRU 2015 (Hackathon at Rutgers University). -->
 
-YACS
-http://yacs.cs.rpi.edu
+<!-- Jacob Martin, Noah Goldman, Erin Quin, Satoshi Masura are  finalists in HackUMass’15 -->
 
-FastestFox Firefox Plugin
-https://addons.mozilla.org/en-US/firefox/addon/fastestfox-browse-faster/
+<!-- ### OSI Membership -->
 
-Observatory - Project Dashboard
-http://rcos.rpi.edu/projects/
-
-MobileNotifier (??)
-
-iPhone App Entrepreneur Book
-
-RPI ShuttleTracker
-http://shuttles.rpi.edu/
-
-Ease - GNOME Presentations
-http://www.ease-project.org/
-
-Astro-IQ
-https://rcos.io/projects/cisprague/astro.iq/profile
-
-Chrometana
-http://chrometana.theo.li/
-
-https://chrome.google.com/webstore/detail/chrometana-redirect-bing/kaicbfmipfpfpjmlbpejaoaflfdnabnc?hl=en
-
-https://www.youtube.com/watch?v=qedUbMYT0e4
-
-
-### Hack Prizes (sampling)
-
-Chris Sprague (RCOS member) and his team team won an award in the Spark Innovation competition held on March 25, 2017 at Syracuse.
-
-Charlie You’18 Third place in the Change the World Challenge, Spring 2017 for Chloe.a
-
-Kathleen Burkhardt'19 for her RedFlag Project in HackRPI 2016 which won an award Best Domain and HackHarassment Project
-
-Josh Makkinen '16 won Google API Prize (Bose Speaker) and the Best Hardware Hack (ssd) in  HackRPI 2015.
-
-Jim Boulter '17 and Kiana McNellis '17 won the jetblue API award at YHack 2015
-
-Eric Zhang ‘17 won the grandprize in YHack 2015
-
-Aaron Perl '18 won the "Best Hardware Hack" in the HackRU 2015 (Hackathon at Rutgers University).
-
-Jacob Martin, Noah Goldman, Erin Quin, Satoshi Masura are  finalists in HackUMass’15
-
-### OSI Membership
-
-We Became an Affiliate Member of OSI
+<!-- We Became an Affiliate Member of OSI -->
 
 ### RedHat Funding (2014-2015)
 
@@ -131,10 +81,3 @@ Thrust: To improve the overall quality of RCOS projects and to increase diversit
 - Increase projects using new hardware
 - Increased interaction with OSI and other universities
 - We are working to make RCOS a BIG part of Summer Arch!
-
-### Paperwork and forms
-- URP forms, Course Credit Form, for Pay I9 form
-- Send the project proposal to rcos group mailing list  <rcos-at-rensselaer@googlegroups.com> for feedback
-
-http://www.rpi.edu/dept/cct/apps/undergrad/resources/PDFs/URP_Application_NoLines_FieldsV6Jan2016_TEST.pdf
-
