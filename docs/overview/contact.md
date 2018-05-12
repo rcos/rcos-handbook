@@ -4,7 +4,7 @@
 - [coordinators@rcos.io](mailto:coordinators@rcos.io)
 
 ## Social Media
-- [GitHub](https://www.github.com/rcos)
+- [RCOS](https://www.github.com/rcos)
 - [Facebook](https://www.facebook.com/RCOSatRPI)
 - [Twitter](https://twitter.com/rcosrpi)
 
