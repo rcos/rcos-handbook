@@ -13,7 +13,7 @@ At the beginning of each semester, there will be a spreadsheet with time slots. 
 
 ## Format
 
-Tech talks can be longer than typical RCOS presentations, with a recommended maximum length of 10-15 minutes. If you would like to have a talk or longer than this, consider hosting a [bonus session](events/hosting) instead.
+Tech talks can be longer than typical RCOS presentations, with a recommended maximum length of 10-15 minutes. If you would like to have a talk for longer than this, consider hosting a [bonus session](events/hosting) instead.
 
 ## Topics
 
