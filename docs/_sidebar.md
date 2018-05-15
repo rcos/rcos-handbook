@@ -55,6 +55,7 @@
 * Student Resources
   * [Code Of Conduct](resources/CODE_OF_CONDUCT.md)
     * [Bylaws](resources/bylaws.md)
+    * [Anti-Harassment Guidelines](resources/harassment_guidelines.md)
   * [Presentation Slides](resources/slides.md)
   * [Resources](resources/README.md)
   * [Code Of Conduct Template](resources/code_of_conduct_template.md)

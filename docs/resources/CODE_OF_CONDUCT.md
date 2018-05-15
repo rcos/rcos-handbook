@@ -27,20 +27,22 @@ Examples of unacceptable behaviors include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
+* Public or private harassment as defined [here](resources/harassment_guidelines)
 * Publishing others’ private information, such as a physical or electronic address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Reporting Incidents
 
-At any point, you may report instances of CoC violations to RCOS faculty at <coordinators@rcos.io>. You, as well as any other witnesses, have the right to remain anonymous to the rest of the RCOS community.
+At any point, you may report instances of CoC violations to our [coordinators](https://rcos.github.io/rcos-handbook/#/coordinating/README) and [faculty advisors]() at <coordinators@rcos.io>. You, as well as any other witnesses, have the right to remain anonymous to the rest of the RCOS community.
+
+If you are uncomfortable reporting to the coordinators for any reason, you may reach out to a faculty advisor directly via our [Slack](https://rcos.slack.com/).
 
 ## Project Maintainer Responsibilities
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. In the case of contributors external to RPI and/or RCOS, temporary or permanent bans may occur. RPI-specific policies are outlined below.
 
 ## RPI-Specific Policies
-RPI-specific policies, including consequences for violating the RCOS Code of Conduct in the context of RCOS at RPI, can be found under our [Bylaws](resources/bylaws.md). Please review these if you are a student, mentor, or coordinator at RPI, as you will also be expected to follow these bylaws.
+RPI-specific policies, including consequences for violating the RCOS Code of Conduct in the context of RCOS at RPI, can be found under our [Bylaws](https://rcos.github.io/rcos-handbook/#/resources/bylaws). Please review these if you are a student, mentor, or coordinator at RPI, as you will also be expected to follow these bylaws.
 
 ## License and Attribution
 
-This Code of Conduct has been adapted with modifications from the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html) and the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). This Code of Conduct, like everything RCOS does, is open source and can be found in our [intro](https://github.com/rcos/intro) repository.
+This Code of Conduct has been adapted with modifications from the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html) and the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). This Code of Conduct, like everything RCOS does, is open source and can be found in our [rcos-handbook](https://github.com/rcos/rcos-handbook) repository.
