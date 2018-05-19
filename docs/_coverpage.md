@@ -1,17 +1,11 @@
-<!-- _coverpage.md -->
+<img src="https://raw.githubusercontent.com/rcos/rcos-branding/master/img/lockup-red.png" width="400px" alt="RCOS - Rensselaer Center for Open Source">
 
-<!-- ![Logo](https://raw.githubusercontent.com/aeksco/intro/docsify/slides/assets/logo.png) -->
+<hr style='width:40%; border-color:#da291c;'>
+<h1 style="color: #da291c">Handbook</h1>
+<p style="color: #da291c">version 0.1</p>
 
-# RCOS Handbook <small>version 0.1</small>
-
-> The Rensselaer Center for Open Source
-
-<!-- * Simple and lightweight (~19kB gzipped) -->
-<!-- * No statically built html files -->
-<!-- * Multiple themes -->
-
-<!-- [GitHub](https://github.com/QingWei-Li/docsify/) -->
+[GitHub](https://github.com/rcos/rcos-handbook/)
 <!-- [Get Started](#docsify) -->
 
 <!-- background color -->
-<!-- ![color](#ffffff) -->
+![color](#ffffff)

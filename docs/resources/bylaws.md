@@ -7,7 +7,7 @@ Attendance codes are given during all RCOS small group, large group, and bonus s
 
 As much as we value sharing and openness, we also value integrity. Thus, we ask that you do not distribute attendance codes to people who are not currently attending the session. If you are caught distributing attendance codes to people who are absent, **both your attendance code as well as the attendance code(s) you distributed to others will be nullified**.
 
-If you know in advance you will not be able to make an RCOS meeting, or unforeseen circumstances arise that make you unable to attend, please review our [Excused Absence Policy](grading/excused_absences.md) instead of attempting to enter an attendance code.
+If you know in advance you will not be able to make an RCOS meeting, or unforeseen circumstances arise that make you unable to attend, please review our [Excused Absence Policy](/grading/attendance?id=excused-absence-policy) instead of attempting to enter an attendance code.
 
 ## Noise
 An important part of RCOS is being able to hear from both fellow RCOS members and guest speakers. We ask that you please refrain from talking or making excessive noise while a speaker is talking as it can be disruptive to the speaker and to your peers.
@@ -18,7 +18,7 @@ During our large group sessions, we have the following policies.
 ### Presentations on Sensitive Topics (full policy TBD)
 > NOTE: this policy may be already implicit, but it may be necessary as we stray into more traditionally off-topic talks. This guideline is not set in stone, feel free to remove or revise if necessary. See comments in source code for more commentary.
 
-Please keep in mind that RCOS large group sessions are mandatory for all students currently in RCOS. Presentations containing detailed discussion of sensitive, upsetting, or controversial topics without warning can create an especially hostile environment when this attendance requirement is considered. 
+Please keep in mind that RCOS large group sessions are mandatory for all students currently in RCOS. Presentations containing detailed discussion of sensitive, upsetting, or controversial topics without warning can create an especially hostile environment when this attendance requirement is considered.
 
 <!--TODO: flesh out specifics of "sensitive topics".
 Preliminary list may include things like sex, violence, bigotry, drugs/alcohol, death, trauma, serious physical or mental illness, etc. However, it might be better to deal with these things on a case-by-case basis. E.g. a talk on inclusive sex education should be handled much differently than explicit and graphic discussion of pornography
@@ -52,8 +52,8 @@ If you violate the RCOS Community Code of Conduct or Bylaws, appropriate consequ
 * A request to edit or delete any blog posts, code, comments, issues, pull requests, milestones, wiki pages, social media posts, etc. that violate the Code of Conduct
 * If your large group talk or bonus session violates the Code of Conduct, your talk may be ended early and your slides will not be published to the #slides channel.
 * If the violation occurred at an RCOS event or meeting, you may be removed from the event or meeting. This will be marked as an unexcused absence regardless of whether or not you already entered an attendance code, and you will not be able to make up this absence by attending a bonus session.
-* In severe and repeated violations, you may be removed from RCOS entirely. 
-  * If you are taking RCOS for credit, you will receive a failing grade for the semester. 
+* In severe and repeated violations, you may be removed from RCOS entirely.
+  * If you are taking RCOS for credit, you will receive a failing grade for the semester.
   * If you are currently a mentor, your mentorship position will be terminated immediately and you will be ineligible to mentor in future semesters. The same rule applies to coordinators.
 
 Please note that the above list is not exhaustive and additional consequences may follow as appropriate.

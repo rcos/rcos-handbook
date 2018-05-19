@@ -1,11 +1,16 @@
 # Contact
 
-TODO - contact information goes here.
+## Email
+- [coordinators@rcos.io](mailto:coordinators@rcos.io)
 
-Information to include:
-- Social Media Links
-- Email Addresses
-- List of Faculty Advisors w/ contact information
-- Link to RCOS GitHub
-- Link to RCOS Mozilla Campus Network
-- Afilliated organizations - RPISec, UPE, HACK-RPI, else?
+## Social Media
+- [RCOS](https://www.github.com/rcos)
+- [Facebook](https://www.facebook.com/RCOSatRPI)
+- [Twitter](https://twitter.com/rcosrpi)
+
+## Affiliates
+- [Mozilla Open Source Student Network](https://opensource.mozilla.community/find-club/rensselaer-center-open-source-rcos/)
+- [RPI Web Technologies Group](https://webtech.union.rpi.edu/)
+- [RPISec](https://rpis.ec/)
+- [RPI UPE](http://www.cs.rpi.edu/~upe/)
+- [HackRPI](https://hackrpi.com)
