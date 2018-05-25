@@ -23,7 +23,7 @@ All of the following details need to be worked out within the first two weeks
 
 The first meeting is to be held on the first Tuesday or Friday of classes, whichever comes first.
 
-The first meeting begins with the [rcos introduction slides](https://rcos.github.io/intro), presented by the student coordinators. The slides go through the stucture of RCOS and how to participate. A faculty coordinator will then give a talk on the history of RCOS, and briefly explain some administrative details.
+The first meeting begins with the [introduction slides](https://gitpitch.com/rcos/rcos-handbook/master?p=slides/intro), presented by the student coordinators. The slides go through the stucture of RCOS and how to participate. A faculty coordinator will then give a talk on the [history](/overview/history) of RCOS, and briefly explain some administrative details.
 
 After the intro talk, mentors are announced and given the chance to introduce themselves. Mentors should say a few sentences about themselves and what experience they have.
 
