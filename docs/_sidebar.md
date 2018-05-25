@@ -19,8 +19,9 @@
   * [Tech Talks](events/tech_talks.md)
   * [Code Jams](events/code_jams.md)
   * [Hackathons](events/hackathons.md)
-  * [Accepted Students Day](events/accepted_students_day.md)
   * [RCOS Expo](events/expo.md)
+  * [Accepted Students Day](events/accepted_students_day.md)
+  * [NRB](events/nrb.md)
   * [Hosting an Event](events/hosting.md)
 
 * Grading
@@ -54,8 +55,8 @@
 
 * Student Resources
   * [Code Of Conduct](resources/CODE_OF_CONDUCT.md)
-    * [Bylaws](resources/bylaws.md)
-    * [Anti-Harassment Guidelines](resources/harassment_guidelines.md)
+  * [Bylaws](resources/bylaws.md)
+  * [Anti-Harassment Guidelines](resources/harassment_guidelines.md)
   * [Presentation Slides](resources/slides.md)
   * [Resources](resources/README.md)
   * [Code Of Conduct Template](resources/code_of_conduct_template.md)
