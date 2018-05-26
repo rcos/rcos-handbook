@@ -52,7 +52,7 @@
   * [Passwords](coordinating/passwords.md)
 
 * Faculty Advisor
-  * [What are Faculty Advisors?](coordinating/README.md)
+  * [What are Faculty Advisors?](coordinating/faculty.md)
 
 * Student Resources
   * [Code Of Conduct](resources/CODE_OF_CONDUCT.md)

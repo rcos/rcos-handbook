@@ -33,7 +33,7 @@ Examples of unacceptable behaviors include:
 
 ## Reporting Incidents
 
-This project is affiliated with [Rensselaer Center for Open Source](http://rcos.io) (RCOS). At any point, you may report instances of CoC violations to the RCOS [coordinators](https://rcos.github.io/rcos-handbook/#/coordinating/README) and [faculty advisors]() at <coordinators@rcos.io>. You, as well as any other witnesses, have the right to remain anonymous to the rest of the RCOS community.
+This project is affiliated with [Rensselaer Center for Open Source](http://rcos.io) (RCOS). At any point, you may report instances of CoC violations to the RCOS [coordinators](https://rcos.github.io/rcos-handbook/#/coordinating/README) and [faculty advisors](https://handbook.rcos.io/#/coordinating/faculty) at <coordinators@rcos.io>. You, as well as any other witnesses, have the right to remain anonymous to the rest of the RCOS community.
 
 If you are uncomfortable reporting to the coordinators for any reason, you may reach out to a faculty advisor directly via the RCOS [Slack](https://rcos.slack.com/).
 
@@ -41,7 +41,9 @@ If you are uncomfortable reporting to the coordinators for any reason, you may r
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. In the case of contributors external to RPI and/or RCOS, temporary or permanent bans may occur. RPI-specific policies are outlined in the RCOS [Bylaws](https://rcos.github.io/rcos-handbook/#/resources/bylaws).
 
 ## [Your Project]-Specific Guidelines
-Add any additional ground rules you would like your project team to follow (if any) here.
+Add any additional ground rules you would like your project team to follow (if any) here. 
+
+Ground rules regarding technical or project management aspects of your project should go in your Contributing Guidelines.
 
 ## License and Attribution
 
