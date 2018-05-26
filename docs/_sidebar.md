@@ -56,8 +56,8 @@
 
 * Student Resources
   * [Code Of Conduct](resources/CODE_OF_CONDUCT.md)
-    * [Bylaws](resources/bylaws.md)
-    * [Definition of Harassment](resources/harassment_guidelines.md)
+  * [Bylaws](resources/bylaws.md)
+  * [Definition of Harassment](resources/harassment_guidelines.md)
   * [Presentation Slides](resources/slides.md)
   * [Resources](resources/README.md)
   * [Code Of Conduct Template](resources/code_of_conduct_template.md)
