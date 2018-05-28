@@ -11,6 +11,7 @@
   * [What You'll Need](membership/requirements.md)
   <!-- * [Project Pitch](membership/speed_dating.md) -->
   * [Speed Dating](membership/speed_dating.md)
+  * [New Projects](membership/new_projects.md)
 
 * Events
   * [Large Group Meetings](events/large_group_meetings.md)
@@ -27,6 +28,7 @@
   * [Overview](grading/README.md)
   * [Rubric](grading/rubric.md)
   * [Attendance](grading/attendance.md)
+  * [Documentation](grading/documentation.md)
   * [Status Updates](grading/status_updates.md)
   * [Flex](grading/flex.md)
   * [Appeal Policies](grading/appeal_policies.md)
@@ -50,12 +52,12 @@
   * [Passwords](coordinating/passwords.md)
 
 * Faculty Advisor
-  * [What are Faculty Advisors?](coordinating/README.md)
+  * [What are Faculty Advisors?](coordinating/faculty.md)
 
 * Student Resources
   * [Code Of Conduct](resources/CODE_OF_CONDUCT.md)
-    * [Bylaws](resources/bylaws.md)
-    * [Anti-Harassment Guidelines](resources/harassment_guidelines.md)
+  * [Bylaws](resources/bylaws.md)
+  * [Definition of Harassment](resources/harassment_guidelines.md)
   * [Presentation Slides](resources/slides.md)
   * [Resources](resources/README.md)
   * [Code Of Conduct Template](resources/code_of_conduct_template.md)
