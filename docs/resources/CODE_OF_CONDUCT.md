@@ -27,13 +27,13 @@ Examples of unacceptable behaviors include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment as defined [here](resources/harassment_guidelines)
+* Public or private harassment as defined [here](https://handbook.rcos.io/resources/harassment_guidelines)
 * Publishing others’ private information, such as a physical or electronic address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Reporting Incidents
 
-At any point, you may report instances of CoC violations to our [coordinators](https://rcos.github.io/rcos-handbook/#/coordinating/README) and [faculty advisors]() at <coordinators@rcos.io>. You, as well as any other witnesses, have the right to remain anonymous to the rest of the RCOS community.
+At any point, you may report instances of CoC violations to our [coordinators](https://rcos.github.io/rcos-handbook/#/coordinating/README) and [faculty advisors](https://handbook.rcos.io/#/coordinating/faculty) at <coordinators@rcos.io>. You, as well as any other witnesses, have the right to remain anonymous to the rest of the RCOS community.
 
 If you are uncomfortable reporting to the coordinators for any reason, you may reach out to a faculty advisor directly via our [Slack](https://rcos.slack.com/).
 
