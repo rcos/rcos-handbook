@@ -9,3 +9,4 @@ This document outlines the the administrative workflow in [Observatory](http://r
 
 ### End of Semester Workflow
 1. Mark all users as `Inactive` on the `/admin/users` page.
+2. Manually deactive any currently inactive projects
