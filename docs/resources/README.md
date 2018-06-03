@@ -1,14 +1,17 @@
 # Helpful Resources
 Whether you're completely new to programming or you feel ready to tackle advanced topics like deep learning, we have plenty of resources! In addition to consulting the online resources, feel free to reach out to mentors or coordinators as well.
+
 ## Open Source
 
 [Intro to Open Source Class Materials](https://github.com/rcos/CSCI2963-01-Spring2017)
 
-[Github Tutorial](https://try.github.io/levels/1/challenges/1)
+[GitHub Tutorial](https://try.github.io/levels/1/challenges/1)
 
 [Open Source Initiative](https://opensource.org/)
 
 [Mozilla Open Source Student Network](https://opensource.mozilla.community/)
+
+[GitHub Student Developer Pack](https://education.github.com/pack)
 
 ## Python
 
