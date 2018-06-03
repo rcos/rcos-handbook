@@ -56,12 +56,14 @@
   * [What are Faculty Advisors?](coordinating/faculty.md)
 
 * Student Resources
-  * [Code Of Conduct](resources/CODE_OF_CONDUCT.md)
-  * [Bylaws](resources/bylaws.md)
-  * [Definition of Harassment](resources/harassment_guidelines.md)
   * [Presentation Slides](resources/slides.md)
   * [Resources](resources/README.md)
-  * [Code Of Conduct Template](resources/code_of_conduct_template.md)
+
+* Community Standards
+  * [Code Of Conduct](community/CODE_OF_CONDUCT.md)
+  * [Bylaws](community/bylaws.md)
+  * [Definition of Harassment](community/harassment_guidelines.md)
+  * [Code Of Conduct Template](community/code_of_conduct_template.md)
 
 * Branding
   * [Assets](resources/brand_assets.md)
