@@ -58,12 +58,12 @@
 * Student Resources
   * [Presentation Slides](resources/slides.md)
   * [Resources](resources/README.md)
+  * [Code Of Conduct Template](community/code_of_conduct_template.md)
 
 * Community Standards
   * [Code Of Conduct](community/CODE_OF_CONDUCT.md)
   * [Bylaws](community/bylaws.md)
   * [Definition of Harassment](community/harassment_guidelines.md)
-  * [Code Of Conduct Template](community/code_of_conduct_template.md)
 
 * Branding
   * [Assets](resources/brand_assets.md)
