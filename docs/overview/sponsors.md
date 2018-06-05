@@ -1,13 +1,5 @@
 # Sponsors
 
-TODO - information regarding sponsors goes here.
-
-Information to include:
-- list of current sponsors
-- how to become a sponsor
-- how to donate to RCOS
-- contact information
-
 ## Companies
 
 - [RedHat](https://www.redhat.com/)
@@ -28,3 +20,7 @@ Information to include:
 - [The Humanitarian FOSS Project](http://www.hfoss.org/index.php/contact-us)
   - Affliated member with Trinity, Connecticut College and Wesleyan University
 
+<!-- TODO - address the following: -->
+<!-- - how to become a sponsor -->
+<!-- - how to donate to RCOS -->
+<!-- - link to contact information -->
