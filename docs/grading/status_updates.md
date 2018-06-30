@@ -27,4 +27,4 @@ Please include links to any of the following:
   - Presentations
   - Bonus Sessions
 
-  See the [rcos-status-updates](https://github.com/rcos/rcos-status-updates) GitHub repository for information on how to get started.
+See the [rcos-status-updates](https://github.com/rcos/rcos-status-updates) GitHub repository for information on how to get started.
