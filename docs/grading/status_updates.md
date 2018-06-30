@@ -15,8 +15,10 @@
 Each student maintains their respective status updates in GitHub repository forked from [rcos/rcos-status-updates](https://github.com/rcos/rcos-status-updates). Please consult the `rcos/rcos-status-updates` repository for information on how to get started.
 
 ## Requirements
-- Write one status update every other week
-- Status Update should include links to any work
+
+Each week at the beginning of small group meeting write a few sentences that detail what you've worked on during the past week, what you want to work on this coming week, and what (if anything) is blocking your ongoing progress.
+
+Please include links to any of the following:
   - GitHub Issues
   - GitHub Pull-Requests
   - Blog Posts (project or team)
@@ -24,3 +26,5 @@ Each student maintains their respective status updates in GitHub repository fork
   - Sick Picks
   - Presentations
   - Bonus Sessions
+
+  See the [rcos-status-updates](https://github.com/rcos/rcos-status-updates) GitHub repository for information on how to get started.
