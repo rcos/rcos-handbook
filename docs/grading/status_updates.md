@@ -19,12 +19,12 @@ Each student maintains their respective status updates in GitHub repository fork
 Each week at the beginning of small group meeting write a few sentences that detail what you've worked on during the past week, what you want to work on this coming week, and what (if anything) is blocking your ongoing progress.
 
 Please include links to any of the following:
-  - GitHub Issues
-  - GitHub Pull-Requests
-  - Blog Posts (project or team)
-  - Lightning Talks
-  - Sick Picks
-  - Presentations
-  - Bonus Sessions
+- GitHub Issues
+- GitHub Pull-Requests
+- Blog Posts (project or team)
+- Lightning Talks
+- Sick Picks
+- Presentations
+- Bonus Sessions
 
 See the [rcos-status-updates](https://github.com/rcos/rcos-status-updates) GitHub repository for information on how to get started.
