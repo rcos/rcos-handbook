@@ -45,6 +45,7 @@
 * Mentoring
   * [What are Mentors?](mentoring/README.md)
   * [Training](mentoring/training.md)
+  * [Mentor Replacement Policy](mentoring/replacement.md)
 
 * Coordinating
   * [What are Coordinators?](coordinating/README.md)

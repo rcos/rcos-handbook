@@ -1,6 +1,6 @@
 # Bylaws
 
-Our Bylaws are an extension of our [Code of Conduct](resources/CODE_OF_CONDUCT.md). The Bylaws apply to RCOS meetings at RPI, including large group and small group meetings as well as bonus sessions, casual coding sessions, and any project meetings unless otherwise noted.
+Our Bylaws are an extension of our [Code of Conduct](community/CODE_OF_CONDUCT.md). The Bylaws apply to RCOS meetings at RPI, including large group and small group meetings as well as bonus sessions, casual coding sessions, and any project meetings unless otherwise noted.
 
 ## Attendance Codes
 Attendance codes are given during all RCOS small group, large group, and bonus sessions. When the attendance code is delivered, go to http://rcos.io, click "Attend", and enter the attendance code so you can be marked as present for the current session.

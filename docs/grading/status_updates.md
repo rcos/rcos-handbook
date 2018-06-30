@@ -20,3 +20,7 @@
   - Sick Picks
   - Presentations
   - Bonus Sessions
+
+## How to Submit Status Updates
+
+Instructions on how to submit status updates can be found in our [status-updates](https://github.com/rcos/rcos-status-updates) repo.
