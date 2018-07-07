@@ -18,7 +18,8 @@ Past and current leadership:
 - 2007-2010: Badri Roysam, Mukkai Krishnamoorthy, co-Directors
 - 2010-2013: Mukkai Krishnamoorthy, Director
 - 2013-2016: Mukkai Krishnamoorthy, David Goldschmidt, co-Directors
-- 2016-present: Mukkai Krishnamoorthy, David Goldschmidt, Wes Turner, co-Directors/Advisor
+- 2016-2018: Mukkai Krishnamoorthy, David Goldschmidt, Wes Turner, co-Directors/Advisor
+- 2018-present: David Goldschmidt, Wes Turner, co-Directors/Advisor
 
 Gained momentum in 2007 with launch of Open Source Software course
 Funding rejuvenated by Red Hat in 2015.
