@@ -50,7 +50,7 @@ A brief overview of small group meetings for RCOS members can be found [here](ev
   - Verifying members
 
 ### Handling Code of Conduct Violations
-Please familiarize yourselves with our [Code of Conduct](resources/CODE_OF_CONDUCT) and [Bylaws](resources/bylaws). As a mentor, you are not only expected to follow these, but to enforce them where appropriate. 
+Please familiarize yourselves with our [Code of Conduct](community/CODE_OF_CONDUCT) and [Bylaws](community/bylaws). As a mentor, you are not only expected to follow these, but to enforce them where appropriate. 
 
 Any violations warranting more than a verbal/Slack warning (e.g. repeated offenses, harassment) should be reported to coordinators/faculty advisors, who will then determine the appropriate action(s) necessary.
 
@@ -60,3 +60,6 @@ Example enforcing manuals:
 Ada Initiative template: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports
 Django project enforcement manual: https://www.djangoproject.com/conduct/enforcement-manual/
 -->
+
+### Q&A
+Current mentors and coordinators will be present at each training event to answer any questions you may have about mentorship.
