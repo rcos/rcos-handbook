@@ -1,6 +1,6 @@
 # Mentor Replacement Policy
 
-We understand that mentors and coordianators may leave during the semester due to unforeseen circumstances. The following document establishes protocol for when mentors leave during the semester.
+We understand that mentors and coordinators may leave during the semester due to unforeseen circumstances. The following document establishes protocol for when mentors leave during the semester.
 
 Please note that this policy is a work in progress.
 
@@ -26,9 +26,11 @@ If there are still people on the waitlist after the first month of the semester,
 
 If a coordinator leaves at any point during the semester, a new coordinator may be selected from the current mentors. Any mentors considered must have at least 1-2 semesters' worth of mentorship experience.
 
-If a coordinator resigns or is terminated due to Code of Conduct violations, faculty advisors must select a new coordinator to prevent conflicts of interest.
+If a coordinator resigns or is terminated due to severe and repeated Code of Conduct violations, faculty advisors must select a new coordinator to prevent conflicts of interest.
 
 In all other circumstances, the current coordinators, including the coordinator leaving, may assist in selecting a new coordinator.
+
+Since coordinators are mentors as well, the mentor replacement policy below outlines the protocol for choosing a new mentor or moving mentors between small groups.
 
 ## Replacing Mentors
 
@@ -44,7 +46,7 @@ If there is no waitlist, an emergency mentorship application will be sent out an
 
 If there is no waitlist and we do not get any applicants from the emergency application within 1 full week, we may follow the mid-semester procedure of moving mentors between small groups.
 
-If a mentor resigns or is terminated due to severe and repeated Code of Conduct violations, it is solely the coordinators' responsibility to choose a new mentor from the waitlist or from the emergency application.
+If a mentor resigns or is terminated due to severe and repeated Code of Conduct violations, it is solely the coordinators' and faculty advisors' responsibility to choose a new mentor from the waitlist or from the emergency application. If the mentor in question is also a coordinator, faculty advisors must select a new mentor.
 
 In all other circumstances barring the passing of a mentor, the mentor leaving may assist in selecting a new mentor.
 
