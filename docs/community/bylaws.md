@@ -36,7 +36,7 @@ RCOS likes to maintain a culture of freedom. If you choose to use your laptop or
 * Not participating in audio or video calls
 * Ensuring any material that may be visible on your screen is SFW (safe for work)
 * Keeping mobile devices on "Silent" or "Vibrate"
-* Using your device's keyboard instead of a mechanical keyboard
+* Using a quiet keyboard instead of a loud keyboard
 
 In addition, some speakers may ask audience members to close all laptops and put away all mobile devices. If a speaker does so, please respect their request.
 
