@@ -1,11 +1,17 @@
 # Mentor Training
 
 ## Overview
-- Proposed timeslots 
 - Topics to cover
+- Slides
 
 ## Mentor Training Event(s)
 Welcome to the RCOS mentor team! At the beginning of each semester, we hold mentor training sessions to help get our new mentors started.
+
+Mentor training is required for all new mentors and returning mentors who have not mentored in at least 2 semesters and did not complete mentor training prior to becoming a mentor.
+
+All other returning mentors are not required to attend mentor training, but are welcome to assist the coordinators in facilitating mentor training.
+
+External mentors are not required to complete mentor training, but are encouraged to review the mentor training slides.
 
 ## Topics Covered in Mentor Training
 Below is a rough outline of what will be covered in the training sessions.
@@ -54,3 +60,7 @@ Django project enforcement manual: https://www.djangoproject.com/conduct/enforce
 
 ### Q&A
 Current mentors and coordinators will be present at each training event to answer any questions you may have about mentorship.
+
+## Mentor Training Slides
+
+The mentor training slides can be accessed in [our presentations repository](https://github.com/rcos/presentations/tree/master/mentor-training) (source code) and online at [https://rcos.github.io/presentations/mentor-training/](https://rcos.github.io/presentations/mentor-training/)  (compiled presentation).
