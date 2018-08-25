@@ -7,15 +7,6 @@
 ## Mentor Training Event(s)
 Welcome to the RCOS mentor team! At the beginning of each semester, we hold mentor training sessions to help get our new mentors started.
 
-Our training sessions for Fall 2018 will occur on the following dates and times in [location TBD]:
-<!-- 
-Ideally, we should have at least one timeslot on or after August 27th since that is the earliest time that upperclassmen residence halls/on campus apartments open. 
-However, we should ideally host our training session before our first large group or before our second large group (Tuesday) at the very latest. 
--->
-  - TBD 
-
-If you are unable to physically attend the session(s), Hangouts links will be provided.
-
 ## Topics Covered in Mentor Training
 Below is a rough outline of what will be covered in the training sessions.
 
