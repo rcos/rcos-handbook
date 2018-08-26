@@ -35,5 +35,12 @@ The above list is not exhaustive. If you are unsure about what constitutes an ex
 
 Excused absences do **not** need to be made up with a bonus session (but you are encouraged to come to bonus sessions regardless!).
 
-## How to Request an Excused Absence on Observatory
-This feature is coming soon!
+### Requesting Excused Absences
+
+Currently, in order to request an excused absence, you must contact a coordinator or faculty advisor.
+
+In the future, functionality will be implemented to request excused absences through Observatory!
+
+## Resolving Attendance Issues
+
+**TODO**: See [issue #66](https://github.com/rcos/rcos-handbook/issues/66) on our Github repository.
