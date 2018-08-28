@@ -15,19 +15,17 @@ An important part of RCOS is being able to hear from both fellow RCOS members an
 ## During Large Group
 During our large group sessions, we have the following policies.
 
-### Presentations on Sensitive Topics (full policy TBD)
-> NOTE: this policy may be already implicit, but it may be necessary as we stray into more traditionally off-topic talks. This guideline is not set in stone, feel free to remove or revise if necessary. See comments in source code for more commentary.
+### Presentations on Sensitive Topics
 
 Please keep in mind that RCOS large group sessions are mandatory for all students currently in RCOS. Presentations containing detailed discussion of sensitive, upsetting, or controversial topics without warning can create an especially hostile environment when this attendance requirement is considered.
 
-<!--TODO: flesh out specifics of "sensitive topics".
-Preliminary list may include things like sex, violence, bigotry, drugs/alcohol, death, trauma, serious physical or mental illness, etc. However, it might be better to deal with these things on a case-by-case basis. E.g. a talk on inclusive sex education should be handled much differently than explicit and graphic discussion of pornography
+Presentations should not include any content that violates our [Code of Conduct](community/CODE_OF_CONDUCT) or contains:
+- Graphic violence or descriptions of violence
+- Detailed and explicit discussions of potentially triggering topics (e.g. suicide, sexual assault, addiction, self-harm)
+- Excessive profanity
+- Nudity
 
-[//]: # (Possible options for sensitive topics shall they arise:)
-[//]: # (- Keep any mention of sensitive topics brief, respectful, and non-descript in nature)
-[//]: # (- Link to further reading on material, providing appropriate content warnings and resources for help dealing with such topics/triggers if necessary)
-[//]: # (- Consider whether talk would be more appropriate as a non-mandatory session where students can easily pick an alternate activity)
-[//]: # (- Touch base with a coordinator or faculty member to further discuss options for your talk)-->
+If you're unsure about whether or not your talk conforms to the above guidelines, please reach out to a mentor or coordinator to discuss.
 
 ### Laptops/Mobile Devices
 RCOS likes to maintain a culture of freedom. If you choose to use your laptop or mobile device during large group presentations, you may do so as long as you are mindful of the people around you. This includes:
@@ -48,8 +46,8 @@ If you use assistive technology due to a documented disability or injury, or you
 If you violate the RCOS Community Code of Conduct or Bylaws, appropriate consequences will follow at the discretion of faculty. These may include:
 
 * A verbal or Slack warning from a mentor or coordinator
-* A written warning from a faculty member
-* A request to edit or delete any blog posts, code, comments, issues, pull requests, milestones, wiki pages, social media posts, etc. that violate the Code of Conduct
+* A written warning from a faculty advisor
+* A request to edit or delete any project material that violates the Code of Conduct. Project material includes, but is not limited to, status updates, blog posts, code, comments, issues, pull requests, milestones, wiki pages, static websites, graphics, social media posts, etc. 
 * If your large group talk or bonus session violates the Code of Conduct, your talk may be ended early and your slides will not be published to the #slides channel.
 * If the violation occurred at an RCOS event or meeting, you may be removed from the event or meeting. This will be marked as an unexcused absence regardless of whether or not you already entered an attendance code, and you will not be able to make up this absence by attending a bonus session.
 * In severe and repeated violations, you may be removed from RCOS entirely.
