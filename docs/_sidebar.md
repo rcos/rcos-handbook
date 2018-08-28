@@ -13,14 +13,15 @@
   * [Speed Dating](membership/speed_dating.md)
   * [New Projects](membership/new_projects.md)
 
+* Meetings
+  * [Large Group Meetings](meetings/large_group_meetings.md)
+  * [Small Group Meetings](meetings/small_group_meetings.md)
+
 * Events
-  * [Large Group Meetings](events/large_group_meetings.md)
-  * [Small Group Meetings](events/small_group_meetings.md)
   * [Casual Coding Sessions](events/casual_coding_sessions.md)
   * [Tech Talks](events/tech_talks.md)
   * [Code Jams](events/code_jams.md)
   * [Hackathons](events/hackathons.md)
-  * [RCOS Expo](events/expo.md)
   * [Accepted Students Day](events/accepted_students_day.md)
   * [NRB](events/nrb.md)
   * [Hosting an Event](events/hosting.md)
