@@ -35,13 +35,14 @@
   * [Flex](grading/flex.md)
   * [Appeal Policies](grading/appeal_policies.md)
 
-* Teams
-  * [What are RCOS Teams?](teams/README.md)
-  * [Public Relations](teams/public_relations.md)
-  * [Sponsorship](teams/sponsorship.md)
-  * [Outreach](teams/outreach.md)
-  * [Event Planning](teams/event_planning.md)
-  * [Professional Development](teams/professional_development.md)
+* Work Groups
+  * [Archival](work_groups/archival.md)
+  * [Events Planning](work_groups/events_planning.md)
+  * [Inventory](work_groups/inventory.md)
+  * [Outreach](work_groups/outreach.md)
+  * [Public Relations](work_groups/public_relations.md)
+  * [Sponsorship](work_groups/sponsorship.md)
+  * [Student Resources](work_groups/student_resources.md)
 
 * Mentoring
   * [What are Mentors?](mentoring/README.md)
