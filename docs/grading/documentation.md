@@ -30,11 +30,13 @@ At the beginning of the semester, your team should write a proposal. Keep this i
 [Pandoc](https://pandoc.org/) is an excellent tool for converting between markup formats, including converting from PDF/Word documents to Markdown.
 
 ## Code of Conduct
-Our Community Code of Conduct outlines what we expect from members of the RCOS community. As your project grows, a community will hopefully grow with it. Your project is never too small to have a Code of Conduct in place to outline community guidelines and foster a welcoming community.
+Our Community Code of Conduct outlines what we expect from members of the RCOS community. As your project grows, a community will hopefully grow with it. Your project is never too small to have a Code of Conduct in place to outline community guidelines and foster a welcoming community. You may use any Code of Conduct you wish, as long as it is compatible with our Community Code of Conduct.
 
-We at RCOS have created a [Code of Conduct template](https://github.com/rcos/rcos-handbook/blob/master/docs/resources/code_of_conduct_template.md) for your project based on our Code of Conduct. If you wish to use it, create a file in your repository's root folder called `CODE_OF_CONDUCT.md` and copy and paste the text, changing `[Your Project]` to your project's name.
+We at RCOS have created a [Code of Conduct template](https://github.com/rcos/rcos-handbook/blob/master/docs/community/code_of_conduct_template.md) for your project based on our Code of Conduct. If you wish to use it, create a file in your repository's root folder called `CODE_OF_CONDUCT.md` and copy and paste the text, changing `[Your Project]` to your project's name.
 
 Another popular option is the [Contributor Covenant](https://www.contributor-covenant.org/) Code of Conduct, which can be dropped into your project very easily (and in fact, part of our Code of Conduct was modified from the Contributor Covenant).
+
+If you would like to use another Code of Conduct, most existing Code of Conduct templates are compatible with our Community Code of Conduct. The only Code of Conduct templates which are **not** compatible with the RCOS Community Code of Conduct are those based on a "No Code of Conduct" policy.
 
 ## Contributing Guidelines
 Your contributing guidelines should outline how to contribute to your project via issues or pull requests. 

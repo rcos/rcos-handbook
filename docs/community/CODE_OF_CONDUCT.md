@@ -27,7 +27,7 @@ Examples of unacceptable behaviors include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment as defined [here](https://handbook.rcos.io/resources/harassment_guidelines)
+* Public or private harassment as defined [here](https://handbook.rcos.io/#/community/harassment_guidelines)
 * Publishing others’ private information, such as a physical or electronic address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
@@ -41,7 +41,7 @@ If you are uncomfortable reporting to the coordinators for any reason, you may r
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. In the case of contributors external to RPI and/or RCOS, temporary or permanent bans may occur. RPI-specific policies are outlined below.
 
 ## RPI-Specific Policies
-RPI-specific policies, including consequences for violating the RCOS Code of Conduct in the context of RCOS at RPI, can be found under our [Bylaws](https://rcos.github.io/rcos-handbook/#/resources/bylaws). Please review these if you are a student, mentor, or coordinator at RPI, as you will also be expected to follow these bylaws.
+RPI-specific policies, including consequences for violating the RCOS Code of Conduct in the context of RCOS at RPI, can be found under our [Bylaws](https://rcos.github.io/rcos-handbook/#/community/bylaws). Please review these if you are a student, mentor, or coordinator at RPI, as you will also be expected to follow these bylaws.
 
 ## License and Attribution
 
