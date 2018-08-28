@@ -27,6 +27,6 @@ If you have a Windows PC, we highly recommend installing a Linux distribution. [
 TODO - recommendations for hardware projects-->
 
 ### Windows Recommendations
-- [Docker]()
-- [VirtualBox]()
-- [GitHub Desktop]()
+- [Docker](https://www.docker.com/products/docker-desktop)
+- [VirtualBox](https://www.virtualbox.org/)
+- [GitHub Desktop](https://desktop.github.com/)
