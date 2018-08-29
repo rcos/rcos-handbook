@@ -38,6 +38,12 @@ Excused absences do **not** need to be made up with a bonus session (but you are
 
 Currently, in order to request an excused absence, you must contact a coordinator or faculty advisor.
 
+For foreseen absences (e.g. hackathons, conferences, job/grad school interviews, etc), this must be done at least 48 hours in advance of the first session you will miss.
+
+For unforeseen absences (e.g. illness, family emergency), this must be done within 1 week of returning to RCOS.
+
+For extenuating circumstances, please speak to a coordinator or faculty advisor directly.
+
 In the future, functionality will be implemented to request excused absences through Observatory!
 
 ## Resolving Attendance Issues
