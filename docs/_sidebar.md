@@ -36,8 +36,9 @@
   * [Appeal Policies](grading/appeal_policies.md)
 
 * Work Groups
+  * [Overview](work_groups/README.md)
   * [Archival](work_groups/archival.md)
-  * [Events Planning](work_groups/events_planning.md)
+  * [Event Planning](work_groups/event_planning.md)
   * [Inventory](work_groups/inventory.md)
   * [Outreach](work_groups/outreach.md)
   * [Public Relations](work_groups/public_relations.md)
