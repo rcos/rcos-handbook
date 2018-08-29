@@ -1,19 +1,11 @@
 # Public Relations Work Group
+The goals of the Public Relations Work Group are to maintain, grow, and refine the public-facing aspects of RCOS. This includes managing RCOS social media outlets, curating the [RCOS Blog](https://blog.rcos.io), participating actively in alumni outreach, and producing a quarterly RCOS Newsletter.
 
-## Overview
-The goals of the Public Relations Work Group are to...
-
-<!-- coordinate volunteer efforts and cultivate on-going relationships with the outside organizations these efforts benefit. While RCOS volunteer efforts may often be technical in nature, non-technical charitable work is also encouraged. -->
-
-## Responsibilities
-- RCOS Blog - Editing, curation, etc.
-- Mozilla Open Source Student Network
-- Social Media
-- Newsletter
-- Alumni outreach
-
-NOTE - due to the public facing nature of this Work Group, there will be some additional oversight
-
-Manages RCOS blog, social media, newsletter, alumni outreach, and Mozilla Open Source Student Network tasks.
-
-Interfaces with other campus clubs in the Mozilla Open Source Student Network to coordinate projects between schools
+### Responsibilities
+- Verifying that our public-facing elements conform to our [brand standards](/resources/brand_standards)
+- Promoting the efforts of other [Work Groups](/work_groups/README) on social media
+- Curating and Editing the [RCOS Blog](https://blog.rcos.io)
+- Miscellaneous Social Media management
+- Producing a quarterly RCOS Newsletter
+- Creating and maintaining an RCOS mailing list (to which the afformentioned Newsletter will be dispatched)
+- Engaging with RCOS alumni

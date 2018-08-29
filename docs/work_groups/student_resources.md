@@ -1,11 +1,12 @@
 # Student Resources Work Group
+The goals of the Student Resources Work Group are to develop instructional materials for RCOS, curate a list of free resources for student developers, document best-practices for on-boarding new members, and discover projects to which RCOS students can make meaningful contributions.
 
-## Overview
-The goals of the Student Resources Work Group are to...
-
-<!-- coordinate volunteer efforts and cultivate on-going relationships with the outside organizations these efforts benefit. While RCOS volunteer efforts may often be technical in nature, non-technical charitable work is also encouraged. -->
-
-## Responsibilities
-- curates materials for self-education in RCOS
-- curates and maintains slide decks used at the beginning and end of semester
-- curate list of materials for self-education and free resources for student developer (GitHub student pack, Microsoft Dream Spark, etc.)
+### Responsibilities
+- Develop and curate instructional materials for RCOS
+- Document recommended operating systems and software for new members
+- Interface with other campus clubs in the [MOSSN](https://opensource.mozilla.community/) to find opportunities for collaboration
+- Curate a list of external projects to which RCOS students may contribute
+- Assist in the maintenance of RCOS Handbook and presentation slides
+- Curate a list of free resources for student developers, i.e.
+  - [GitHub Student Developer Pack](https://education.github.com/pack)
+  - [Microsoft Azure for Students](https://imagine.microsoft.com/en-us/Catalog/Product/99)

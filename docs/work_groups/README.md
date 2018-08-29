@@ -1,23 +1,12 @@
 # Work Groups
 
-Work Groups provide students flexible opportunities to develop their leadership skills and support RCOS as an organization.
+Work Groups provide students flexible opportunities to develop their leadership skills and make meaningful contributions to growing and maintaining RCOS as a leading campus organization. All Work Group positions are volunteer based and members are free to leave at anytime, though students enrolled in RCOS are encouraged to finish out the semester when possible.
 
-- If you work on a team you are essentially working on things that are important to running RCOS
-
-- All positions are volunteer based - no elections, not ever. Why no elections? We have chosen not to have elections as they often create more problems than they solve.
-
-- Some of these responsibilities mirror those of a campus club.
-
-- If you think there should be another work group, please [open an issue]().
-
-- NOTE - work groups and not set in stone. Some groups may be combined or split up as their respective responsibilities evolve.
-
-- Teams are open to RCOS students, faculty, and alumni.
-
-The goals of RCOS Work Groups are:
+### Goals
+The overarching goals of RCOS Work Groups are to:
 - Provide opportunities for the broader RCOS community to have a role in running the organization
 - Expand the reach of the organization and its ideals both inside and outside of RPI
-- TODO - describe the purpose of RCOS Work Groups
+- Reduce managerial overhead previously delegated exclusively to coordinators
 
 ### RCOS Work Groups
 - [Archival](/archival.md)
@@ -28,27 +17,40 @@ The goals of RCOS Work Groups are:
 - [Sponsorship](/sponsorship.md)
 - [Student Resources](/student_resources.md)
 
+This list should grow and change over time. Some groups may be combined or split up as their respective responsibilities evolve, and some groups may become inactive or defunct.
+
+If you have an idea for a new Work Group, or would like to change an existing one, please [open an issue](https://github.com/rcos/handbook/issues/new) and share your thoughts :)
+
 ### Requirements
-- Consist of at least one mentor (student or alumni) and one non-mentor
-- Each work group should have at least one mentor to manage on-going work
-- Each team should have one mentor as a leader
-- Each work group should have their own slack channel
-- Each work group should produce documentation and/or blog posts detailing their efforts
-- Each work group must schedule time to meet outside of RCOS to coordinate efforts. Meetings may be held in-person or remotely.
+All RCOS Work Groups must meet the following requirements each semester:
+- Consist of at least one mentor (student or alumni) and one non-mentor (2 member minimum)
+- Must not exceed more than 8 members (keeps things manageable)
+- Maintain their own dedicated Slack channel
+- Produce at least one blog post  _per-group_ per-semester summarizing their efforts
+- Meet **at least four times** during the semester as a team. Meetings may be held in-person or remotely.
 
 ### Joining a Work Group
-- TODO - document the process of joining a team (sign up forms, no elections!)
-- Document how to go into a team:
-  - fill out the form
-  - join the slack channel
+Work Group positions are open to all RCOS students, alumni, and faculty. Please consult the following steps to join a group:
+- Fill out the [Work Group Sign Up](__TODO - add link to Google Form__) form
+- Join the Work Group's Slack channel
 
 ### Leading a Work Group
-- TODO - document the process of leading a work group
-- Responsible for organizing bi-monthly meetings / calls
-- Responsible for writing and publishing minutes from said meetings
-- Evaluate the on-going efforts of work group membership
-- Concept and document the granular tasks the group will undertake during the semester
-- TODO - where should minutes be placed?
+Leading a Work Group requires more responsibility than simply being a member of one. Group leaders are expected to take ownership of the following duties:
+- Defining and documenting the granular tasks the group will undertake during the semester
+- Organizing meetings / calls
+- Publishing minutes from group meetings
+- Writing a brief evaluation of each work group member at the end of the semester
+
+### Leaving a Work Group
+By default, each Work Group's membership will reset at the beginning of each semester. Students are encouraged to continue their efforts
 
 ### Defunct Work Groups
 If there are no students or alumni available or willing to manage a Work Group, it should designated as _defunct_. Should a Work Group become defunct, the link to its documentation should be removed from the RCOS handbook's sidebar and moved into this section. This method enables future members find defunct groups and resurrect them if they desire.
+
+**Defunct Work Groups**
+- _No Defunct Work Groups yet :)_
+
+### QUESTIONS
+- TODO - where should minutes be placed? GitHub repository, blog?
+- TODO - where should the manifest of groups and respective members be maintained?
+- TODO - create the `Work Group Sign Up` form and link it here
