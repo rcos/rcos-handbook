@@ -23,7 +23,7 @@ If you have an idea for a new Work Group, or would like to change an existing on
 
 ### Requirements
 All RCOS Work Groups must meet the following requirements each semester:
-- Consist of at least one mentor (student or alumni) and one non-mentor (2 member minimum)
+- Consist of at least one mentor (student or alumni) and one active student (2 member minimum)
 - Must not exceed more than 8 members (keeps things manageable)
 - Maintain their own dedicated Slack channel
 - Produce at least one blog post  _per-group_ per-semester summarizing their efforts
@@ -42,7 +42,7 @@ Leading a Work Group requires more responsibility than simply being a member of 
 - Writing a brief evaluation of each work group member at the end of the semester
 
 ### Leaving a Work Group
-By default, each Work Group's membership will reset at the beginning of each semester. Students are encouraged to continue their efforts
+By default, each Work Group's membership will reset at the beginning of each semester. Students are encouraged to continue their position into the next semester, but this is not a requirement. As all Work Group positions are volunteer based, a student may elect to leave a Work Group mid-semester - though they are encouraged to stay for the rest of the semester when possible.
 
 ### Defunct Work Groups
 If there are no students or alumni available or willing to manage a Work Group, it should designated as _defunct_. Should a Work Group become defunct, the link to its documentation should be removed from the RCOS handbook's sidebar and moved into this section. This method enables future members find defunct groups and resurrect them if they desire.
@@ -51,6 +51,6 @@ If there are no students or alumni available or willing to manage a Work Group, 
 - _No Defunct Work Groups yet :)_
 
 ### QUESTIONS
-- TODO - where should minutes be placed? GitHub repository, blog?
+- TODO - where should meeting minutes be placed? GitHub repository, blog, emailed to coordinators?
 - TODO - where should the manifest of groups and respective members be maintained?
-- TODO - create the `Work Group Sign Up` form and link it here
+- TODO - create the `Work Group Sign Up` form and link it above
