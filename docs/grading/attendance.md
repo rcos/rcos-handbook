@@ -16,9 +16,8 @@ Unexcused absences can be made up by attending bonus sessions. Bonus sessions ca
 - [Code Jams](/events/code_jams)
 - [Hackathons](/events/hackathons)
 - [Accepted Students Day](/events/accepted_students_day)
-- [RCOS Expo](/events/expo)
 
-Pay attention in [Large Group Meetings](/events/large_group_meetings) to hear Bonus Session announcements!
+Pay attention in [Large Group Meetings](/meetings/large_group_meetings) to hear Bonus Session announcements!
 
 ## Excused Absence Policy
 Excused absences can be given for any of the following:
