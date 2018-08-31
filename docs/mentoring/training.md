@@ -63,4 +63,4 @@ Current mentors and coordinators will be present at each training event to answe
 
 ## Mentor Training Slides
 
-The mentor training slides can be accessed in [our presentations repository](https://github.com/rcos/presentations/tree/master/mentor-training) (source code) and online at [https://rcos.github.io/presentations/mentor-training/](https://rcos.github.io/presentations/mentor-training/)  (compiled presentation).
+The mentor training slides can be accessed in [our presentations repository](https://github.com/rcos/presentations/tree/master/mentor-training) (source code) and online at [https://rcos.github.io/rcos-presentations/mentor-training/](https://rcos.github.io/rcos-presentations/mentor-training/)  (compiled presentation).
