@@ -263,9 +263,9 @@ RCOS's primary communication medium
 
 ### Register on SIS
 
-CSCI 4963-01 (0-credit)
+CSCI 4965-01 (0-credit)
 
-CRN: 53081
+CRN: 63862
 
 Helps us reserve our rooms and build a roster
 
