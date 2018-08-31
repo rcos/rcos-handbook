@@ -1,12 +1,27 @@
-# Welcome!
+---
+<!-- HTML -->
 
-Rensselaer Center for Open Source
+<h3>Welcome to</h3>
+<img style="border: none; background: none;" width="600" src="https://raw.githubusercontent.com/rcos/rcos-branding/master/img/lockup-white.png"/>
 
+---
+
+### Overview
+- Introductions
+- Time Commitments
+- Semester Overview
+- Observatory
+- Status Updates
+- Small Group
+- Large Group
+- Code of Conduct
+- Q & A
 ---
 
 ### About this presentation
 
 [github.com/rcos/intro](https://github.com/rcos/intro)
+![meh](https://blog.rcos.io/intro/img/repo_screen.png)
 
 ---
 
@@ -15,29 +30,60 @@ Rensselaer Center for Open Source
 - [github.com/rcos/intro/smallgroups](https://github.com/rcos/intro/smallgroups)
 
 ---
+<!-- HTML -->
 
-### Faculty Advisors
-- David Goldschmidt
-- Wes Turner
+<style> .byside{ display:inline-block; } </style>
+
+<h2>Faculty Advisors</h2>
+
+<span class="">
+  <span class='byside'>
+      <img width='300' src='https://blog.rcos.io/intro/img/faculty_goldschmidt.jpg'/>
+      <div>David Goldschmidt</div>
+  </span>
+  <span class='byside'>
+      <img width='300' src='https://blog.rcos.io/intro/img/faculty_wes.png'/>
+      <div>Wes Turner</div>
+  </span>
+</span>
 
 ---
+<!-- HTML -->
 
-### Faculty Advisors
-- Ada
-- Adrian
-- Ayushi
-- Alex
+<style> .byside{ display:inline-block; } </style>
+
+<h2>Coordinators</h2>
+
+<span class="">
+  <span class='byside'>
+      <img width='150' src='https://blog.rcos.io/intro/img/faculty_goldschmidt.jpg'/>
+      <div>Chris</div>
+  </span>
+  <span class='byside'>
+      <img width='150' src='https://blog.rcos.io/intro/img/faculty_wes.png'/>
+      <div>Adrian</div>
+  </span>
+    <span class='byside'>
+      <img width='150' src='https://blog.rcos.io/intro/img/faculty_wes.png'/>
+      <div>Katie</div>
+  </span>
+    <span class='byside'>
+      <img width='150' src='https://blog.rcos.io/intro/img/faculty_wes.png'/>
+      <div>Alex</div>
+  </span>
+    <span class='byside'>
+      <img width='150' src='https://blog.rcos.io/intro/img/faculty_wes.png'/>
+      <div>Varun</div>
+  </span>
+</span>
 
 ---
 
 ### Spring 2018 Mentors
 - Adeet Phanse
 - Adrian Collado
-- Alexander Schwarzberg
 - Andy Wu
-- Ayushi Mishra
 - Benjamin Wolf
-- Christine Tang
 - Colin Atkinson
 - Jacob Lane
 - Jonathan Caicedo
@@ -46,28 +92,24 @@ Rensselaer Center for Open Source
 - Mark Robinson
 - Matthew Mawby
 - Mike Adams
-- Richi Young
 - Samad Farooqui
 - Sidney Kochman
 - Theo Rice
-- Varun Rao
-- Yuze Ma
 - Zachary Wimer
 
 ---
 
 ### What is RCOS
 
-RCOS is a creative, intellectual and entrepreneurial outlet for students to use the latest open-source software platforms to develop applications that solve societal problems.
+RCOS is a community of motivated students at RPI who develop open source projects under the guidance of experienced instructors and student mentors.
 
-(that's our mission statement)
-
+RCOS is also a venue for open learning and student teaching, as well as exploring the world of open source.
 
 ---
 
-### What is RCOS
+### Mission Statement
 
-RCOS is also a venue for open learning and student teaching, as well as exploring the world of open source.
+To cultivate an inclusive, creative, and entrepreneurial community that seeks to empower students to develop open-source solutions to real-world problems.
 
 ---
 
@@ -97,61 +139,57 @@ TODO - let's port that presentation into markdown
 
 ### Structure : Members
 
-Every member gets a mentor<br/>
-Ask your mentor first<br/>
+Every member gets a mentor
+
+Ask your mentor first
+
 You can always change mentors
 
 ---
 
 ### Structure : Meetings
 
-Small Group on Tuesday<br/>
-Large Group on Friday<br/><br/>
-Casual Coding Sessions on Wednesday <br/>
-Bonus Sessions (Workshops) on a rolling basis<br/>
+Small Group on Tuesday
+
+Large Group on Friday
+Casual Coding Sessions on Wednesday
+Bonus Sessions (Workshops) on a rolling basis
 
 ---
 
 ### Small Groups
-
-
-    - Lead by a small group of mentors
-    - Typically about 20 people to a small group
-    - Attendance is taken (2 absences are excused)
-    - Mentor freedom!
+- Lead by a small group of mentors
+- Typically about 20 people to a small group
+- Attendance is taken (2 absences are excused)
+- Mentor freedom!
 
 ---
 
 ### Large Groups
-
-
-    -  Lead by coordinators
-    -  Guest speakers!
-    -  Attendance is taken (2 absencse are allowed)
-    -  One large group presentation per team
-    -  New this semester: Lightning talks!
+-  Lead by coordinators
+-  Guest speakers!
+-  Attendance is taken (2 absencse are allowed)
+-  One large group presentation per team
+-  New this semester: Lightning talks!
 
 ---
 
 ### Casual Coding Sessions
-
-
-    -  Open to all! (not just members)
-    -  Come and work on whatever you want!
-    -  (not just for coding!)
-    -  (Every Wednesday at 4PM)
-    -  Bring your friends!
+-  Open to all! (not just members)
+-  Come and work on whatever you want!
+-  (not just for coding!)
+-  (Every Wednesday at 4PM)
+-  Bring your friends!
 
 ---
 
 ###  Bonus Sessions
-
-    -  Can take the place of a large group attendance
-    -  Scheduled on a rolling basis
-    -  (will be on the calendar)
-    -  More focused workshops, talks on a specific topic
-    -  Mostly student run, some external presenters
-    -  Anyone can host one! Just ask us and we'll add it to the calendar!
+-  Can take the place of a large group attendance
+-  Scheduled on a rolling basis
+-  (will be on the calendar)
+-  More focused workshops, talks on a specific topic
+-  Mostly student run, some external presenters
+-  Anyone can host one! Just ask us and we'll add it to the calendar!
 
 ---
 
@@ -163,13 +201,15 @@ Bonus Sessions (Workshops) on a rolling basis<br/>
 
 ---
 
-### Observatory (<a href='http://rcos.io'>rcos.io</h2>
-<p>RCOS's homebrew project management system</p>
-<img src='img/observatory.png'/>
+### Observatory
+http://rcos.io
+RCOS's homebrew project management system
+![](img/observatory.png)
 
 ---
 
-### Slack (<a href='http://rcos.slack.com'>rcos.slack/a>)</h2>
+### Slack
+http://rcos.slack.com
 <p>RCOS's primary communication medium</p>
 <img src='img/slack.png'/>
 

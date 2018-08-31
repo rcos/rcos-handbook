@@ -6,7 +6,7 @@
 
 ## Setup
 
-To setup your event, contact a coordinator or faculty advisor with a brief description of the event you'd like to host and the room you'd like to reserve. Events are subject to requirements listed below.
+To setup your event, contact a coordinator or faculty advisor with a brief description of the event you'd like to host and the room you'd like to reserve. Events are subject to requirements listed below. Students who host and attend events may receive a Bonus Session attendance for their participation.
 
 ## Requirements
 
@@ -16,7 +16,7 @@ Events can be any one of the following:
 - Workshop
 - Networking
 - Info session
-- Code jam
+- Code Jam
 - External volunteering
 
 ### Time Restrictions

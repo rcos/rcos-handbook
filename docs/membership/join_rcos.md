@@ -30,7 +30,7 @@ If you're looking to get involved with RCOS as a member outside of RPI, email a 
 
 [Git](https://git-scm.com/) is a version control/collaboration system that is extremely popular among open source projects. To contribute in RCOS, you WILL need to learn to use git (it's not that bad). Try taking [github's git tutorial](https://try.github.io/levels/1/challenges/1).
 
-## Finding an Open Source project to contribute to
+## Finding a project
 
 [Github Explore](https://github.com/explore) allows you to explore Github and find awesome open source projects to contribute to. Spend a good amount of time finding a project that you like. Don't be intimidated! Many projects that seem very complicated are actively looking for new contributors and will give you "easy" issues to get started. You'll learn fast! Feel free to tackle issues as a team.
 
@@ -39,4 +39,3 @@ If you're looking to get involved with RCOS as a member outside of RPI, email a 
 <!-- - Send the project proposal to rcos group mailing list  <rcos-at-rensselaer@googlegroups.com> for feedback -->
 
 <!-- http://www.rpi.edu/dept/cct/apps/undergrad/resources/PDFs/URP_Application_NoLines_FieldsV6Jan2016_TEST.pdf -->
-

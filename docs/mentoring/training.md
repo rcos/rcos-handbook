@@ -23,10 +23,10 @@ Bare minimum:
   - **Large group**: ~1-2 hours weekly
   - **Mentor meetings**: biweekly, typically no longer than 30 mins-1 hour
 
-You may also be expected to help with casual coding sessions, bonus sessions, and/or code jams. 
+You may also be expected to help with casual coding sessions, bonus sessions, and/or code jams.
 
 ### First Two Weeks
-The first two weeks agenda can be found [here](coordinating/agenda). 
+The first two weeks agenda can be found [here](coordinating/agenda).
 
 As a mentor, you are expected to help out with project speed dating. If you have a course conflict on Tuesdays at 4pm (e.g. ECSE seminar), please let the coordinators know so that:
   - your absence during these meetings can be marked as excused
@@ -38,22 +38,22 @@ As a mentor, you are expected to help out with project speed dating. If you have
   - Generating small group attendance codes
 
 ### Running Small Group
-A brief overview of small group meetings for RCOS members can be found [here](events/small_group_meetings). Mentor training will additionally cover:
+A brief overview of small group meetings for RCOS members can be found [here](meetings/small_group_meetings). Mentor training will additionally cover:
   - Running standup
-  - Reviewing presentations <!-- really emphasize presentation review this semester --> 
+  - Reviewing presentations <!-- really emphasize presentation review this semester -->
 
 ### Helping in Large Group
   - Managing noise levels/talking
   - Verifying members
 
 ### Handling Code of Conduct Violations
-Please familiarize yourselves with our [Code of Conduct](community/CODE_OF_CONDUCT) and [Bylaws](community/bylaws). As a mentor, you are not only expected to follow these, but to enforce them where appropriate. 
+Please familiarize yourselves with our [Code of Conduct](community/CODE_OF_CONDUCT) and [Bylaws](community/bylaws). As a mentor, you are not only expected to follow these, but to enforce them where appropriate.
 
 Any violations warranting more than a verbal/Slack warning (e.g. repeated offenses, harassment) should be reported to coordinators/faculty advisors, who will then determine the appropriate action(s) necessary.
 
-<!-- 
-TODO: flesh this out further 
-Example enforcing manuals: 
+<!--
+TODO: flesh this out further
+Example enforcing manuals:
 Ada Initiative template: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports
 Django project enforcement manual: https://www.djangoproject.com/conduct/enforcement-manual/
 -->
@@ -63,4 +63,4 @@ Current mentors and coordinators will be present at each training event to answe
 
 ## Mentor Training Slides
 
-The mentor training slides can be accessed in [our presentations repository](https://github.com/rcos/presentations/tree/master/mentor-training) (source code) and online at [https://rcos.github.io/presentations/mentor-training/](https://rcos.github.io/presentations/mentor-training/)  (compiled presentation).
+The mentor training slides can be accessed in [our presentations repository](https://github.com/rcos/presentations/tree/master/mentor-training) (source code) and online at [https://rcos.github.io/rcos-presentations/mentor-training/](https://rcos.github.io/rcos-presentations/mentor-training/)  (compiled presentation).

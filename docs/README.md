@@ -2,7 +2,7 @@
 
 The **Rensselaer Center for Open Source** - or **RCOS** (*`ar-kos`*) for short - is a community of motivated students at [Rensselaer Polytechnic Institute](http://rpi.edu) who develop open source projects under the guidance of experienced instructors and student mentors.
 
-RCOS is the first student run organization to be accepted as an associate member of the [Open Source Initiative](https://opensource.org/) (OSI). With an enrolled membership of 150+ students and over 800 alumni, RCOS is the largest open source campus organization in the United States.
+RCOS is an active member of the [Mozilla Open Source Student Network](https://opensource.mozilla.community/) and is the first student run organization to be accepted as an associate member of the [Open Source Initiative](https://opensource.org/). With an enrolled membership of 150+ students and over 800 alumni, RCOS is the largest open source campus organization in the country.
 
 ### Mission Statement
 
