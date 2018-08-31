@@ -1,9 +1,9 @@
 * Overview
   * [Welcome to RCOS](README.md)
   * [Projects](overview/projects.md)
-  * [History](overview/history.md)
+  <!-- * [History](overview/history.md) -->
   * [Code Of Conduct](overview/code_of_conduct.md)
-  * [Sponsors](overview/sponsors.md)
+  <!-- * [Sponsors](overview/sponsors.md) -->
   * [Contact](overview/contact.md)
 
 * Getting started
@@ -11,37 +11,44 @@
   * [What You'll Need](membership/requirements.md)
   <!-- * [Project Pitch](membership/speed_dating.md) -->
   * [Speed Dating](membership/speed_dating.md)
+  * [New Projects](membership/new_projects.md)
 
-* Events
-  * [Large Group Meetings](events/large_group_meetings.md)
-  * [Small Group Meetings](events/small_group_meetings.md)
-  * [Casual Coding Sessions](events/casual_coding_sessions.md)
-  * [Tech Talks](events/tech_talks.md)
-  * [Code Jams](events/code_jams.md)
-  * [Hackathons](events/hackathons.md)
-  * [Accepted Students Day](events/accepted_students_day.md)
-  * [RCOS Expo](events/expo.md)
-  * [Hosting an Event](events/hosting.md)
+* Meetings
+  * [Large Group Meetings](meetings/large_group_meetings.md)
+  * [Small Group Meetings](meetings/small_group_meetings.md)
 
 * Grading
   * [Overview](grading/README.md)
   * [Rubric](grading/rubric.md)
   * [Attendance](grading/attendance.md)
+  * [Documentation](grading/documentation.md)
   * [Status Updates](grading/status_updates.md)
   * [Flex](grading/flex.md)
   * [Appeal Policies](grading/appeal_policies.md)
 
-* Teams
-  * [What are RCOS Teams?](teams/README.md)
-  * [Public Relations](teams/public_relations.md)
-  * [Sponsorship](teams/sponsorship.md)
-  * [Outreach](teams/outreach.md)
-  * [Event Planning](teams/event_planning.md)
-  * [Professional Development](teams/professional_development.md)
+* Events
+  * [Casual Coding Sessions](events/casual_coding_sessions.md)
+  * [Tech Talks](events/tech_talks.md)
+  * [Code Jams](events/code_jams.md)
+  * [Hackathons](events/hackathons.md)
+  * [Accepted Students Day](events/accepted_students_day.md)
+  * [NRB](events/nrb.md)
+  * [Hosting an Event](events/hosting.md)
+
+* Work Groups
+  * [Overview](work_groups/README.md)
+  * [Archival](work_groups/archival.md)
+  * [Event Planning](work_groups/event_planning.md)
+  * [Inventory](work_groups/inventory.md)
+  * [Outreach](work_groups/outreach.md)
+  * [Public Relations](work_groups/public_relations.md)
+  * [Sponsorship](work_groups/sponsorship.md)
+  * [Student Resources](work_groups/student_resources.md)
 
 * Mentoring
   * [What are Mentors?](mentoring/README.md)
   * [Training](mentoring/training.md)
+  * [Mentor Replacement Policy](mentoring/replacement.md)
 
 * Coordinating
   * [What are Coordinators?](coordinating/README.md)
@@ -50,15 +57,17 @@
   * [Passwords](coordinating/passwords.md)
 
 * Faculty Advisor
-  * [What are Faculty Advisors?](coordinating/README.md)
+  * [What are Faculty Advisors?](coordinating/faculty.md)
 
 * Student Resources
-  * [Code Of Conduct](resources/CODE_OF_CONDUCT.md)
-    * [Bylaws](resources/bylaws.md)
-    * [Anti-Harassment Guidelines](resources/harassment_guidelines.md)
   * [Presentation Slides](resources/slides.md)
   * [Resources](resources/README.md)
-  * [Code Of Conduct Template](resources/code_of_conduct_template.md)
+  * [Code Of Conduct Template](community/code_of_conduct_template.md)
+
+* Community Standards
+  * [Code Of Conduct](community/CODE_OF_CONDUCT.md)
+  * [Bylaws](community/bylaws.md)
+  * [Definition of Harassment](community/harassment_guidelines.md)
 
 * Branding
   * [Assets](resources/brand_assets.md)

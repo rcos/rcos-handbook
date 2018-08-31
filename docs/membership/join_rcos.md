@@ -2,7 +2,17 @@
 
 If you're an RPI student, hop in on our first meeting of the semester or join [our slack](https://rcos.slack.com) and message a faculty coordinator (@mskmoorthy or @turnew2).
 
-If you're looking to get involved with RCOS as a member outside of RPI, email a [coordinator](coordinators@rcos.io) to get setup on the [rcos slack](#slack). In the meantime, you can create an account and fill in your profile on [Observatory](#observatory).
+If you're looking to get involved with RCOS as a member outside of RPI, email a [coordinator](mailto:coordinators@rcos.io) to get setup on the [rcos slack](#slack). In the meantime, you can create an account and fill in your profile on [Observatory](#observatory).
+
+<!-- RCOS is a group of RPI students who work on open source projects. Our members work on a variety of projects, which can be seen on the projects page. To see the presentation schedule look here. -->
+
+<!-- Benefits of being an RCOS member -->
+<!-- - The opportunity to help society by creating useful software. -->
+<!-- - An excellent environment to share your skills with your peers and learn from them as well -->
+<!-- - Great practice in the code review process, a very important skill for your software career! -->
+<!-- - Practice giving and receiving feedback. Learning how to discuss technical and non-technical aspects of a project in a constructive fashion is a critical skill that employers look for! -->
+
+<!-- Students can participate in RCOS for course credit or for a stipend. At the beginning of each semester, the Internal Advisory Board will review project proposals and decide which projects should receive financial support. -->
 
 ## Github
 
@@ -20,7 +30,7 @@ If you're looking to get involved with RCOS as a member outside of RPI, email a 
 
 [Git](https://git-scm.com/) is a version control/collaboration system that is extremely popular among open source projects. To contribute in RCOS, you WILL need to learn to use git (it's not that bad). Try taking [github's git tutorial](https://try.github.io/levels/1/challenges/1).
 
-## Finding an Open Source project to contribute to
+## Finding a project
 
 [Github Explore](https://github.com/explore) allows you to explore Github and find awesome open source projects to contribute to. Spend a good amount of time finding a project that you like. Don't be intimidated! Many projects that seem very complicated are actively looking for new contributors and will give you "easy" issues to get started. You'll learn fast! Feel free to tackle issues as a team.
 
@@ -29,4 +39,3 @@ If you're looking to get involved with RCOS as a member outside of RPI, email a 
 <!-- - Send the project proposal to rcos group mailing list  <rcos-at-rensselaer@googlegroups.com> for feedback -->
 
 <!-- http://www.rpi.edu/dept/cct/apps/undergrad/resources/PDFs/URP_Application_NoLines_FieldsV6Jan2016_TEST.pdf -->
-

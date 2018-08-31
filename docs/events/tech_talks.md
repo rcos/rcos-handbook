@@ -7,8 +7,6 @@
 ## Signing Up For Tech Talks
 Anyone can give a tech talk, whether you are a current RCOS member or from a company. 
 
-<!-- TODO: will this spreadsheet be phased out? -->
-
 At the beginning of each semester, there will be a spreadsheet with time slots. Any time slot marked as a Member Talk is open for a tech talk.
 
 ## Format
@@ -17,7 +15,7 @@ Tech talks can be longer than typical RCOS presentations, with a recommended max
 
 ## Topics
 
-Tech talks can be about anything technical (or non-technical), within reasonable limits defined by our [Code of Conduct](resources/CODE_OF_CONDUCT) and [Bylaws](resources/bylaws). Some past tech talks can be found below.
+Tech talks can be about anything technical (or non-technical), within reasonable limits defined by our [Code of Conduct](community/CODE_OF_CONDUCT) and [Bylaws](community/bylaws). Some past tech talks can be found below.
 
 ### Past Tech Talks
 <!-- TODO add more tech talks, possibly digging farther back, and from more members of RCOS -->

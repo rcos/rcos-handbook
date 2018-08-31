@@ -8,3 +8,5 @@
 - Contributing
 
 ### If it isn't documented, it doesn't exist.
+
+Built with [Docsify](https://docsify.js.org)

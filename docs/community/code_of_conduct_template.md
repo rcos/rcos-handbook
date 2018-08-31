@@ -27,22 +27,24 @@ Examples of unacceptable behaviors include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment as defined [here](https://rcos.github.io/rcos-handbook/#/resources/harassment_guidelines)
+* Public or private harassment as defined [here](https://rcos.github.io/rcos-handbook/#/community/harassment_guidelines)
 * Publishing others’ private information, such as a physical or electronic address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Reporting Incidents
 
-This project is affiliated with [Rensselaer Center for Open Source](http://rcos.io) (RCOS). At any point, you may report instances of CoC violations to the RCOS [coordinators](https://rcos.github.io/rcos-handbook/#/coordinating/README) and [faculty advisors]() at <coordinators@rcos.io>. You, as well as any other witnesses, have the right to remain anonymous to the rest of the RCOS community.
+This project is affiliated with [Rensselaer Center for Open Source](http://rcos.io) (RCOS). At any point, you may report instances of CoC violations to the RCOS [coordinators](https://rcos.github.io/rcos-handbook/#/coordinating/README) and [faculty advisors](https://handbook.rcos.io/#/coordinating/faculty) at <coordinators@rcos.io>. You, as well as any other witnesses, have the right to remain anonymous to the rest of the RCOS community.
 
 If you are uncomfortable reporting to the coordinators for any reason, you may reach out to a faculty advisor directly via the RCOS [Slack](https://rcos.slack.com/).
 
 ## Project Maintainer Responsibilities
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. In the case of contributors external to RPI and/or RCOS, temporary or permanent bans may occur. RPI-specific policies are outlined in the RCOS [Bylaws](https://rcos.github.io/rcos-handbook/#/resources/bylaws).
+Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. In the case of contributors external to RPI and/or RCOS, temporary or permanent bans may occur. RPI-specific policies are outlined in the RCOS [Bylaws](https://rcos.github.io/rcos-handbook/#/community/bylaws).
 
 ## [Your Project]-Specific Guidelines
-Add any additional ground rules you would like your project team to follow (if any) here.
+Add any additional ground rules you would like your project team to follow (if any) here. 
+
+Ground rules regarding technical or project management aspects of your project should go in your Contributing Guidelines.
 
 ## License and Attribution
 
-This Code of Conduct has been adapted from the [RCOS Community Code of Conduct](https://github.com/rcos/intro/blob/master/docs/code_of_conduct.md).
+This Code of Conduct has been adapted from the [RCOS Community Code of Conduct](https://rcos.github.io/rcos-handbook/#/community/CODE_OF_CONDUCT).
