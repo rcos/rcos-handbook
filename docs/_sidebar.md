@@ -1,9 +1,9 @@
 * Overview
   * [Welcome to RCOS](README.md)
   * [Projects](overview/projects.md)
-  * [History](overview/history.md)
+  <!-- * [History](overview/history.md) -->
   * [Code Of Conduct](overview/code_of_conduct.md)
-  * [Sponsors](overview/sponsors.md)
+  <!-- * [Sponsors](overview/sponsors.md) -->
   * [Contact](overview/contact.md)
 
 * Getting started
@@ -17,15 +17,6 @@
   * [Large Group Meetings](meetings/large_group_meetings.md)
   * [Small Group Meetings](meetings/small_group_meetings.md)
 
-* Events
-  * [Casual Coding Sessions](events/casual_coding_sessions.md)
-  * [Tech Talks](events/tech_talks.md)
-  * [Code Jams](events/code_jams.md)
-  * [Hackathons](events/hackathons.md)
-  * [Accepted Students Day](events/accepted_students_day.md)
-  * [NRB](events/nrb.md)
-  * [Hosting an Event](events/hosting.md)
-
 * Grading
   * [Overview](grading/README.md)
   * [Rubric](grading/rubric.md)
@@ -34,6 +25,15 @@
   * [Status Updates](grading/status_updates.md)
   * [Flex](grading/flex.md)
   * [Appeal Policies](grading/appeal_policies.md)
+
+* Events
+  * [Casual Coding Sessions](events/casual_coding_sessions.md)
+  * [Tech Talks](events/tech_talks.md)
+  * [Code Jams](events/code_jams.md)
+  * [Hackathons](events/hackathons.md)
+  * [Accepted Students Day](events/accepted_students_day.md)
+  * [NRB](events/nrb.md)
+  * [Hosting an Event](events/hosting.md)
 
 * Work Groups
   * [Overview](work_groups/README.md)
