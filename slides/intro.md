@@ -123,9 +123,9 @@ Every RCOS member is an *agent of change* within the organization.
 
 ### We still have rules!
 
-![](https://jonnegroni.com/wp-content/uploads/2015/04/timmywandapoof_and_da_rules.jpg?w=700)
-- (Code of Conduct)[https://handbook.rcos.io/#/community/CODE_OF_CONDUCT] - general ground rules
-- (Bylaws)[https://handbook.rcos.io/#/community/bylaws] - RPI specific policies
+![](https://78.media.tumblr.com/0e8e9ec630301a1b30ff0056138146af/tumblr_mhkhnkQNCD1rmmhtko1_400.jpg)
+- [Code of Conduct](https://handbook.rcos.io/#/community/CODE_OF_CONDUCT) - general ground rules
+- [Bylaws](https://handbook.rcos.io/#/community/bylaws])- RPI specific policies
 
 ---
 
