@@ -8,15 +8,11 @@
 ---
 
 ### Overview
-- Introductions
-- Time Commitments
-- Semester Overview
-- Observatory
-- Status Updates
-- Small Group
-- Large Group
-- Code of Conduct
-- Q & A
+- What is RCOS?
+- Meetings
+- New Changes to RCOS
+- Getting Started
+- Tips for Success
 ---
 
 ### About this presentation
@@ -73,21 +69,19 @@
 ---
 
 ### Mentors (p. 2 of 3)
-- John Gay
 - John Hulton
-- Karthik Suresh
 - Kevin Phoenix
 - Kousuke Tachida
 - Luke Biery
 - Mallory Gaspard
 - Milena Gonzalez
 - Minjia Huang
+- Olivia Lundelius
+- Priya Sapra
 
 ---
 
 ### Mentors (p. 3 of 3)
-- Olivia Lundelius
-- Priya Sapra
 - Ruijie Geng
 - Scott Thiel
 - Shoshana Malfatto
@@ -124,6 +118,14 @@ To cultivate an inclusive, creative, and entrepreneurial community that seeks to
 (but for real)
 
 Every RCOS member is an *agent of change* within the organization.
+
+---
+
+### We still have rules!
+
+![](https://jonnegroni.com/wp-content/uploads/2015/04/timmywandapoof_and_da_rules.jpg?w=700)
+- (Code of Conduct)[https://handbook.rcos.io/#/community/CODE_OF_CONDUCT] - general ground rules
+- (Bylaws)[https://handbook.rcos.io/#/community/bylaws] - RPI specific policies
 
 ---
 
