@@ -3,7 +3,9 @@ Whether you're completely new to programming or you feel ready to tackle advance
 
 ## Open Source
 
-[Intro to Open Source Class Materials](https://github.com/rcos/CSCI2963-01-Spring2017)
+[TLDRLegal - Software Licenses in Plain English](https://tldrlegal.com/)
+
+[Intro to Open Source Course Materials](https://github.com/rcos/CSCI2963-01-Spring2017)
 
 [GitHub Tutorial](https://try.github.io/levels/1/challenges/1)
 
