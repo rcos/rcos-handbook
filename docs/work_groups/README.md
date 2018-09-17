@@ -9,13 +9,12 @@ The overarching goals of RCOS Work Groups are to:
 - Reduce managerial overhead previously delegated exclusively to coordinators
 
 ### RCOS Work Groups
-- [Archival](/archival.md)
-- [Events Planning](/events_planning.md)
-- [Inventory](/inventory.md)
-- [Outreach](/outreach.md)
-- [Public Relations](/public_relations.md)
-- [Sponsorship](/sponsorship.md)
-- [Student Resources](/student_resources.md)
+- [Archival](/work_groups/archival.md)
+- [Events Planning](/work_groups/events_planning.md)
+- [Outreach](/work_groups/outreach.md)
+- [Public Relations](/work_groups/public_relations.md)
+- [Sponsorship](/work_groups/sponsorship.md)
+- [Student Resources](/work_groups/student_resources.md)
 
 This list should grow and change over time. Some groups may be combined or split up as their respective responsibilities evolve, and some groups may become inactive or defunct.
 
