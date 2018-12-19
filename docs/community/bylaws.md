@@ -86,7 +86,7 @@ Consequences may include:
   * Failure to comply with this request may result in grade penalties as outlined below.
 * Grade penalties on deliverables (including status updates, presentations, open source contributions, etc.) that contain inappropriate, unprofessional, or harassing content
   * TODO: flesh out what grade penalties are appropriate
-  * For smaller deliverables such as status updates, this can include half or no credit on the deliverable.
+  * For smaller deliverables such as status updates, this can result in losing half or all credit on the deliverable.
   * For larger deliverables such as presentations, this grade penalty can be up to 1 full letter grade.
 * If your large group talk or bonus session violates the Code of Conduct, your talk may be ended early and your slides will not be published to the #slides channel.
 * If the violation occurred at an RCOS event or meeting, you may be removed from the event or meeting. This will be marked as an unexcused absence regardless of whether or not you already entered an attendance code, and you will not be able to make up this absence by attending a bonus session.
