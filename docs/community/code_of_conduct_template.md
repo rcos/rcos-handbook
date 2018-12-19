@@ -16,7 +16,7 @@ This Code of Conduct applies to all [your project]-affiliated activity online an
 ### Be respectful and inclusive
 * **Use inclusive language.**  This includes:
   * using [gender-neutral or non-gendered language](http://geekfeminism.wikia.com/wiki/Nonsexist_language) where possible
-  * when referring to community members, using their [correct pronouns](https://www.brynmawr.edu/sites/default/files/asking-for-name-and-pronouns.pdf)
+  * When referring to community members, using their [correct pronouns](https://www.brynmawr.edu/sites/default/files/asking-for-name-and-pronouns.pdf)
   * in general, avoiding any language that could be considered offensive towards marginalized groups
 * **Respect people's differences.** Examples include:
   * Being welcoming towards new members
