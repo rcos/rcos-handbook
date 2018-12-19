@@ -56,7 +56,7 @@ You may miss up to two meetings (small or large group combined) without an excus
 Unexcused absences beyond those allowed will impact your grade.
 We understand that there are occasional conflicts that require you to be absent from an RCOS meeting without a formal excuse.
 Please see a coordinator or faculty member prior to any conflicts to make arrangements.
-See our [documentation on attendance](grading/attendance) for further details on what constitutes a bonus session as well as our official excused absence policy.
+See our [documentation on attendance](attendance.md) for further details on what constitutes a bonus session as well as our official excused absence policy.
 
 | Grade | Description |
 |-|-|
@@ -72,7 +72,7 @@ Part of fostering this environment includes practicing good citizenship.
 The way you conduct yourself at RCOS may have a long-lasting impact on the community, whether that be positive or negative.
 
 Students who go above and beyond to model and encourage positive behaviors outlined in our community Code of Conduct may receive:
-- a bonus added to the [Flex](grading/flex.md) portion of their grade
+- a bonus added to the [Flex](flex.md) portion of their grade
 - additional consideration for leadership positions within RCOS (e.g. task force teams, mentor, coordinator)
 - recognition from the community as a model citizen
 
