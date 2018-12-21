@@ -3,11 +3,20 @@ In the interest of fostering an open and welcoming environment, [your project] p
 
 This Code of Conduct applies to all [your project]-affiliated activity online and offline.
 
+## Summary
+* [Be respectful and inclusive](#be-respectful-and-inclusive).
+* [Give and be welcoming to constructive feedback](#give-and-be-welcoming-to-constructive-feedback).
+* [Focus on what is best for the [Your Project] community](#focus-on-what-is-best-for-the-community).
+* Do not engage in any [unacceptable behaviors](#unacceptable-behaviors).
+* At any point, you may [report CoC violations](#reporting-incidents) to our coordinators and faculty advisors.
+* [Project maintainers](#project-maintainer-responsibilities) should be mindful of the Code of Conduct.
+* Summarize any [project-specific guidelines](#[your-project]-specific-guidelines) (if any) here.
+
 ## Guidelines
 ### Be respectful and inclusive
 * **Use inclusive language.**  This includes:
   * using [gender-neutral or non-gendered language](http://geekfeminism.wikia.com/wiki/Nonsexist_language) where possible
-  * when referring to community members, using their preferred pronouns
+  * When referring to community members, using their [correct pronouns](https://www.brynmawr.edu/sites/default/files/asking-for-name-and-pronouns.pdf)
   * in general, avoiding any language that could be considered offensive towards marginalized groups
 * **Respect people's differences.** Examples include:
   * Being welcoming towards new members
@@ -17,9 +26,19 @@ This Code of Conduct applies to all [your project]-affiliated activity online an
 
 ### Give and be welcoming to constructive feedback
 * **Be constructive and respectful** when giving others feedback. This includes:
-  * Only giving feedback when solicited (e.g. mock presentation, questions section of presentation, request for code review, pull request, etc.)
   * Keeping all feedback constructive, objective and impersonal
+* **Be accepting of constructive criticism**. If you feel that any critiques are overly harsh, excessive, or harassing, contact a project lead ASAP.
 
+### Focus on what is best for the community
+
+* **Show empathy towards other community members.** Examples include:
+  * Actively listening to other team members
+  * "Stepping back" and allowing others to participate when you feel that you are dominating a conversation
+  * Respecting other people's boundaries and privacy
+* **Acknowledge and learn from mistakes**. This includes:
+  * Working to eliminate unconscious bias
+  * Being aware of how your actions affect others
+  * Correcting any harmful behavior going forward
 
 ## Unacceptable Behaviors
 

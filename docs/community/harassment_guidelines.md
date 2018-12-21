@@ -16,10 +16,10 @@ Our Code of Conduct prohibits "public or private harassment". For our purposes, 
 - Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
 - Continued one-on-one communication after requests to cease
 - Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other RCOS community members or other vulnerable people from intentional abuse
-- Publication of non-harassing private communication
+- Publication of non-harassing private communication without the other party's consent
 - Encouraging or inciting others to violate our Code of Conduct
 
-RCOS maintains the standard that all members are should feel safe and comfortable. Our coordinators reserve the right not to act on complaints regarding:
+RCOS maintains the standard that all members should feel safe and comfortable. Our coordinators reserve the right not to act on complaints regarding:
 
 - ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
 - Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
