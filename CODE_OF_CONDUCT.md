@@ -27,7 +27,6 @@ The RCOS Community Code of Conduct applies to all RCOS activity and activity aff
 
 ### Give and be welcoming to constructive feedback
 * **Be constructive and respectful** when giving others feedback. This includes:
-  * Only giving feedback when solicited (e.g. mock presentation, questions section of presentation, request for code review, pull request, etc.)
   * Keeping all feedback constructive, objective and impersonal
 * **Be accepting of constructive criticism**. If you feel that any critiques are overly harsh, excessive, or harassing, contact a coordinator ASAP.
 

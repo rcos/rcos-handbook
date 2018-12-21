@@ -26,9 +26,9 @@ An important part of RCOS is being able to hear from both fellow RCOS members an
 
 ### Sensitive Topics
 
-Please keep in mind that RCOS large group sessions are mandatory for all students currently in RCOS, and representatives from external companies may also be attending. In addition, students are required to attend a certain number of bonus sessions and small group presentations.
+Please keep in mind that students, alumni, and faculty from a diverse range of backgrounds will be viewing your talk. In addition, students are required to attend a certain number of talks per semester.
 
-Presentations containing detailed discussion of sensitive, upsetting, or controversial topics without warning can create an especially hostile environment when this attendance requirement is considered.
+Presentations containing detailed discussion of sensitive, upsetting, or controversial topics without warning can create an especially hostile environment when this is considered.
 
 Presentations should not include any content that violates our [Code of Conduct](community/CODE_OF_CONDUCT) or contains:
 - Graphic violence or descriptions of violence
@@ -59,7 +59,7 @@ In addition, some speakers may ask audience members to put away all mobile devic
 If you absolutely must take a phone call, you can exit the lecture hall to make/take a phone call. If you need to call emergency services for any reason, you may remain in the room while you make the call.
 
 ## Consequences of Code of Conduct Violations
-If you violate the RCOS Community Code of Conduct or Bylaws, appropriate consequences will follow at the discretion of faculty. In addition, if you are an RPI student, you must also comply with all policies in the RPI Student Handbook
+If you violate the RCOS Community Code of Conduct or Bylaws, appropriate consequences will follow at the discretion of faculty. In addition, if you are an RPI student, you must also comply with all policies in the [RPI Student Handbook](https://sexualviolence.rpi.edu/sites/default/files/Rensselaer%20Handbook%20of%20Student%20Rights%20%26%20Responsibilities%2C%20November%202017.pdf).
 
 ### Short Version
 Consequences may include:
@@ -70,7 +70,7 @@ Consequences may include:
 - Early ending of a talk or session
 - Removal from RCOS with a failing grade for the semester
 - Loss of mentorship privileges
-- Referral to Dean of Students for violations of [RPI Student Handbook](https://sexualviolence.rpi.edu/sites/default/files/Rensselaer%20Handbook%20of%20Student%20Rights%20%26%20Responsibilities%2C%20November%202017.pdf)
+- Referral to Dean of Students for violations of RPI Student Handbook
 - Any other consequences that faculty advisors deem appropriate
 
 See the long version below for details on what these penalties entail.
