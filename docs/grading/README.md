@@ -41,7 +41,7 @@ If you are not sure how to best divide up your project into milestones and issue
 
 Projects should be well documented. Documentation can take many forms. A README and an [OSI approved license](https://choosealicense.com/) are mandatory. The README should include a summary of the project, instructions for contributing, and any other information needed to develop for and use the project.
 
-Additional documentation (other than a README and blog posts) is required. Examples of additional documentation include but are not limited to:
+Additional documentation (other than a README and status updates) is required. Examples of additional documentation include but are not limited to:
 - Business plans & reports
 - UML diagrams
 - API documents
@@ -49,26 +49,26 @@ Additional documentation (other than a README and blog posts) is required. Examp
 - FAQs
 - Setup guides
 - Troubleshooting information
+- A project-specific blog
+- Social media presence
+- Style guides and/or branding guidelines
+- Recommended documents as outlined in [Documentation](grading/documentation)
 
 The use of a wiki is strongly encouraged. Creating a static project site can help you organize your various forms of documentation and provide excellent exposure for your project.
 
 If you are unsure how to properly document your project, please consult your mentor for advice early on.
 
-### Blog Posts
+### Status Updates
 
-Blog posts should be informative, and are often status updates about your project. They can also be more general or written in the form of a guide or tutorial. Blog posts that may help another developer solve a problem that you have solved are extremely valuable to the open source community. In general you should write blog posts that you would want to read and that you would find useful!
-
-Blog posts are also a good way to explain the high level goals of a project, to indicate that a project is struggling (someone in RCOS might be able to help!) or just to document tasks that don't fall easily into other categories.
-
-The minimum requirement for blog posts is one per milestone plus one at the start and end of the semester, but you are strongly encouraged to do more. Blog early and blog often!
+Status updates are a written record of your week-to-week status within the project. See [Status Updates](grading/status_updates) for more information.
 
 ## Presentations and Community Involvement
 
-Each project group is required to give one large group presentation. Presentations should be well prepared and rehearsed in the presence of a mentor for feedback. See [RCOS presentations](http://rcos.github.io/intro/presentations#/) for more details.
+Each project group is required to give one presentation. Presentations should be well prepared and rehearsed in the presence of a mentor for feedback. See [RCOS presentations](http://rcos.github.io/intro/presentations#/) for more details.
 
 ### Tech Talks & Bonus Sessions
 
-In addition to the large group project presentation, each member is required to either give one large group tech talk, host a bonus session, or alternatively attend a bonus session. A bonus session is simply any event hosted outside of the normal RCOS hours. Upperclassmen and more senior members are encouraged to give tech talks for the benefit of the RCOS community. All members are encouraged to attend bonus sessions. A bonus session attended in lieu of hosting a bonus session or giving a tech talk cannot also count as an attendence makeup.
+In addition to the project presentation, each member is required to either give one tech talk, host a workshop or bonus session, or alternatively attend a bonus session. A bonus session is simply any event hosted outside of the normal RCOS hours. Upperclassmen and more senior members are encouraged to give tech talks for the benefit of the RCOS community. All members are encouraged to attend bonus sessions. A bonus session attended in lieu of hosting a workshop or bonus session or giving a tech talk cannot also count as an attendence makeup.
 
 ## External Contributions
 

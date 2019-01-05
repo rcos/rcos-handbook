@@ -16,7 +16,7 @@
 * Meetings
   * [Large Group Meetings](meetings/large_group_meetings.md)
   * [Small Group Meetings](meetings/small_group_meetings.md)
-
+  * [Inclement Weather Policy](meetings/inclement_weather.md)
 * Grading
   * [Overview](grading/README.md)
   * [Rubric](grading/rubric.md)
@@ -25,7 +25,8 @@
   * [Status Updates](grading/status_updates.md)
   * [Flex](grading/flex.md)
   * [Appeal Policies](grading/appeal_policies.md)
-
+  * [Academic Integrity](grading/academic_integrity.md)
+  
 * Events
   * [Casual Coding Sessions](events/casual_coding_sessions.md)
   * [Tech Talks](events/tech_talks.md)

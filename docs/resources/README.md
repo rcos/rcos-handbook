@@ -1,5 +1,5 @@
 # Helpful Resources
-Whether you're completely new to programming or you feel ready to tackle advanced topics like deep learning, we have plenty of resources! In addition to consulting the online resources, feel free to reach out to mentors or coordinators as well.
+Whether you're completely new to the world of open source or you feel ready to tackle advanced topics like deep learning, we have plenty of resources! In addition to consulting the online resources, feel free to reach out to mentors or coordinators as well.
 
 ## Open Source
 
@@ -71,10 +71,35 @@ Whether you're completely new to programming or you feel ready to tackle advance
 
 [AllAboutCircuits](https://www.allaboutcircuits.com/)
 
-## UX
+## UX & Interaction Design
 [Usability.gov](https://www.usability.gov/)
 
 [Interaction Design Foundation](https://www.interaction-design.org/)
+
+[Pencil](https://pencil.evolus.vn/) - open source mockup/wireframing/diagramming tool
+
+## Graphic Design
+
+### Resources
+[Open Foundry](https://open-foundry.com/) - open source typeface foundry
+
+[Canva](https://www.canva.com/) - design resources, templates, learning materials, icons, tools
+
+### Open Source Tools
+[Inkscape](https://inkscape.org/) - free, open-source vector graphics tool
+
+[GIMP](https://www.gimp.org/) - open source image editing tool
+
+[Scribus](https://www.scribus.net) - open source desktop publishing tool
+
+[Natron](https://natrongithub.github.io/) - open source motion graphics tool
+
+## Project Management
+[Agile Manifesto](https://agilemanifesto.org/) - introduction to Agile methodologies
+
+[Scrum Guide](https://scrumguides.org/scrum-guide.html) - core principles of Scrum
+
+[The Digital Project Manager](https://thedigitalprojectmanager.com/)
 
 ## Public Speaking & Communication
 [Public Speaking Resources](https://github.com/vmbrasseur/Public_Speaking)

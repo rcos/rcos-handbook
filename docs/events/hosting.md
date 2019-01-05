@@ -6,7 +6,9 @@
 
 ## Setup
 
-To setup your event, contact a coordinator or faculty advisor with a brief description of the event you'd like to host and the room you'd like to reserve. Events are subject to requirements listed below. Students who host and attend events may receive a Bonus Session attendance for their participation.
+To setup your event, contact a coordinator or faculty advisor with a brief description of the event you'd like to host and the room you'd like to reserve. Rooms can be viewed at [http://rogers.mms.rpi.edu](http://rogers.mms.rpi.edu).
+
+Events are subject to requirements listed below. Students who host and attend events may receive a Bonus Session attendance for their participation.
 
 ## Requirements
 
@@ -20,7 +22,7 @@ Events can be any one of the following:
 - External volunteering
 
 ### Time Restrictions
-With the exception of HackRPI and external hackathons, all events must begin no earlier than 9am and end no later than 12 midnight.
+With the exception of HackRPI and external hackathons, all events must begin no earlier than 9am and end no later than 12 midnight. In the case of hackathons external to RCOS, bonus session attendance codes may not be given between the hours of 12am and 9am.
 
 ### Food and Beverages
 

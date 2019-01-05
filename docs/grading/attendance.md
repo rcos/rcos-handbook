@@ -29,6 +29,7 @@ Excused absences can be given for any of the following:
 * Conferences
 * External hackathons
 * Schedule conflicts with courses, exams, or extracurriculars
+  * In order to receive an excused absence, this conflict must take place during your scheduled large or small group session.
 
 The above list is not exhaustive. If you are unsure about what constitutes an excused absence, please reach out to a coordinator or faculty advisor. However, excused absences will **not** be given if you are removed from a meeting for violating our [Code of Conduct](community/CODE_OF_CONDUCT.md) or our [Bylaws](community/bylaws.md).
 

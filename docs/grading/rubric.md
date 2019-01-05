@@ -3,7 +3,7 @@
 TODO - this document must be refactored to include the other optional.
 
 Although RCOS is a team sport, grading is done on each individual member. 
-Make sure you meet the requirements, including the requirements on the project itself such as the README, License and other forms of documentation.
+Make sure you meet the requirements, including the academic integrity policy and the requirements on the project itself such as the README, License and other forms of documentation.
 
 **We have tried to make this rubric broadly applicable to the wide variety of projects we find in RCOS. 
 Certainly, each category of Open Source Contributions, Status Updates, Presentations, Community Involvement, and Attendance are critical to success in RCOS and often to the Open Source processes as well. 
@@ -43,16 +43,21 @@ Presentations and outreach are critical to this learning goal.
 
 | Grade | Description |
 |-|-|
-| **A** | Participates in large group presentation and demonstrates a knowledge of what they worked on; is well prepared and clearly rehearsed. Represents RCOS externally by either hosting at least one well prepared and useful tech talk or bonus session OR attending at least one bonus session beyond any used to make up missing attendance. |
-| **B** | Makes a reasonable effort to participate in presentation and is at least somewhat prepared. Hosts a tech talk or bonus session OR attends the requisite bonus session. |
-| **C** | Is unprepared for presentation or does not participate heavily. Hosts a tech talk or bonus session OR attends the requisite bonus session. |
-| **D** | Makes little effort to participate in presentation and does not host tech talk, bonus session, or attend bonus sessions. |
-| **F** | Makes no effort to participate in presentation or does not attend. Does not host tech talk, bonus session, or attend any bonus sessions. |
+| **A** | Participates in presentation and demonstrates a knowledge of what they worked on; is well prepared and clearly rehearsed. Represents RCOS externally by either hosting at least one well prepared and useful tech talk, workshop, or bonus session OR attending at least one bonus session beyond any used to meet attendance requirements or make up missing attendance. |
+| **B** | Makes a reasonable effort to participate in presentation and is at least somewhat prepared. Hosts a tech talk, workshop, or bonus session OR attends the requisite bonus session. |
+| **C** | Is unprepared for presentation or does not participate heavily. Hosts a tech talk, workshop, or bonus session OR attends the requisite bonus session. |
+| **D** | Makes little effort to participate in presentation and does not host tech talk, workshop, bonus session, or attend bonus sessions. |
+| **F** | Makes no effort to participate in presentation or does not attend. Does not host tech talk, workshop, bonus session, or attend any bonus sessions. |
 
 ## 15% - Attendance
 You cannot learn, participate, or share unless you are here. 
-Attendance at RCOS is required. 
-You may miss up to two meetings (small or large group combined) without an excuse and can make up an additional two meetings by attending more than the required number of bonus sessions. 
+Attendance at RCOS is required for:
+- all small group meetings
+- all mandatory large group meetings
+- at least 50% of all workshop sessions
+- at least 2 work sessions
+
+You may miss up to two meetings (small or large group combined) without an excuse and can make up an additional two meetings by attending more than the required number of bonus, work, or workshop sessions. 
 Unexcused absences beyond those allowed will impact your grade.
 We understand that there are occasional conflicts that require you to be absent from an RCOS meeting without a formal excuse.
 Please see a coordinator or faculty member prior to any conflicts to make arrangements.
@@ -60,8 +65,8 @@ See our [documentation on attendance](attendance.md) for further details on what
 
 | Grade | Description |
 |-|-|
-| **A** | Misses no more than two meetings and makes up any unexcused absences by attending bonus sessions. |
-| **B** | Misses no more than four meetings and makes up most unexcused absences. |
+| **A** | Misses no more than two meetings and makes up any unexcused absences by attending bonus sessions. Attends 50% or more of all workshop sessions and 2 or more work sessions.|
+| **B** | Misses no more than four meetings and makes up most unexcused absences. Attends 33% or more of all workshop sessions and at least 1 work session. |
 | **C** | Repeatedly misses meetings or does not make up unexcused absences. |
 | **D** | Misses many meetings and does not attempt to make up unexcused absences. |
 | **F** | Makes no effort to regularly attend meetings. |
@@ -72,7 +77,7 @@ Part of fostering this environment includes practicing good citizenship.
 The way you conduct yourself at RCOS may have a long-lasting impact on the community, whether that be positive or negative.
 
 Students who go above and beyond to model and encourage positive behaviors outlined in our community Code of Conduct may receive:
-- a bonus added to the [Flex](flex.md) portion of their grade
+- a bonus added to the [Flex](grading/flex) portion of their grade
 - additional consideration for leadership positions within RCOS (e.g. task force teams, mentor, coordinator)
 - recognition from the community as a model citizen
 
