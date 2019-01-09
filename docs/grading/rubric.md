@@ -1,9 +1,8 @@
 # Grading Rubric
 
-TODO - this document must be refactored to include the other optional.
-
 Although RCOS is a team sport, grading is done on each individual member. 
-Make sure you meet the requirements, including the requirements on the project itself such as the README, License and other forms of documentation.
+Make sure you meet the requirements, including the requirements on the project itself such as the README, License and other forms of documentation. The rubric is written in terms of A, B, C, D, and F. Plus (+) and minus (-) 
+modifiers may be used for performance near the boundary of two levels.
 
 **We have tried to make this rubric broadly applicable to the wide variety of projects we find in RCOS. 
 Certainly, each category of Open Source Contributions, Status Updates, Presentations, Community Involvement, and Attendance are critical to success in RCOS and often to the Open Source processes as well. 
@@ -15,6 +14,15 @@ RCOS is, at heart, about participation in the Open Source Ecosystem.
 As part of this semester long journey, you need to make contributions to the community. 
 They need to be significant, licensed correctly to allow open reuse, and importantly, they need to be findable. 
 This applies to code contributions, design documents, hardware diagrams, description of issues found and overcome, and to all the other artifacts that would allow someone else to retrace your footsteps and replicate your accomplishments.
+
+**We understand that during their first semester of participation or during 
+the first semester of a new project, students do not always have a lot of 
+code to commit. Do not let that keep you from making open source contrbutions. 
+The investigations, research and design you are exploring should be used to 
+create tutorials, design documents, user studies, etc., all of which can
+be included in your repository in appropriate directories. If you 
+are having problems deciding how to contribute, please see your mentor, a
+coordinator or a faculty advisor for help and suggestions. Failure to do so will impact your grade.**
 
 | Grade | Description |
 |-|-|
@@ -79,3 +87,14 @@ Students who go above and beyond to model and encourage positive behaviors outli
 On the other hand, students may be penalized, depending on the severity of the offense, for violating the Code of Conduct. 
 These penalties are given at faculty discretion and may range from a small attendance penalty to an F in the course. 
 Please review the [Code of Conduct](community/CODE_OF_CONDUCT.md) as well as our [Bylaws](community/bylaws.md) for more detailed information.
+
+# Grading Rubric for Mentors
+
+Mentors have a unique responsibility within RCOS. As a mentor you are
+expected to run a small group, be familiar with all the projects in your
+group, fill out evaluations, provide guidance and technical support to
+projects in your group, and to regularly attend mentor meetings. Additionally, you 
+are expected to help us plan and execute external events such as code jams, 
+bonus sessions, and our weekly coding open houses. Because of this added 
+responsiblity, you are given more leeway on the open source contributions as 
+well as other rubric items above.
