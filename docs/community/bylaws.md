@@ -26,6 +26,7 @@ Presentations should not include any content that violates our [Code of Conduct]
 - Graphic violence or descriptions of violence
 - Detailed and explicit discussions of potentially triggering topics (e.g. suicide, sexual assault, addiction, self-harm)
 - Excessive profanity
+- Explicit encouragement of dangerous or illegal activity
 - Nudity
 
 If you're unsure about whether or not your talk conforms to the above guidelines, please reach out to a mentor or coordinator to discuss.
@@ -60,9 +61,9 @@ Consequences may include:
 - Removal from sessions
 - Grade penalties
 - Early ending of a talk or session
-- Removal from RCOS with a failing grade for the semester
-- Loss of mentorship privileges
 - Referral to Dean of Students for violations of RPI Student Handbook
+- Removal from RCOS permanently or for a minimum of 1 semester
+- Loss of mentorship privileges
 - Any other consequences that faculty advisors deem appropriate
 
 See the long version below for details on what these penalties entail.
@@ -77,14 +78,17 @@ Consequences may include:
   * Project material includes, but is not limited to, status updates, blog posts, code, comments, issues, pull requests, milestones, wiki pages, static websites, graphics, social media posts, etc. 
   * Failure to comply with this request may result in grade penalties as outlined below.
 * Grade penalties on deliverables (including status updates, presentations, open source contributions, etc.) that contain inappropriate, unprofessional, or harassing content
-  * TODO: flesh out what grade penalties are appropriate
   * For smaller deliverables such as status updates, this can result in losing half or all credit on the deliverable.
   * For larger deliverables such as presentations, this grade penalty can be up to 1 full letter grade deducted from the deliverable.
 * If your talk or bonus session violates the Code of Conduct, your talk may be ended early and your slides will not be published to the #slides channel.
 * If the violation occurred at an RCOS event or meeting, you may be removed from the event or meeting. This will be marked as an unexcused absence regardless of whether or not you already entered an attendance code, and you will not be able to make up this absence by attending a bonus session.
-* In severe and repeated violations, you may be removed from RCOS entirely.
-  * If you are taking RCOS for credit, you will receive a failing grade for the semester.
-  * If you are currently a mentor, your mentorship position will be terminated immediately and you will be ineligible to mentor in future semesters. The same rule applies to coordinators.
-* If you have violated the [RPI Student Handbook](https://sexualviolence.rpi.edu/sites/default/files/Rensselaer%20Handbook%20of%20Student%20Rights%20%26%20Responsibilities%2C%20November%202017.pdf) along with our Code of Conduct and/or Bylaws, you may also be referred to the Dean of Students.
+* If you have violated the [RPI Student Handbook](https://sexualviolence.rpi.edu/sites/default/files/Rensselaer%20Handbook%20of%20Student%20Rights%20%26%20Responsibilities%2C%20November%202017.pdf) along with our Code of Conduct and/or Bylaws, you may be referred to the Dean of Students.
+  * The Dean of Students may follow up with additional discliplinary action where appropriate.
+* In severe and repeated violations of both the Code of Conduct and the RPI Student Handbook, you may be removed from RCOS permanently or for a minimum of one semester.
+  * If you are removed from RCOS, the following will occur during your removal (temporary or permanent):
+    * You will not be allowed to register for RCOS for credit, funding or experience.
+    * You will be barred from attending any future RCOS events.
+    * Your Slack and Observatory accounts will be suspended.
+    * If you are currently a mentor, your mentorship position will be terminated immediately and you will be ineligible to mentor, including as an external mentor. The same rule applies to coordinators.
 
 Please note that the above list is not exhaustive and additional consequences may follow as appropriate.
