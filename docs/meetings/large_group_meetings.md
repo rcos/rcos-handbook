@@ -8,7 +8,7 @@
 
 During the first two weeks of the semester, large group occurs every Tuesday and Friday to get new community members acquainted with RCOS and to inform existing members on changes in structure and mentorship.
 
-Once all community members are assigned to a small group, large group will only occur on one Friday per month. All other Fridays are reserved for workshops on open-source technologies hosted by the RCOS community.
+Once all community members are assigned to a small group, large group will only occur on one or two Fridays per month. All other Fridays are reserved for workshops on open-source technologies hosted by the RCOS community.
 
 Large group will also occur on the last Friday of the semester for our closing ceremony. 
 

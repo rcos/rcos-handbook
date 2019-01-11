@@ -22,12 +22,14 @@ Please keep in mind that students, alumni, and faculty from a diverse range of b
 
 Presentations containing detailed discussion of sensitive, upsetting, or controversial topics without warning can create an especially hostile environment when this is considered.
 
-Presentations should not include any content that violates our [Code of Conduct](community/CODE_OF_CONDUCT) or contains:
-- Graphic violence or descriptions of violence
-- Detailed and explicit discussions of potentially triggering topics (e.g. suicide, sexual assault, addiction, self-harm)
-- Excessive profanity
-- Explicit encouragement of dangerous or illegal activity
-- Nudity
+Presentations should not include any content that:
+* Violates our [Code of Conduct](community/CODE_OF_CONDUCT) 
+* Encourages the use of open source technology for malicious purposes or any other unethical behavior
+* Contains any of the following:
+  * Graphic violence or descriptions of violence
+  * Detailed and explicit discussions of potentially triggering topics (e.g. suicide, sexual assault, addiction, self-harm)
+  * Excessive profanity
+  * Nudity
 
 If you're unsure about whether or not your talk conforms to the above guidelines, please reach out to a mentor or coordinator to discuss.
 
