@@ -23,8 +23,8 @@ Please keep in mind that students, alumni, and faculty from a diverse range of b
 Presentations containing detailed discussion of sensitive, upsetting, or controversial topics without warning can create an especially hostile environment when this is considered.
 
 Presentations should not include any content that:
-* Violates our [Code of Conduct](community/CODE_OF_CONDUCT) 
-* Encourages the use of open source technology for malicious purposes or any other unethical behavior
+* Violates our [Code of Conduct](community/CODE_OF_CONDUCT)
+* Encourages unethical behavior, including but not limited to the use of open source technology for malicious purposes
 * Contains any of the following:
   * Graphic violence or descriptions of violence
   * Detailed and explicit discussions of potentially triggering topics (e.g. suicide, sexual assault, addiction, self-harm)
@@ -35,7 +35,7 @@ If you're unsure about whether or not your talk conforms to the above guidelines
 
 ### Live Demos
 
-Live demos can provide a way to make otherwise dry talks very engaging, especially in a larger setting. However, inappropriate content sent to the live demo may reflect poorly on the speaker and RCOS as a whole. Thus, we ask that the audience comply with the Code of Conduct and Bylaws in any content they send to a live demo.
+Live demos can provide a way to make otherwise dry talks very engaging, especially in a larger setting. However, inappropriate content sent to the live demo may reflect poorly on the speaker and RCOS as a whole. Thus, we ask that the audience comply with the Code of Conduct and Bylaws in any content they send to a live demo. We also ask that the speaker rehearse live demos in advance and ensure that no sensitive data is visible to users of the live demo.
 
 ## Large Group
 During our large group sessions, we have the following policies.
