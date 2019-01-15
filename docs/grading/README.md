@@ -41,8 +41,9 @@ If you are not sure how to best divide up your project into milestones and issue
 
 Projects should be well documented. Documentation can take many forms. A README and an [OSI approved license](https://choosealicense.com/) are mandatory. The README should include a summary of the project, instructions for contributing, and any other information needed to develop for and use the project.
 
-Additional documentation (other than a README and blog posts) is required. Examples of additional documentation include but are not limited to:
+Additional documentation (other than a README) is required. Examples of additional documentation include but are not limited to:
 - Business plans & reports
+- Blog Posts
 - UML diagrams
 - API documents
 - User manuals
@@ -54,13 +55,16 @@ The use of a wiki is strongly encouraged. Creating a static project site can hel
 
 If you are unsure how to properly document your project, please consult your mentor for advice early on.
 
-### Blog Posts
+### Status Updates
 
-Blog posts should be informative, and are often status updates about your project. They can also be more general or written in the form of a guide or tutorial. Blog posts that may help another developer solve a problem that you have solved are extremely valuable to the open source community. In general you should write blog posts that you would want to read and that you would find useful!
+Status updates will be required weekly after project group formation, They should be informative and should provide an insight into progress for the week in terms of what was accomplished, will be accomplished next, what 
+blockers prevented progress, and other notes of interest.
 
-Blog posts are also a good way to explain the high level goals of a project, to indicate that a project is struggling (someone in RCOS might be able to help!) or just to document tasks that don't fall easily into other categories.
 
-The minimum requirement for blog posts is one per milestone plus one at the start and end of the semester, but you are strongly encouraged to do more. Blog early and blog often!
+Use status updates to make sure you are making progress against your goals and as a planning tool. If you are struggling, you can use them to document different strategies that you use to get
+around issues and to continue to make progress. If you find yourself unable to state progress or effort for more than a week or two, this can be an indication that you need to seek help, 
+develop alternate technical paths, or put in additional effort.
+
 
 ## Presentations and Community Involvement
 
