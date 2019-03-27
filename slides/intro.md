@@ -241,7 +241,7 @@ Bonus Sessions + Workshops on a rolling basis
 
 ### Getting started at RCOS
 - Observatory
-- Slack
+- Mattermost
 - SIS
 - GitHub
 
@@ -254,8 +254,8 @@ RCOS's homebrew project management system
 
 ---
 
-### Slack
-http://rcos.slack.com
+### Mattermost
+http://chat.rcos.io
 
 RCOS's primary communication medium
 
@@ -285,7 +285,7 @@ https://rcos.io/projects
 
 ### Finding a team (optional)
 - Pitch Day
-- Post on Slack (#slides)
+- Post on Mattermost (#slides)
 - Talk to mentors and coordinators
 - Project Speed Dating
 
@@ -298,7 +298,7 @@ https://rcos.io/projects
 
 ### Getting Help
 - `#helpdesk`
-- Slack
+- Mattermost
 - Other members!
 - Mentors (Both internal and external)
 - Coordinators
@@ -340,7 +340,7 @@ https://rcos.io/projects
 ###  What happens next?
 Project pitches Tuesday!
 
-- Send your slides to @aeksco on Slack
+- Send your slides to @aeksco on Mattermost
 - Please send them by 11pm on Monday (9/4)
 - Slides MUST be in JPEG format!
 - Please NO PDF, PPT/X, or Google links!
@@ -361,7 +361,7 @@ Saturday 9/1 - 12-4pm in SAGE 4510
 ---
 
 ### What do you do now?
-- Sign up on rcos.io, Slack, and GitHub
+- Sign up on rcos.io, Mattermost, and GitHub
 - Register on SIS (`CRN 53081`, `CSCI-4963-01`)
 - Find a project
 - Email your pitch slides!
@@ -373,7 +373,7 @@ Saturday 9/1 - 12-4pm in SAGE 4510
 - Coordinators
 - Mentors
 - Faculty
-- Slack `#helpdesk`
+- Mattermost `#helpdesk`
 
 ---
 
