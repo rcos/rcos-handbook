@@ -12,7 +12,7 @@ you where/how to find help for your project, and help you find a new project etc
 ### How to be a good mentor
 - Help mentees to reach their own goals
 - Talk directly to projects and mentees, understand what their project is and where you can help
-- Share ideas and contribute to development of RCOS as a whole- as long as you're monitoring the #mentors slack channel you should opportunities to contribute.
+- Share ideas and contribute to development of RCOS as a whole- as long as you're monitoring the #mentors mattermost channel you should opportunities to contribute.
 
 ### Things Mentors should Know
 - Names and channels for referring mentees to coordinators or faculty
