@@ -1,8 +1,8 @@
 # How to join RCOS
 
-If you're an RPI student, hop in on our first meeting of the semester or join [our slack](https://rcos.slack.com) and message a faculty coordinator (@mskmoorthy or @turnew2).
+If you're an RPI student, hop in on our first meeting of the semester or join [our mattermost](https://chat.rcos.io) and message a faculty coordinator (@mskmoorthy or @turnew2).
 
-If you're looking to get involved with RCOS as a member outside of RPI, email a [coordinator](mailto:coordinators@rcos.io) to get setup on the [rcos slack](#slack). In the meantime, you can create an account and fill in your profile on [Observatory](#observatory).
+If you're looking to get involved with RCOS as a member outside of RPI, email a [coordinator](mailto:coordinators@rcos.io) to get setup on the [rcos mattermost](#mattermost). In the meantime, you can create an account and fill in your profile on [Observatory](#observatory).
 
 <!-- RCOS is a group of RPI students who work on open source projects. Our members work on a variety of projects, which can be seen on the projects page. To see the presentation schedule look here. -->
 
@@ -22,9 +22,9 @@ If you're looking to get involved with RCOS as a member outside of RPI, email a 
 
 [Observatory](https://rcos.io) is RCOS's open source project management platform. Every RCOS member is required to have an observatory account, it's through this platform that you can write blog posts, record your attendance and see other RCOS projects.
 
-## Slack
+## Mattermost
 
-[Slack](https://rcos.slack.com) is the primary communication platform for RCOS. Each team in RCOS has a Slack channel where they can coordinate meetings and manage the project.
+[Mattermost](https://chat.rcos.io) is the primary communication platform for RCOS. Each team in RCOS has a Mattermost channel where they can coordinate meetings and manage the project.
 
 ## Git
 

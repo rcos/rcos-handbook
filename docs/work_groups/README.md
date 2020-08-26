@@ -24,14 +24,14 @@ If you have an idea for a new Work Group, or would like to change an existing on
 All RCOS Work Groups must meet the following requirements each semester:
 - Consist of at least one mentor (student or alumni) and one active student (2 member minimum)
 - Must not exceed more than 8 members (keeps things manageable)
-- Maintain their own dedicated Slack channel
+- Maintain their own dedicated Mattermost channel
 - Produce at least one blog post  _per-group_ per-semester summarizing their efforts
 - Meet **at least four times** during the semester as a team. Meetings may be held in-person or remotely.
 
 ### Joining a Work Group
 Work Group positions are open to all RCOS students, alumni, and faculty. Please consult the following steps to join a group:
 - Fill out the [Work Group Sign Up](__TODO - add link to Google Form__) form
-- Join the Work Group's Slack channel
+- Join the Work Group's Mattermost channel
 
 ### Leading a Work Group
 Leading a Work Group requires more responsibility than simply being a member of one. Group leaders are expected to take ownership of the following duties:

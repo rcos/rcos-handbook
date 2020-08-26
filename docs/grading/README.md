@@ -43,6 +43,7 @@ Projects should be well documented. Documentation can take many forms. A README 
 
 Additional documentation (other than a README and status updates) is required. Examples of additional documentation include but are not limited to:
 - Business plans & reports
+- Blog Posts
 - UML diagrams
 - API documents
 - User manuals

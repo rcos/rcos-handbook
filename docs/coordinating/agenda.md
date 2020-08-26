@@ -47,7 +47,7 @@ If a significant number of new mentors have still not completed mentor training,
 
 ## Third Meeting
 
-The fourth meeting has two parts that occur simultaneously: project 'Speed Dating' and proposal approval. The mentors should be split evenly between the two events, with each occuring in its own room. Finding a project can be very nervewracking for newcomers, so project speed dating is intended to ensure every student finds a project.
+The third meeting has two parts that occur simultaneously: project 'Speed Dating' and proposal approval. The mentors should be split evenly between the two events, with each occuring in its own room. Finding a project can be very nervewracking for newcomers, so project speed dating is intended to ensure every student finds a project.
 
 In one room, every project that is looking for more group members should have a representative present to talk to potential group members. The representative should have a printed copy of their pitch slide to identify themself. Every student that does not yet have a project will be present, and will be able to talk to the project representatives and find a project that matches their interest. Mentors should be present to guide students who appear lost or anxious, and to make sure each project gets members. Once students have selected their project, or if they already have a project, they should go to the second room.
 
@@ -63,6 +63,6 @@ Projects with 8 or more members may be split between mentor groups.
 
 At least one mentor meeting excluding mentor training must occur prior to the fourth meeting. Mentors should be instructured to ensure that mentees:
 1. Are on [rcos.io](https://rcos.io).
-2. Are on [rcos.slack.com](https://rcos.slack.com)
+2. Are on [chat.rcos.io](https://chat.rcos.io)
 
 Any larger goals for the year should be made clear and a schedule for mentor meetings should be set.
