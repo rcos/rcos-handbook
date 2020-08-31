@@ -7,6 +7,3 @@ This is intended to be a thorough, living document detailing the organizational 
 
 
 Built with [Docsify](https://docsify.js.org)
-
-
-
