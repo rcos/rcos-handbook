@@ -26,7 +26,7 @@ If there are still people on the waitlist after the first month of the semester,
 
 If a coordinator leaves at any point during the semester, a new coordinator may be selected from the current mentors. Any mentors considered must have at least 1-2 semesters' worth of mentorship experience.
 
-If a coordinator resigns or is terminated due to severe and repeated Code of Conduct violations, faculty advisors must select a new coordinator to prevent conflicts of interest.
+If a coordinator resigns, is terminated, or is suspended/expelled from Rensselaer due to severe and repeated Code of Conduct and/or RPI Student Handbook violations, faculty advisors must select a new coordinator to prevent conflicts of interest.
 
 In all other circumstances, the current coordinators, including the coordinator leaving, may assist in selecting a new coordinator.
 
@@ -44,11 +44,13 @@ If there is a mentor waitlist, a student will be chosen from the waitlist to fil
 
 If there is no waitlist, an emergency mentorship application will be sent out and the new mentor will be selected from the applicants.
 
-If there is no waitlist and we do not get any applicants from the emergency application within 1 full week, we may follow the mid-semester procedure of moving mentors between small groups.
+If there is no waitlist and we do not get any applicants from the emergency application within 1 full week, we may follow the mid-semester procedure of moving mentors between small groups. 
 
-If a mentor resigns or is terminated due to severe and repeated Code of Conduct violations, it is solely the coordinators' and faculty advisors' responsibility to choose a new mentor from the waitlist or from the emergency application. If the mentor in question is also a coordinator, faculty advisors must select a new mentor.
+If applicants or waitlist members have not been mentors before, they must undergo mentor training. If the last mentor training session has already passed, they may schedule a one-on-one debrief/training session with a coordinator. 
 
-In all other circumstances barring the passing of a mentor, the mentor leaving may assist in selecting a new mentor.
+If a mentor resigns, is terminated, or is suspended/expelled from Rensselaer due to severe and repeated Code of Conduct and/or RPI Student Handbook violations, it is solely the coordinators' and faculty advisors' responsibility to choose a new mentor from the waitlist or from the emergency application. If the mentor in question is also a coordinator or a coordinator was also involved in the violations, faculty advisors must select a new mentor.
+
+In all other circumstances, the mentor leaving as well as the other mentors in their small group may assist in selecting a new mentor.
 
 ## Mid-semester
 
@@ -58,7 +60,7 @@ If a project has no more than 3 or 4 members, including a mentor, the entire pro
 
 If a project has multiple mentors on the team, and there is an excess of mentors in the projects' small group, one of the mentors from that team as well as a few team members will receive a request to move to the other small group.
 
-If no current mentors agree to switch small groups within one week, a new appointment may be made following the procedure above.
+If no current mentors agree to switch small groups within one week, a new appointment may be made following the procedure above. If after one week of following the procedure above, there is no waitlist and we have no new applicants, we will not appoint any new mentors unless the mentor shortage results in 1 mentor in a small group.
 
 > **TODO**: determine what constitutes an 'excess' in mentors
 

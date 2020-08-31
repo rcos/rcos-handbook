@@ -19,11 +19,11 @@ Below is a rough outline of what will be covered in the training sessions.
 ### Estimated Time Commitments
 Bare minimum:
   - **Mentor training**: mandatory for all first-time mentors, optional for returning mentors (returning mentors may help facilitate training and/or answer any questions)
-  - **Small group**: ~1-2 hours weekly (usually on Tuesdays)
-  - **Large group**: ~1-2 hours weekly
+  - **Small group**: ~1-2 hours once or twice per week (Tuesdays and Fridays when large group is not in session).  
+  - **Large group**: ~1-2 hours once or twice per month plus kick-off at beginning of semester and wrap-up at end of the semester.
   - **Mentor meetings**: biweekly, typically no longer than 30 mins-1 hour
-
-You may also be expected to help with casual coding sessions, bonus sessions, and/or code jams.
+  - **Code jams**: held once a month, you must host at least one
+  - **Bonus sessions/casual coding sessions**: you must help out with at least one. At longer events such as coding sessions, hackathons, and code jams, you may sign up for a timeslot that only covers part of the session.
 
 ### First Two Weeks
 The first two weeks agenda can be found [here](coordinating/agenda).
@@ -39,8 +39,9 @@ As a mentor, you are expected to help out with project speed dating. If you have
 
 ### Running Small Group
 A brief overview of small group meetings for RCOS members can be found [here](meetings/small_group_meetings). Mentor training will additionally cover:
+  - Tuesday vs. Friday small group
   - Running standup
-  - Reviewing presentations <!-- really emphasize presentation review this semester -->
+  - Grading presentations <!-- really emphasize presentation review this semester -->
 
 ### Helping in Large Group
   - Managing noise levels/talking
