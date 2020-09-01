@@ -20,10 +20,6 @@ Status Updates were introduced to enable mentors and coordinators to better gaug
 
 Each student maintains their respective status updates in GitHub repository forked from [rcos/rcos-status-updates](https://github.com/rcos/rcos-status-updates). Please consult the `rcos/rcos-status-updates` repository for information on how to get started.
 
-**How are Status Updates tracked?**
-
-Each student maintains their respective status updates in GitHub repository forked from [rcos/rcos-status-updates](https://github.com/rcos/rcos-status-updates). Please consult the `rcos/rcos-status-updates` repository for information on how to get started.
-
 ## Requirements
 
 Each week at the beginning of small group meeting write a few sentences that detail what you've worked on during the past week, what you want to work on this coming week, and what (if anything) is blocking your ongoing progress.
