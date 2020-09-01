@@ -24,7 +24,7 @@ If you're looking to get involved with RCOS as a member outside of RPI, email a 
 
 ## Discord
 
-[Discord](https://chat.rcos.io) is the primary communication platform for RCOS. We created a tool to link your RPI identity to your Discord account (only for our server of course!) and create categories and channels for small groups and projects each semester.
+[Discord](https://chat.rcos.io) is the primary communication platform for RCOS. We created a tool to link your RPI identity to your Discord account (only for our server of course!) and create categories and channels for small groups and projects each semester. Here you'll be able to reach out to faculty, coordinators, mentors, and your fellow members!
 
 ## Git
 
