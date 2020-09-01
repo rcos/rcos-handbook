@@ -23,7 +23,7 @@
   * [Attendance](grading/attendance.md)
   * [Documentation](grading/documentation.md)
   * [Status Updates](grading/status_updates.md)
-  * [Flex](grading/flex.md)
+  <!-- * [Flex](grading/flex.md) -->
   * [Appeal Policies](grading/appeal_policies.md)
   * [Academic Integrity](grading/academic_integrity.md)
   
