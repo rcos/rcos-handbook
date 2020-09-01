@@ -20,7 +20,7 @@ Once you have a proposal, if you are contributing at RPI, fill out the RPI-speci
 If you haven't already, set up an account on:
   - RCOS Mattermost
   - Observatory
-  - Github
+  - GitHub
 
 ## Create a Mattermost channel
 
@@ -28,7 +28,7 @@ Once all of your team members are on the RCOS Mattermost, create a channel for y
 
 Don't forget to add your [small group mentors]() to your team's Mattermost channel so they can help you out if needed! If you haven't been assigned a small group yet, you can skip this step until you have a small group assigned.
 
-## Setup Your Repository
+## Setup Your RepositorGitHub
 
 Create a repository on Github for your project. Then, create the following:
 - README

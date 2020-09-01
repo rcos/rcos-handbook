@@ -14,9 +14,9 @@ If you're looking to get involved with RCOS as a member outside of RPI, email a 
 
 <!-- Students can participate in RCOS for course credit or for a stipend. At the beginning of each semester, the Internal Advisory Board will review project proposals and decide which projects should receive financial support. -->
 
-## Github
+## GitHub
 
-[Github](https://github.com/) is where most RCOS projects are stored and collaborated on within. You will need to create an account and eventually create or join a project.
+[GitHub](https://github.com/) is where most RCOS projects are stored and collaborated on within. You will need to create an account and eventually create or join a project.
 
 ## Observatory
 
@@ -32,4 +32,4 @@ If you're looking to get involved with RCOS as a member outside of RPI, email a 
 
 <!-- ## Finding a project
 
-[Github Explore](https://github.com/explore) allows you to explore Github and find awesome open source projects to contribute to. Spend a good amount of time finding a project that you like. Don't be intimidated! Many projects that seem very complicated are actively looking for new contributors and will give you "easy" issues to get started. You'll learn fast! Feel free to tackle issues as a team. -->
+[GitHub Explore](https://github.com/explore) allows you to explore GitHub and find awesome open source projects to contribute to. Spend a good amount of time finding a project that you like. Don't be intimidated! Many projects that seem very complicated are actively looking for new contributors and will give you "easy" issues to get started. You'll learn fast! Feel free to tackle issues as a team. -->

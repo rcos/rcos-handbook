@@ -20,7 +20,7 @@ If you have a Windows PC, we highly recommend using a Linux distribution such as
 - [Visual Studio Code](https://code.visualstudio.com/) - all-purpose IDE
 - [Xcode](https://developer.apple.com/xcode/) - Mac-only, recommended for iOS development
 - [Sublime Text](https://www.sublimetext.com/) - minimalist, flexible, easy to use even for beginners
-- [Atom](https://atom.io/) - very customizable, very Github friendly
+- [Atom](https://atom.io/) - very customizable, very GitHub friendly
 - [Vim](https://www.vim.org/) - terminal-based text editor, very barebones (recommended for Raspberry Pi projects as you may not be able to access Sublime on a Pi)
 
 <!--TODO - dotfiles recommendations
