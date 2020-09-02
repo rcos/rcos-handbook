@@ -28,7 +28,7 @@ Once all of your team members are on the RCOS Mattermost, create a channel for y
 
 Don't forget to add your [small group mentors]() to your team's Mattermost channel so they can help you out if needed! If you haven't been assigned a small group yet, you can skip this step until you have a small group assigned.
 
-## Setup Your RepositorGitHub
+## Setup Your Repository
 
 Create a repository on Github for your project. Then, create the following:
 - README
