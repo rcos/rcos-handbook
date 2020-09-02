@@ -5,4 +5,4 @@ TODO - add information about faculty advisors
 - Current faculty advisors
 - Past faculty advisors
 
-See [Github Issue #41](https://github.com/rcos/rcos-handbook/issues/41)
+See [GitHub Issue #41](https://github.com/rcos/rcos-handbook/issues/41)

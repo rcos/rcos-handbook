@@ -1,8 +1,8 @@
 # How to join RCOS
 
-If you're an RPI student, hop in on our first meeting of the semester or join [our mattermost](https://chat.rcos.io) and message a faculty coordinator (@mskmoorthy or @turnew2).
+If you're an RPI student, hop in on our first meeting of the semester or join [our mattermost](https://chat.rcos.io) and message a faculty coordinator (@turnew2).
 
-If you're looking to get involved with RCOS as a member outside of RPI, email a [coordinator](mailto:coordinators@rcos.io) to get setup on the [rcos mattermost](#mattermost). In the meantime, you can create an account and fill in your profile on [Observatory](#observatory).
+If you're looking to get involved with RCOS as a member outside of RPI, email a [coordinator](mailto:coordinators-active@rcos.io) to get setup on the [rcos mattermost](#mattermost). In the meantime, you can create an account and fill in your profile on [Observatory](#observatory).
 
 <!-- RCOS is a group of RPI students who work on open source projects. Our members work on a variety of projects, which can be seen on the projects page. To see the presentation schedule look here. -->
 
@@ -14,9 +14,9 @@ If you're looking to get involved with RCOS as a member outside of RPI, email a 
 
 <!-- Students can participate in RCOS for course credit or for a stipend. At the beginning of each semester, the Internal Advisory Board will review project proposals and decide which projects should receive financial support. -->
 
-## Github
+## GitHub
 
-[Github](https://github.com/) is where most RCOS projects are stored and collaborated on within. You will need to create an account and eventually create or join a project.
+[GitHub](https://github.com/) is where most RCOS projects are stored and collaborated on within. You will need to create an account and eventually create or join a project.
 
 ## Observatory
 
@@ -24,18 +24,12 @@ If you're looking to get involved with RCOS as a member outside of RPI, email a 
 
 ## Mattermost
 
-[Mattermost](https://chat.rcos.io) is the primary communication platform for RCOS. Each team in RCOS has a Mattermost channel where they can coordinate meetings and manage the project.
+[Mattermost](https://chat.rcos.io) is the primary communication platform for RCOS. Each team in RCOS has a Mattermost channel where they can coordinate meetings and manage the project. Here's a [intro](https://github.com/Apexal/late/wiki/How-Git-Works) written by one of our coordinators.
 
 ## Git
 
 [Git](https://git-scm.com/) is a version control/collaboration system that is extremely popular among open source projects. To contribute in RCOS, you WILL need to learn to use git (it's not that bad). Try taking [github's git tutorial](https://try.github.io/levels/1/challenges/1).
 
-## Finding a project
+<!-- ## Finding a project
 
-[Github Explore](https://github.com/explore) allows you to explore Github and find awesome open source projects to contribute to. Spend a good amount of time finding a project that you like. Don't be intimidated! Many projects that seem very complicated are actively looking for new contributors and will give you "easy" issues to get started. You'll learn fast! Feel free to tackle issues as a team.
-
-<!-- ## Paperwork and forms -->
-<!-- - URP forms, Course Credit Form, for Pay I9 form -->
-<!-- - Send the project proposal to rcos group mailing list  <rcos-at-rensselaer@googlegroups.com> for feedback -->
-
-<!-- http://www.rpi.edu/dept/cct/apps/undergrad/resources/PDFs/URP_Application_NoLines_FieldsV6Jan2016_TEST.pdf -->
+[GitHub Explore](https://github.com/explore) allows you to explore GitHub and find awesome open source projects to contribute to. Spend a good amount of time finding a project that you like. Don't be intimidated! Many projects that seem very complicated are actively looking for new contributors and will give you "easy" issues to get started. You'll learn fast! Feel free to tackle issues as a team. -->

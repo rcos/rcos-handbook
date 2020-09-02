@@ -49,4 +49,4 @@ In the future, functionality will be implemented to request excused absences thr
 
 ## Resolving Attendance Issues
 
-**TODO**: See [issue #66](https://github.com/rcos/rcos-handbook/issues/66) on our Github repository.
+**TODO**: See [issue #66](https://github.com/rcos/rcos-handbook/issues/66) on our GitHub repository.

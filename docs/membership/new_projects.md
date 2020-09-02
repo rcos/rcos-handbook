@@ -20,7 +20,7 @@ Once you have a proposal, if you are contributing at RPI, fill out the RPI-speci
 If you haven't already, set up an account on:
   - RCOS Mattermost
   - Observatory
-  - Github
+  - GitHub
 
 ## Create a Mattermost channel
 
