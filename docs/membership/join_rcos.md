@@ -1,6 +1,6 @@
 # How to join RCOS
 
-If you're an RPI student, hop in on our first meeting of the semester or join [our Discord](https://chat.rcos.io) and message a faculty coordinator (@mskmoorthy or @turnew2).
+If you're an RPI student, hop in on our first meeting of the semester or join [our Discord](https://rcos-discord.herokuapp.com/) and message a faculty coordinator (@mskmoorthy or @turnew2).
 
 If you're looking to get involved with RCOS as a member outside of RPI, email a [coordinator](mailto:coordinators@rcos.io) to get setup on the [RCOS Discord](#discord). In the meantime, you can create an account and fill in your profile on [Observatory](#observatory).
 
@@ -24,7 +24,7 @@ If you're looking to get involved with RCOS as a member outside of RPI, email a 
 
 ## Discord
 
-[Discord](https://chat.rcos.io) is the primary communication platform for RCOS. We created a tool to link your RPI identity to your Discord account (only for our server of course!) and create categories and channels for small groups and projects each semester. Here you'll be able to reach out to faculty, coordinators, mentors, and your fellow members!
+[Discord](https://rcos-discord.herokuapp.com/) is the primary communication platform for RCOS. We created a tool to link your RPI identity to your Discord account (only for our server of course!) and create categories and channels for small groups and projects each semester. Here you'll be able to reach out to faculty, coordinators, mentors, and your fellow members!
 
 ## Git
 

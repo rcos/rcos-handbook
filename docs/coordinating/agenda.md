@@ -63,6 +63,6 @@ Projects with 8 or more members may be split between mentor groups.
 
 At least one mentor meeting excluding mentor training must occur prior to the fourth meeting. Mentors should be instructured to ensure that mentees:
 1. Are on [rcos.io](https://rcos.io).
-2. Are on [chat.rcos.io](https://chat.rcos.io)
+2. Are on [Discord](https://rcos-discord.herokuapp.com/)
 
 Any larger goals for the year should be made clear and a schedule for mentor meetings should be set.
