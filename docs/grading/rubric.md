@@ -39,7 +39,7 @@ Keeping us informed with a weekly status blog and by keeping your project docume
 
 | Grade | Description |
 |-|-|
-| **A** | Makes frequent (weekly), high caliber status updates documenting each issue they work on and several problems they solve or investigate deeply. Project has a helpful README, and has additional documentation that is of quality and value. The Final Status update is a concise but complete summary of the year's efforts and accomplishments.|
+| **A** | Makes frequent (weekly), high caliber status updates documenting each issue they work on and several problems they solve or investigate deeply. Project has a helpful README, and has additional documentation that is of quality and value. The Final Status Update is a concise but complete summary of the year's efforts and accomplishments.|
 | **B** | Makes status updates that may be too few or brief OR project may not have may not have much additional documentation. Final status update is missing or does not fully capture the project status.|
 | **C** | Makes only a few or low quality status updates, OR project may have little other documentation. |
 | **D** | Makes few status updates of little to no value and does not contribute to other forms of documentation. |
