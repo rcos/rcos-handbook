@@ -27,7 +27,7 @@ coordinator or a faculty advisor for help and suggestions. Failure to do so will
 
 | Grade | Description |
 |-|-|
-| **A** | Makes meaningful contributions to several milestones. Student is active on GitHub and Mattermost and makes excellent use of issue tracking and project management systems. Student communicates failures and development barriers to their team and mentors and documents them for the future, and makes their best effort to overcome challenges. Open contributions are licensed correctly with an OSI approved license, are easy to find and can be easily obtained and used.|
+| **A** | Makes meaningful contributions to several milestones. Student is active on GitHub and Discord and makes excellent use of issue tracking and project management systems. Student communicates failures and development barriers to their team and mentors and documents them for the future, and makes their best effort to overcome challenges. Open contributions are licensed correctly with an OSI approved license, are easy to find and can be easily obtained and used.|
 | **B** | Makes meaningful contributions to several milestones, but may be slightly lacking in communication and/or planning requirements, or may not make good use of issue tracking / project management systems. Open contributions are licensed correctly and can be easily obtained and used, but may not be easy to find.|
 | **C** | Makes too few contributions and does not ask for help when needed. Student makes little to no use of issue tracking and project management systems, and does not communicate well with team members or mentors. Open contributions may not be licensed correctly, may not be easily obtained and used, or may not be easy to find.|
 | **D** | Makes almost no meaningful contributions and makes little effort to communicate with team members and mentors, or contributions are not licensed correctly.|
@@ -39,7 +39,7 @@ Keeping us informed with a weekly status blog and by keeping your project docume
 
 | Grade | Description |
 |-|-|
-| **A** | Makes frequent (weekly), high caliber status updates documenting each issue they work on and several problems they solve or investigate deeply. Project has a helpful README, and has additional documentation that is of quality and value. The Final Status update is a concise but complete summary of the year's efforts and accomplishments.|
+| **A** | Makes frequent (weekly), high caliber status updates documenting each issue they work on and several problems they solve or investigate deeply. Project has a helpful README, and has additional documentation that is of quality and value. The Final Status Update is a concise but complete summary of the year's efforts and accomplishments.|
 | **B** | Makes status updates that may be too few or brief OR project may not have may not have much additional documentation. Final status update is missing or does not fully capture the project status.|
 | **C** | Makes only a few or low quality status updates, OR project may have little other documentation. |
 | **D** | Makes few status updates of little to no value and does not contribute to other forms of documentation. |
