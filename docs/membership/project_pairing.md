@@ -6,21 +6,30 @@
 
 # Project Pairing
 
+!> Project Pairing is currently done entirely online while remote learning is in effect. The in-person protocol will be returned here once we make it back to campus!
+
 ## Overview
 
 The goal of project Project Pairing is to ensure that each student finds a project that matches their interests. Finding a project can be very nerve-wracking, especially for new members. Project Pairing was introduced to address this problem.
 
 Project Pairing should take place the meeting directly after pitch day but **must** take place before the first small group meeting. During Project Pairing, each project that is currently seeking new members is made easily visible to all members seeking projects. For this reason, it is crucial that all projects and members are present in the same room.
 
-## Why Project Pairing?
-One of the major components of the RCOS experience is finding an interesting project to work on. Finding a project for the first time can be a difficult task for newcomers to RCOS. In the past, members would email project leads after the leads would pitch their project on Pitch Day. While this method works it means that some students would not email certain projects since they felt unprepared due to a lack of open-source contributions.
-
-**Project Pairing was created to mitigate this problem.** By having representatives from each project promote their project to RCOS members, this approach both puts new members at ease (since they will be able to ask more questions in person) and helps projects define how to promote themselves to new members.
-
-## Protocol
 <!-- Project Pairing must occur before the first small group meeting of the year. For a project to qualify for the Project Pairing process they must have an outline of their proposal approved by a coordinator or mentor. This outline must be approved by a coordinator or mentor 48 hours before the Project Pairing process. After approval each project must pick one person to act as a representative of the project. The rep will be given a sign with their project name on it and then the representatives will begin talking to anyone interested in joining the project. The rep should make sure that anyone interested in their project gets their email and a link to the projects' main communication channel. After the Project Pairing process has finished, the next order of business will be for projects so submit their proposals for approval by coordinators. -->
 
-Projects should participate in Project Pairing if and only if they are still looking for new members.
+!> Projects should participate in Project Pairing if and only if they are still looking for new members.
+
+## Online Protocol
+
+### Setup
+Each project looking for new members will have a text and voice channel created for them on the Discord server under the **Project Pairing** channel category. Project Leads will be given permission to manage pin/delete messages in their project text channel, and mute privileges in their project voice channel. **These channels will be removed at the end of Project Pairing, when projects have their proper channels in Small Group categories created.**
+
+### During Meeting
+After the large group meeting where Project Pairing is announced, Project Leads who are available are asked to join their project's voice channel and monitor their project text channel. Members looking for projects will then be able to hop into project voice channels and talk with Project Leads about their project. Members unable to join the voice channel can ask questions and discuss projects in the text channels.
+
+
+<!-- IN PERSON PROJECT PAIRING BELOW: UNCOMMENT ONCE WE ARE FREE FROM THIS ONLINE HELL -->
+
+<!--## Protocol
 
 Once the list of participating projects has been established, a numbered list should be compiled and documented. Each project taking part in the event will be assigned an ID number corresponding to its list enumeration.
 
@@ -43,4 +52,4 @@ All project members should eventually relocate to the proposal approval room. So
 
 ## Mentors
 
-Mentors should be present to guide members to projects that they are well suited for. This is also a chance for mentors to direct members to higher priority or sponsored projects. Mentors should make a conscious effort to reach out to and help students who look lost or anxious. Mentors must ensure that each student leaves Project Pairing with a project they are happy with.
+Mentors should be present to guide members to projects that they are well suited for. This is also a chance for mentors to direct members to higher priority or sponsored projects. Mentors should make a conscious effort to reach out to and help students who look lost or anxious. Mentors must ensure that each student leaves Project Pairing with a project they are happy with. -->
