@@ -28,7 +28,7 @@ Bare minimum:
 ### First Two Weeks
 The first two weeks agenda can be found [here](coordinating/agenda).
 
-As a mentor, you are expected to help out with project speed dating. If you have a course conflict on Tuesdays at 4pm (e.g. ECSE seminar), please let the coordinators know so that:
+As a mentor, you are expected to help out with Project Pairing. If you have a course conflict on Tuesdays at 4pm (e.g. ECSE seminar), please let the coordinators know so that:
   - your absence during these meetings can be marked as excused
   - you can be placed in an alternate small group (typically held at 6pm on Tuesday)
 

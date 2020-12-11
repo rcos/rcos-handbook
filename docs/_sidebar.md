@@ -9,8 +9,8 @@
 * Getting started
   * [Join RCOS](membership/join_rcos.md)
   * [What You'll Need](membership/requirements.md)
-  <!-- * [Project Pitch](membership/speed_dating.md) -->
-  * [Speed Dating](membership/speed_dating.md)
+  <!-- * [Project Pitch](membership/project_pairing.md) -->
+  * [Project Pairing](membership/project_pairing.md)
   * [New Projects](membership/new_projects.md)
 
 * Meetings
