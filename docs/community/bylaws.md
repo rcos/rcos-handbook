@@ -58,7 +58,7 @@ If you violate the RCOS Community Code of Conduct or Bylaws, appropriate consequ
 
 ### Short Version
 Consequences may include:
-- Verbal, Mattermost, or written warnings
+- Verbal, Discord, or written warnings
 - Requests to edit or delete project material
 - Removal from sessions
 - Grade penalties
@@ -74,10 +74,10 @@ See the long version below for details on what these penalties entail.
 
 Consequences may include:
 
-* A verbal or Mattermost warning from a mentor or coordinator
+* A verbal or Discord warning from a mentor or coordinator
 * A written warning from a faculty advisor
 * A request to edit or delete any project material that violates the Code of Conduct 
-  * Project material includes, but is not limited to, status updates, blog posts, code, comments, issues, pull requests, milestones, wiki pages, static websites, graphics, social media posts, etc. 
+  * Project material includes, but is not limited to, status updates, code, comments, issues, pull requests, milestones, wiki pages, static websites, graphics, social media posts, etc. 
   * Failure to comply with this request may result in grade penalties as outlined below.
 * Grade penalties on deliverables (including status updates, presentations, open source contributions, etc.) that contain inappropriate, unprofessional, or harassing content
   * For smaller deliverables such as status updates, this can result in losing half or all credit on the deliverable.

@@ -1,5 +1,7 @@
 # Inclement Weather Policy
 
+!> Of course, this policy is not in effect during remote learning.
+
 ## Overview
 
 We at RCOS understand that it may be difficult or unsafe to get to campus during inclement weather. Below are our policies on cancelling or dismissing RCOS meetings due to inclement weather.
@@ -11,7 +13,7 @@ If classes are not in session due to inclement weather, any RCOS events that occ
 - Small Group
 - Weekday Work/Bonus Sessions
 
-> TODO: if large group is cancelled, should we postpone large group to next Friday or simply cancel and have the next large group be next month? Ideally if we postpone, we shouldn't postpone the same large group more than once
+<!-- > TODO: if large group is cancelled, should we postpone large group to next Friday or simply cancel and have the next large group be next month? Ideally if we postpone, we shouldn't postpone the same large group more than once -->
 
 ## Weekend or Holiday Events
 

@@ -254,8 +254,8 @@ RCOS's homebrew project management system
 
 ---
 
-### Mattermost
-http://chat.rcos.io
+### Discord
+https://rcos-discord.herokuapp.com/
 
 RCOS's primary communication medium
 
