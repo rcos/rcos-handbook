@@ -27,8 +27,8 @@ coordinator or a faculty advisor for help and suggestions. Failure to do so will
 
 | Grade | Description |
 |-|-|
-| **A** | Makes meaningful contributions to several milestones. Student is active on GitHub and Discord and makes excellent use of issue tracking and project management systems. Student communicates failures and development barriers to their team and mentors and documents them for the future, and makes their best effort to overcome challenges. Open contributions are licensed correctly with an OSI approved license, are easy to find and can be easily obtained and used.|
-| **B** | Makes meaningful contributions to several milestones, but may be slightly lacking in communication and/or planning requirements, or may not make good use of issue tracking / project management systems. Open contributions are licensed correctly and can be easily obtained and used, but may not be easy to find.|
+| **A** | Makes meaningful contributions to the project. Student is active on GitHub and Discord and makes excellent use of issue tracking and project management systems. Student communicates failures and development barriers to their team and mentors and documents them for the future, and makes their best effort to overcome challenges. Open contributions are licensed correctly with an OSI approved license, are easy to find and can be easily obtained and used.|
+| **B** | Makes meaningful contributions to the project, but may be slightly lacking in communication and/or planning requirements, or may not make good use of issue tracking / project management systems. Open contributions are licensed correctly and can be easily obtained and used, but may not be easy to find.|
 | **C** | Makes too few contributions and does not ask for help when needed. Student makes little to no use of issue tracking and project management systems, and does not communicate well with team members or mentors. Open contributions may not be licensed correctly, may not be easily obtained and used, or may not be easy to find.|
 | **D** | Makes almost no meaningful contributions and makes little effort to communicate with team members and mentors, or contributions are not licensed correctly.|
 | **F** | Makes no visible effort to contribute to their project or communicate with their team and mentors. |
@@ -64,10 +64,9 @@ You cannot learn, participate, or share unless you are here.
 Attendance at RCOS is required for:
 - all small group meetings
 - all mandatory large group meetings
-- at least 50% of all workshop sessions
-- at least 2 work sessions
+- at least 1 workshop session
 
-You may miss up to two meetings (small or large group combined) without an excuse and can make up an additional two meetings by attending more than the required number of bonus, work, or workshop sessions. 
+You may miss up to two meetings (small or large group combined) without an excuse and can make up an additional two meetings by attending more than the required number of bonus or workshop sessions. This can be something like attending HackRPI or other hackathons. Opportunities will be announced in meeting slides.
 
 Unexcused absences beyond those allowed will impact your grade.
 We understand that there are occasional conflicts that require you to be absent from an RCOS meeting without a formal excuse.
@@ -76,8 +75,8 @@ See our [documentation on attendance](attendance.md) for further details on what
 
 | Grade | Description |
 |-|-|
-| **A** | Misses no more than two meetings and makes up any unexcused absences by attending bonus sessions. Attends 50% or more of all workshop sessions and 2 or more work sessions.|
-| **B** | Misses no more than four meetings and makes up most unexcused absences. Attends 33% or more of all workshop sessions and at least 1 work session. |
+| **A** | Misses no more than two meetings and makes up any unexcused absences by attending bonus sessions. Attends 1 or more workshop sessions. |
+| **B** | Misses no more than four meetings and makes up most unexcused absences. Attends 1 or more workshop sessions. |
 | **C** | Repeatedly misses meetings or does not make up unexcused absences. |
 | **D** | Misses many meetings and does not attempt to make up unexcused absences. |
 | **F** | Makes no effort to regularly attend meetings. |
@@ -107,4 +106,4 @@ bonus sessions, and our weekly coding open houses. Because of this added
 responsiblity, you are given more leeway on the open source contributions as 
 well as other rubric items above.
 
-At a minimum a mentor is expected to host at least one workshop.
+At a minimum a mentor is expected to host at least one workshop. We encourage you to host as many as you would like!
