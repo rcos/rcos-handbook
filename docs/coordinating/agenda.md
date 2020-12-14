@@ -47,7 +47,7 @@ If a significant number of new mentors have still not completed mentor training,
 
 ## Third Meeting
 
-The third meeting has two parts that occur simultaneously: project 'Speed Dating' and proposal approval. The mentors should be split evenly between the two events, with each occuring in its own room. Finding a project can be very nervewracking for newcomers, so project speed dating is intended to ensure every student finds a project.
+The third meeting has two parts that occur simultaneously: project 'Project Pairing' and proposal approval. The mentors should be split evenly between the two events, with each occuring in its own room. Finding a project can be very nervewracking for newcomers, so Project Pairing is intended to ensure every student finds a project.
 
 In one room, every project that is looking for more group members should have a representative present to talk to potential group members. The representative should have a printed copy of their pitch slide to identify themself. Every student that does not yet have a project will be present, and will be able to talk to the project representatives and find a project that matches their interest. Mentors should be present to guide students who appear lost or anxious, and to make sure each project gets members. Once students have selected their project, or if they already have a project, they should go to the second room.
 

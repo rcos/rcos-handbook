@@ -287,7 +287,7 @@ https://rcos.io/projects
 - Pitch Day
 - Post on Mattermost (#slides)
 - Talk to mentors and coordinators
-- Project Speed Dating
+- Project Project Pairing
 
 ---
 
@@ -344,8 +344,8 @@ Project pitches Tuesday!
 - Please send them by 11pm on Monday (9/4)
 - Slides MUST be in JPEG format!
 - Please NO PDF, PPT/X, or Google links!
-- Friday (9/7) - Project Speed Dating (Find a project!)
-- DO NOT wait until speed dating to look for a project!
+- Friday (9/7) - Project Project Pairing (Find a project!)
+- DO NOT wait until Project Pairing to look for a project!
 
 ---
 

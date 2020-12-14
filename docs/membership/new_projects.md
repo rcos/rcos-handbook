@@ -7,7 +7,7 @@ Note that if you are an external organization or external project, these guideli
 ## Forming a Team
 You can work by yourself, but managing an open source project by yourself can be very difficult. We highly recommend forming a team if you don't already have one!
 
-We have a special team forming process called [Project Speed Dating](membership/speed_dating), which occurs in the first two weeks of the semester.
+We have a special team forming process called [Project Project Pairing](membership/project_pairing), which occurs in the first two weeks of the semester.
 
 ## Writing a Proposal
 
