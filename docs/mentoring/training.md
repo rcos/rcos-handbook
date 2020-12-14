@@ -32,16 +32,16 @@ As a mentor, you are expected to help out with project speed dating. If you have
   - your absence during these meetings can be marked as excused
   - you can be placed in an alternate small group (typically held at 6pm on Tuesday)
 
-### Using Observatory as a Mentor
+<!-- ### Using Observatory as a Mentor
   - Verification
   - Setting up a small group
-  - Generating small group attendance codes
+  - Generating small group attendance codes -->
 
 ### Running Small Group
 A brief overview of small group meetings for RCOS members can be found [here](meetings/small_group_meetings). Mentor training will additionally cover:
   - Tuesday vs. Friday small group
   - Running standup
-  - Grading presentations <!-- really emphasize presentation review this semester -->
+  - Grading presentations
 
 ### Helping in Large Group
   - Managing noise levels/talking
