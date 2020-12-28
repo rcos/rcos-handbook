@@ -1,5 +1,6 @@
 * Overview
   * [Welcome to RCOS](README.md)
+  * [FAQ](overview/faq.md)
   * [Projects](overview/projects.md)
   <!-- * [History](overview/history.md) -->
   * [Code Of Conduct](overview/code_of_conduct.md)
@@ -9,8 +10,7 @@
 * Getting started
   * [Join RCOS](membership/join_rcos.md)
   * [What You'll Need](membership/requirements.md)
-  <!-- * [Project Pitch](membership/speed_dating.md) -->
-  * [Speed Dating](membership/speed_dating.md)
+  * [Project Pairing](membership/project_pairing.md)
   * [New Projects](membership/new_projects.md)
 
 * Meetings
@@ -23,7 +23,7 @@
   * [Attendance](grading/attendance.md)
   * [Documentation](grading/documentation.md)
   * [Status Updates](grading/status_updates.md)
-  * [Flex](grading/flex.md)
+  <!-- * [Flex](grading/flex.md) -->
   * [Appeal Policies](grading/appeal_policies.md)
   * [Academic Integrity](grading/academic_integrity.md)
   
@@ -34,7 +34,7 @@
   * [Hackathons](events/hackathons.md)
   * [Accepted Students Day](events/accepted_students_day.md)
   * [NRB](events/nrb.md)
-  * [Hosting an Event](events/hosting.md)
+  <!-- * [Hosting an Event](events/hosting.md) TODO: remove after remote learning -->
 
 <!-- * Work Groups -->
 <!-- * [Overview](work_groups/README.md) -->

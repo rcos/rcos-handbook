@@ -7,7 +7,7 @@ Note that if you are an external organization or external project, these guideli
 ## Forming a Team
 You can work by yourself, but managing an open source project by yourself can be very difficult. We highly recommend forming a team if you don't already have one!
 
-We have a special team forming process called [Project Speed Dating](membership/speed_dating), which occurs in the first two weeks of the semester.
+We have a special team forming process called [Project Project Pairing](membership/project_pairing), which occurs in the first two weeks of the semester.
 
 ## Writing a Proposal
 
@@ -18,15 +18,13 @@ Once you have a proposal, if you are contributing at RPI, fill out the RPI-speci
 ## Setup
 
 If you haven't already, set up an account on:
-  - RCOS Mattermost
+  - RCOS Discord
   - Observatory
-  - Github
+  - GitHub
 
-## Create a Mattermost channel
+## Discord channel
 
-Once all of your team members are on the RCOS Mattermost, create a channel for your team to communicate. This can be done by pressing the '+' icon next to "Channels" on our Mattermost.
-
-Don't forget to add your [small group mentors]() to your team's Mattermost channel so they can help you out if needed! If you haven't been assigned a small group yet, you can skip this step until you have a small group assigned.
+When projects are finalized, we automate the creation of categories for each small group which include a voice and text channel for your project. The text channel is only visible to you, your team, and the coordinators/faculty. You are given permission to pin and delete messages in your project's channel. Reach out to a coordinator if you every have issues with your channel or need help. 
 
 ## Setup Your Repository
 

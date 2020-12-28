@@ -1,5 +1,7 @@
 # Code Jams
 
+!> This has been put on hold while remote learning is in effect.
+
 ## Motivation
 
 RCOS holds many events throughout the semester, and affords students many opportunities to learn new technical and non-technical skills. However, we have not specifically focused on fostering our internal community and reaching out to new members as much as we have on other measures of success.

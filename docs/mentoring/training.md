@@ -28,20 +28,20 @@ Bare minimum:
 ### First Two Weeks
 The first two weeks agenda can be found [here](coordinating/agenda).
 
-As a mentor, you are expected to help out with project speed dating. If you have a course conflict on Tuesdays at 4pm (e.g. ECSE seminar), please let the coordinators know so that:
+As a mentor, you are expected to help out with Project Pairing. If you have a course conflict on Tuesdays at 4pm (e.g. ECSE seminar), please let the coordinators know so that:
   - your absence during these meetings can be marked as excused
   - you can be placed in an alternate small group (typically held at 6pm on Tuesday)
 
-### Using Observatory as a Mentor
+<!-- ### Using Observatory as a Mentor
   - Verification
   - Setting up a small group
-  - Generating small group attendance codes
+  - Generating small group attendance codes -->
 
 ### Running Small Group
 A brief overview of small group meetings for RCOS members can be found [here](meetings/small_group_meetings). Mentor training will additionally cover:
   - Tuesday vs. Friday small group
   - Running standup
-  - Grading presentations <!-- really emphasize presentation review this semester -->
+  - Grading presentations
 
 ### Helping in Large Group
   - Managing noise levels/talking
@@ -50,7 +50,7 @@ A brief overview of small group meetings for RCOS members can be found [here](me
 ### Handling Code of Conduct Violations
 Please familiarize yourselves with our [Code of Conduct](community/CODE_OF_CONDUCT) and [Bylaws](community/bylaws). As a mentor, you are not only expected to follow these, but to enforce them where appropriate.
 
-Any violations warranting more than a verbal/Mattermost warning (e.g. repeated offenses, harassment) should be reported to coordinators/faculty advisors, who will then determine the appropriate action(s) necessary.
+Any violations warranting more than a verbal/Discord warning (e.g. repeated offenses, harassment) should be reported to coordinators/faculty advisors, who will then determine the appropriate action(s) necessary.
 
 <!--
 TODO: flesh this out further
