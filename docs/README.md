@@ -9,9 +9,11 @@ RCOS is an active member of the [Mozilla Open Source Student Network](https://op
 > To cultivate an inclusive, creative, and entrepreneurial community that seeks to empower students to develop open-source solutions to real-world problems.
 
 ### What do we do?
-RCOS members work on open source projects throughout the semester for either free elective course credit or just experience. At the beginning of each semester, members either propose their own new projects or join a project. The only requirements are attendance, regular progress updates, and a final presentation. The main goal is not necessarily to develop a successful project but to be exposed to interesting ideas, technologies, and people while gaining practical experience outside of the classroom.  
+RCOS members collaborate on open source projects throughout the semester. Members may participate as students pursuing free elective course credit, or recreationally for experience. At the beginning of each semester, members may propose an outline for a new or existing project, or join a project proposed by another member. Members must regularly be in attendance, produce regular progress updates, and give a final presentation.
 
-Project team members meet twice weekly to collaborate on their projects using git. Mentors are available for assistance and technical help. Coordinators run the organization and determine its direction with the help of faculty supervisors.
+All members are encouraged to produce successful projects, but the primary goals are but to be exposed to interesting ideas, technologies, and people while gaining practical experience outside of the classroom in a low-risk environment.
+
+Check out the [FAQ](overview/faq.md) for more information.
 
 ### RCOS Handbook
 This handbook is the single-source-of-truth of documentation for RCOS. It is intended to be a thorough, living document detailing the organizational practices of RCOS at every level. If you find a problem or something that you'd like to dispute, please [open an issue](https://github.com/rcos/handbook/issues/new). You can learn more about this handbook [here](handbook/README.md).
