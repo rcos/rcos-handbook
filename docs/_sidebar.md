@@ -9,7 +9,6 @@
 * Getting started
   * [Join RCOS](membership/join_rcos.md)
   * [What You'll Need](membership/requirements.md)
-  <!-- * [Project Pitch](membership/project_pairing.md) -->
   * [Project Pairing](membership/project_pairing.md)
   * [New Projects](membership/new_projects.md)
 
@@ -34,7 +33,7 @@
   * [Hackathons](events/hackathons.md)
   * [Accepted Students Day](events/accepted_students_day.md)
   * [NRB](events/nrb.md)
-  * [Hosting an Event](events/hosting.md)
+  <!-- * [Hosting an Event](events/hosting.md) TODO: remove after remote learning -->
 
 <!-- * Work Groups -->
 <!-- * [Overview](work_groups/README.md) -->

@@ -27,7 +27,7 @@ Each project looking for new members will have a text and voice channel created 
 After the large group meeting where Project Pairing is announced, Project Leads who are available are asked to join their project's voice channel and monitor their project text channel. Members looking for projects will then be able to hop into project voice channels and talk with Project Leads about their project. Members unable to join the voice channel can ask questions and discuss projects in the text channels.
 
 
-<!-- IN PERSON PROJECT PAIRING BELOW: UNCOMMENT ONCE WE ARE FREE FROM THIS ONLINE HELL -->
+<!-- TODO: IN PERSON PROJECT PAIRING BELOW - UNCOMMENT ONCE WE ARE FREE FROM THIS ONLINE HELL -->
 
 <!--## Protocol
 
