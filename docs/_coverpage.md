@@ -5,7 +5,7 @@
 <p style="color: #da291c">version 0.3</p>
 
 [GitHub](https://github.com/rcos/rcos-handbook/)
-<!-- [Get Started](#docsify) -->
+[Get Started](#main)
 
 <!-- background color -->
 ![color](#ffffff)
