@@ -1,4 +1,4 @@
-# Status Updates
+# Status Update Guidelines
 
 ## Overview
 
@@ -12,7 +12,7 @@ Currently, a Submitty gradeable is created for a Status Update each week, and me
 
 **How are Status Updates graded?**
 
-Your Status Updates are factored into your final year grade. See the [Grading page](#) for details.
+Your Status Updates are factored into your final year grade. See the [Grading Rubric](grading/rubric) for details.
 
 ## Requirements
 
