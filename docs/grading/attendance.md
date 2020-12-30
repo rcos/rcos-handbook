@@ -1,12 +1,21 @@
-# Attendance
+# Attendance Guidelines
+
+<!-- **TODO** - we need to establish a threshold percentage that must be fulfilled by regular, non-bonus session attendance. The reason for this threshold is to ensure that bonus sessions are used to fill gaps in attendance, rather than supplement a significant portion of the requirement. -->
 
 ## Overview
 
-Being part of the RCOS community means seeing what RCOS members are doing, giving feedback, and learning from tech talks and guest speakers. Attendence is required and is taken on Tuesdays and Fridays via Observatory.
+Being part of the RCOS community means seeing what RCOS members are doing, giving feedback, and learning from tech talks and guest speakers.
 
-A student can have two unexcused absences before their grade is affected or make-ups are needed.
+Attendance at RCOS is required for:
+- all small group meetings
+- all mandatory large group meetings
+- at least 1 workshop session
 
-**TODO** - we need to establish a threshold percentage that must be fulfilled by regular, non-bonus session attendance. The reason for this threshold is to ensure that bonus sessions are used to fill gaps in attendance, rather than supplement a significant portion of the requirement.
+You may miss up to two meetings (small or large group combined) without an excuse and can make up an additional two meetings by attending more than the required number of bonus, work, or workshop sessions. 
+
+Unexcused absences beyond those allowed will impact your grade.
+We understand that there are occasional conflicts that require you to be absent from an RCOS meeting without a formal excuse.
+Please see a coordinator or faculty member prior to any conflicts to make arrangements.
 
 ## Bonus Sessions
 Unexcused absences can be made up by attending bonus sessions. Bonus sessions can be fulfilled by attending any of the following events:
@@ -45,8 +54,8 @@ For unforeseen absences (e.g. illness, family emergency), this must be done with
 
 For extenuating circumstances, please speak to a coordinator or faculty advisor directly.
 
-In the future, functionality will be implemented to request excused absences through Observatory!
+In the future, functionality will be implemented to request excused absences!
 
-## Resolving Attendance Issues
+<!-- ## Resolving Attendance Issues
 
-**TODO**: See [issue #66](https://github.com/rcos/rcos-handbook/issues/66) on our GitHub repository.
+**TODO**: See [issue #66](https://github.com/rcos/rcos-handbook/issues/66) on our GitHub repository. -->

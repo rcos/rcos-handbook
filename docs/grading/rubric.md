@@ -57,8 +57,8 @@ You cannot learn, participate, or share unless you are here.
 
 | Grade | Description |
 |-|-|
-| **A** | Misses no more than two meetings and makes up any unexcused absences by attending bonus sessions. Attends 50% or more of all workshop sessions and 2 or more work sessions.|
-| **B** | Misses no more than four meetings and makes up most unexcused absences. Attends 33% or more of all workshop sessions and at least 1 work session. |
+| **A** | Makes all required meetings and makes up all unexcused absences. |
+| **B** | Misses no more than four meetings and makes up most unexcused absences. |
 | **C** | Repeatedly misses meetings or does not make up unexcused absences. |
 | **D** | Misses many meetings and does not attempt to make up unexcused absences. |
 | **F** | Makes no effort to regularly attend meetings. |
