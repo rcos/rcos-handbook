@@ -1,7 +1,7 @@
 * Overview
   * [Welcome to RCOS](README.md)
   * [FAQ](overview/faq.md)
-  * [Projects](overview/projects.md)
+  * [Featured Projects](overview/featured_projects.md)
   <!-- * [History](overview/history.md) -->
   * [Code Of Conduct](overview/code_of_conduct.md)
   <!-- * [Sponsors](overview/sponsors.md) -->

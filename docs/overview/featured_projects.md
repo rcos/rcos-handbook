@@ -1,4 +1,4 @@
-# Projects
+# Featured Projects
 
 All our RCOS-sponsored projects are available on our [GitHub](https://www.github.com/rcos).
 
@@ -6,10 +6,10 @@ All our RCOS-sponsored projects are available on our [GitHub](https://www.github
 [Observatory](https://github.com/observatory-server) is RCOS's primary class management tool. All of RCOS's current and past projects and developers are listed on the site. Observatory is also used to manage all of RCOS's small groups and is also used to verify the attendance of members.
 
 ## YACS
-[YACS](https://github.com/YACS-RCOS) is an open-source course scheduler for the community at Rensselaer Polytechnic Institute. Students are able to create course schedules for the coming semester by searching and choosing the courses that they want to take for the coming semester. YACS has been in development since 2010 and is currently supported by RedHat.
+[YACS](https://github.com/YACS-RCOS) is an open-source course scheduler for the community at Rensselaer Polytechnic Institute. Students are able to create course schedules for the coming semester by searching and choosing the courses that they want to take for the coming semester. YACS has been in development since 2010.
 
 ## Venue
-[Venue](https://github.com/venue) is a platform that allows instructors to give students credit for attending events. An instructor signs on and creates courses and events, students can then use the Venue app to upload event submissions, which can contain images or GPS data that verifies a student attended an event.
+[Venue](https://github.com/TheStopsign/Venue) is a classroom management tool that integrates QR Code based attendance and enforces asynchronous lecture recording playback.
 
 ## Student Projects
 All our past and present student projects can be viewed on [RCOS Observatory](https://rcos.io)
