@@ -17,7 +17,7 @@
   * [Semester Outline](meetings/semester_outline.md)
   * [Large Group Meetings](meetings/large_group_meetings.md)
   * [Small Group Meetings](meetings/small_group_meetings.md)
-  * [Inclement Weather Policy](meetings/inclement_weather.md)
+  <!-- * [Inclement Weather Policy](meetings/inclement_weather.md) TODO: uncomment when we return to in-person meetings -->
 
 * Grading
   * [Overview](grading/README.md)
