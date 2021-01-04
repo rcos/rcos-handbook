@@ -21,5 +21,8 @@ No! RCOS looks for consistent work, not a fully-fledged, completed project at th
 ## Do I need Computer Science experience to join?
 You do not need any prior programming/hardware/CS experience to join RCOS and all majors are welcome. However, different projects will require different levels of experience from their members. There are often many projects each semester that welcome beginners and are willing to teach members how to get started and contribute. There are also workshops held by members throughout each semester on different technologies, frameworks, languages, etc. to learn from.
 
+## What are some successful RCOS projects?
+[YACS](https://github.com/YACS-RCOS), in development since 2010, lets students create course schedules. [Venue](https://github.com/TheStopsign/Venue) is a classroom management tool that integrates QR Code based attendance and enforces asynchronous lecture recording playback. [Observatory](https://github.com/observatory-server) is RCOS's primary class management tool. All our past and present student projects can be viewed on [RCOS Observatory](https://rcos.io)
+
 ## Why is RCOS a unique RPI organization?
 RCOS is a student-run organization that allows students to not only work on what interests them but also receive course credit for it.
