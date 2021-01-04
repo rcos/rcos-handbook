@@ -10,7 +10,6 @@
   * [Join RCOS](membership/join_rcos.md)
   * [What You'll Need](membership/requirements.md)
   * [Project Pairing](membership/project_pairing.md)
-  * [New Projects](membership/new_projects.md)
 
 * Meetings
   * [Semester Outline](meetings/semester_outline.md)
@@ -23,6 +22,10 @@
   * [Rubric](grading/rubric.md)
   * [Appeal Policies](grading/appeal_policies.md)
   * [Academic Integrity](grading/academic_integrity.md)
+
+* Assignments
+  * [Status Updates](grading/status_updates)
+  * [Final Presentation](grading/presentations)
 
 * Events
   * [Casual Coding Sessions](events/casual_coding_sessions.md)
@@ -41,6 +44,12 @@
 <!-- * [Public Relations](work_groups/public_relations.md) -->
 <!-- * [Sponsorship](work_groups/sponsorship.md) -->
 <!-- * [Student Resources](work_groups/student_resources.md) -->
+
+* Project Management
+  * [New Projects](project_management/new_projects)
+  * [Project Pitch](project_management/pitch)
+  * [Project Proposal](grading/documentation?id=proposal)
+  * [Managing a Project](#)
 
 * Mentoring
   * [What are Mentors?](mentoring/README.md)

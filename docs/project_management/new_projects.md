@@ -11,7 +11,7 @@ We have a special team forming process called [Project Project Pairing](membersh
 
 ## Writing a Proposal
 
-After you form a team, you will have to write a proposal for your project for the current semester. See the [rubric](grading/README) for more details on proposals.
+After you form a team, you will have to write a proposal for your project for the current semester. See the [rubric](grading/documentation?id=proposal) for more details on proposals.
 
 Once you have a proposal, if you are contributing at RPI, fill out the RPI-specific paperwork with your proposal so you can get credit, pay, or experience for your project.
 
