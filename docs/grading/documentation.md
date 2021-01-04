@@ -20,11 +20,16 @@ Every project repository is **required** to have a `LICENSE` file in the root di
 
 ### Proposal
 
-Every semester, each project must submit a proposal document with the following information:
+Every semester, **every** project must develop and submit a proposal document detailing the following:
 - Project title
+- Project Lead(s)
 - Project contributors
 - Project description
-- Project milestones
+- Milestones for the semester
+
+?> Check out this [template](https://docs.google.com/document/d/1CS5jjniYmfA-n8yBO89hdcNFde4eTQiyte8diMIU-J8/edit) you can follow or this [past proposal](https://docs.google.com/document/d/1sdEsEn1cOOYGZMzunM63HC699bbJs-LZ1lYEGVoCBoo/edit?usp=sharing).
+
+Your project proposal gives us an idea of what your project is about, how many people you are working with, and what goals you have for the semester. We understand that your ideas and goals can change as the semester progresses, and that is fine! While your team's contributions to your project should be related to your milestones, we do not grade contributions based on how successful you were at reaching them. We encourage you to continually update each semester's proposal as well.
 
 
 ---
