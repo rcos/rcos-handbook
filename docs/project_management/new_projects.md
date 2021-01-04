@@ -11,9 +11,7 @@ We have a special team forming process called [Project Project Pairing](membersh
 
 ## Writing a Proposal
 
-After you form a team, you will have to write a proposal for your project for the current semester. See the [rubric](grading/documentation?id=proposal) for more details on proposals.
-
-Once you have a proposal, if you are contributing at RPI, fill out the RPI-specific paperwork with your proposal so you can get credit, pay, or experience for your project.
+After you form a team, you will have to write a proposal for your project for the current semester. See the [rubric](grading/documentation?id=proposal) for more details on proposals. Make sure it meets the requirements specified, as mentors/coordinators will be reviewing these and giving feedback before contributing starts.
 
 ## Setup
 
@@ -24,18 +22,18 @@ If you haven't already, set up an account on:
 
 ## Discord channel
 
-When projects are finalized, we automate the creation of categories for each small group which include a voice and text channel for your project. The text channel is only visible to you, your team, and the coordinators/faculty. You are given permission to pin and delete messages in your project's channel. Reach out to a coordinator if you every have issues with your channel or need help. 
+**You shouldn't have to do anything!** When projects are finalized, we automate the creation of categories for each small group which include a voice and text channel for your project. The text channel is only visible to you, your team, and the coordinators/faculty. You are given permission to pin and delete messages in your project's channel. Reach out to a coordinator if you every have issues with your channel or need help. 
 
 ## Setup Your Repository
 
 Create a repository on Github for your project. Then, create the following:
 - README
 - LICENSE
-- CODE_OF_CONDUCT
-- CONTRIBUTING
-- Issue or pull request template
+- CODE_OF_CONDUCT *(optional but recommended)*
+- CONTRIBUTING *(optional but recommended)*
+- Issue or pull request template *(optional but recommended)*
 
-See our [documentation guide](grading/documentation) for more information.
+See our [documentation guide](grading/documentation) for specific guidelines.
 
 ## Add Your Project to Observatory
 
