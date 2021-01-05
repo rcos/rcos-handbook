@@ -21,7 +21,7 @@ Mentors are the life blood of RCOS, a mentor can help you with technical problem
 
 ### Mentors should know...
 - The grading rubric for Status Updates.
-- Names and channels for referring mentees to Coordinators or faculty.
+- Names and channels for referring mentees to Coordinators or Faculty Advisor.
 - What resources are provided in the Handbook to direct mentees to.
 
 <!-- TODO: Add "Become a Mentor" section -->
@@ -33,7 +33,7 @@ Mentors are the life blood of RCOS, a mentor can help you with technical problem
 Student Coordinators are mentors that organize the first couple weeks as well
 as the large group meetings. If you're having an issue and your mentor can't
 point you in the right direction, a Coordinator will be able to direct you
-towards another mentor, faculty or help you directly. -->
+towards another mentor, Faculty Advisor or help you directly. -->
 
 ## External Mentors
 
