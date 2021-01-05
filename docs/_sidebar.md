@@ -66,7 +66,7 @@
   * [What are Faculty Advisors?](coordinating/faculty.md)
 
 * Student Resources
-  * [Presentation Slides](resources/slides.md)
+  <!-- * [Presentation Slides](resources/slides.md) TODO: return when we figure out slides -->
   * [Resources](resources/README.md)
   * [Code Of Conduct Template](community/code_of_conduct_template.md)
 
