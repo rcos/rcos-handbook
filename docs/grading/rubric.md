@@ -6,7 +6,7 @@ Make sure you meet the requirements, including the academic integrity policy and
 **We have tried to make this rubric broadly applicable to the wide variety of projects we find in RCOS. 
 Certainly, each category of Open Source Contributions, Status Updates, Presentations, Community Involvement, and Attendance are critical to success in RCOS and often to the Open Source processes as well. 
 Remember that we can only evaluate your contributions to the extent that you allow us to see what you are doing. 
-If you have issues with any rubric item, or if you cannot figure out how to make your particular RCOS project openly visible, please talk to a coordinator or faculty member so that we can help you be as Open as possible.**
+If you have issues with any rubric item, or if you cannot figure out how to make your particular RCOS project openly visible, please talk to a Coordinator or Faculty Advisor so that we can help you be as Open as possible.**
 
 ## 50% - Open Source Contributions
 RCOS is, at heart, about participation in the Open Source Ecosystem. 
@@ -69,7 +69,7 @@ Part of fostering this environment includes practicing good citizenship.
 The way you conduct yourself at RCOS may have a long-lasting impact on the community, whether that be positive or negative.
 
 Students who go above and beyond to model and encourage positive behaviors outlined in our community Code of Conduct may receive:
-- additional consideration for leadership positions within RCOS (e.g. task force teams, mentor, coordinator)
+- additional consideration for leadership positions within RCOS (e.g. task force teams, mentor, Coordinator)
 - recognition from the community as a model citizen
 
 On the other hand, students may be penalized, depending on the severity of the offense, for violating the Code of Conduct. 

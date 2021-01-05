@@ -4,7 +4,7 @@
 
 **What are Status Updates?**
 
-Status Updates are weekly updates submitted by members detailing what they have done in the past week, what they plan to do next week, and what technical blockers they've encountered. These are intended to keep members on track to completing their goals, and are used by coordinators and mentors to pinpoint who is falling behind and might need assistance.
+Status Updates are weekly updates submitted by members detailing what they have done in the past week, what they plan to do next week, and what technical blockers they've encountered. These are intended to keep members on track to completing their goals, and are used by Coordinators and mentors to pinpoint who is falling behind and might need assistance.
 
 **How are Status Updates tracked?**
 

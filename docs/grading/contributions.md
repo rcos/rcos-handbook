@@ -13,7 +13,7 @@ all of which can
 be included in your repository in appropriate directories and should also be reflected 
 in well structured status updates. If you 
 are having problems deciding how to contribute, please see your mentor, a
-coordinator or a faculty advisor for help and suggestions. Failure to do so will impact your grade.**
+Coordinator or a Faculty Advisor for help and suggestions. Failure to do so will impact your grade.**
 
 ### What consitutes contributions?
 - quality code commits

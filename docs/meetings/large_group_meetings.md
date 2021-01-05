@@ -13,7 +13,7 @@ RCOS welcomes guest speakers to present their work or research and how it encorp
 
 ## Closing Ceremony
 - Coordinators select 2-3 projects to give a very brief highlights reel on their accomplishments in the semester
-- New coordinators are introduced
+- New Coordinators are introduced
 - ~~Pizza is delivered for everyone~~ ;(
 
 <!-- IN PERSON FORMAT BELOW -->
@@ -30,7 +30,7 @@ Once all community members are assigned to a small group, large group will only 
 Large group will also occur on the last Friday of the semester for our closing ceremony. 
 
 ## Announcements
-Meetings begin with announcements. It's an opportunity for the coordinators to introduce the meeting's speakers & presentations. Any RCOS member is welcome to make an annoucement at the beginning of a meeting (in fact, it's encouraged!).
+Meetings begin with announcements. It's an opportunity for the Coordinators to introduce the meeting's speakers & presentations. Any RCOS member is welcome to make an annoucement at the beginning of a meeting (in fact, it's encouraged!).
 
 ## Lightning Talks and Sick Picks
   - Lightning Talks are brief talks on anything related to open source.
@@ -47,4 +47,4 @@ RCOS welcomes guest speakers to present their work or research and how it encorp
 
 - Graduating seniors are honored with a group photo and a token of our appreciation :)
 - Students going on co-op, internship, or study abroad also honored with group photo
-- New coordinators are introduced -->
+- New Coordinators are introduced -->

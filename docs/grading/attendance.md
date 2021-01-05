@@ -15,7 +15,7 @@ You may miss up to two meetings (small or large group combined) without an excus
 
 Unexcused absences beyond those allowed will impact your grade.
 We understand that there are occasional conflicts that require you to be absent from an RCOS meeting without a formal excuse.
-Please see a coordinator or faculty member prior to any conflicts to make arrangements.
+Please see a Coordinator or Faculty Advisor prior to any conflicts to make arrangements.
 
 ## Bonus Sessions
 Unexcused absences can be made up by attending bonus sessions. Bonus sessions can be fulfilled by attending any of the following events:
@@ -40,19 +40,19 @@ Excused absences can be given for any of the following:
 * Schedule conflicts with courses, exams, or extracurriculars
   * In order to receive an excused absence, this conflict must take place during your scheduled large or small group session.
 
-The above list is not exhaustive. If you are unsure about what constitutes an excused absence, please reach out to a coordinator or faculty advisor. However, excused absences will **not** be given if you are removed from a meeting for violating our [Code of Conduct](community/CODE_OF_CONDUCT.md) or our [Bylaws](community/bylaws.md).
+The above list is not exhaustive. If you are unsure about what constitutes an excused absence, please reach out to a Coordinator or Faculty Advisor. However, excused absences will **not** be given if you are removed from a meeting for violating our [Code of Conduct](community/CODE_OF_CONDUCT.md) or our [Bylaws](community/bylaws.md).
 
 Excused absences do **not** need to be made up with a bonus session (but you are encouraged to come to bonus sessions regardless!).
 
 ### Requesting Excused Absences
 
-Currently, in order to request an excused absence, you must contact a coordinator or faculty advisor.
+Currently, in order to request an excused absence, you must contact a Coordinator or Faculty Advisor.
 
 For foreseen absences (e.g. hackathons, conferences, job/grad school interviews, etc), this must be done at least 48 hours in advance of the first session you will miss.
 
 For unforeseen absences (e.g. illness, family emergency), this must be done within 1 week of returning to RCOS.
 
-For extenuating circumstances, please speak to a coordinator or faculty advisor directly.
+For extenuating circumstances, please speak to a Coordinator or Faculty Advisor directly.
 
 In the future, functionality will be implemented to request excused absences!
 

@@ -1,5 +1,5 @@
 # Helpful Resources
-Whether you're completely new to the world of open source or you feel ready to tackle advanced topics like deep learning, we have plenty of resources! In addition to consulting the online resources, feel free to reach out to mentors or coordinators as well.
+Whether you're completely new to the world of open source or you feel ready to tackle advanced topics like deep learning, we have plenty of resources! In addition to consulting the online resources, feel free to reach out to mentors or Coordinators as well.
 
 ## Open Source
 

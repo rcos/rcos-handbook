@@ -8,7 +8,7 @@ The RCOS Community Code of Conduct applies to all RCOS activity and activity aff
 * [Give and be welcoming to constructive feedback](#give-and-be-welcoming-to-constructive-feedback).
 * [Focus on what is best for the RCOS community](#focus-on-what-is-best-for-the-rcos-community).
 * Do not engage in any [unacceptable behaviors](#unacceptable-behaviors).
-* At any point, you may [report CoC violations](#reporting-incidents) to our coordinators and faculty advisors.
+* At any point, you may [report CoC violations](#reporting-incidents) to our Coordinators and Faculty Advisors.
 * [Project maintainers](#project-maintainer-responsibilities) should be mindful of the Code of Conduct.
 * [RPI-specific policies](#rpi-specific-policies) are outlined in our Bylaws.
 
@@ -28,7 +28,7 @@ The RCOS Community Code of Conduct applies to all RCOS activity and activity aff
 ### Give and be welcoming to constructive feedback
 * **Be constructive and respectful** when giving others feedback. This includes:
   * Keeping all feedback constructive, objective and impersonal
-* **Be accepting of constructive criticism**. If you feel that any critiques are overly harsh, excessive, or harassing, contact a coordinator ASAP.
+* **Be accepting of constructive criticism**. If you feel that any critiques are overly harsh, excessive, or harassing, contact a Coordinator ASAP.
 
 ### Focus on what is best for the RCOS community
 
@@ -53,15 +53,15 @@ Examples of unacceptable behaviors include:
 
 ## Reporting Incidents
 
-At any point, you may report instances of CoC violations to our [coordinators](https://rcos.github.io/rcos-handbook/#/coordinating/README) and [faculty advisors](https://handbook.rcos.io/#/coordinating/faculty) at <coordinators@rcos.io>. You, as well as any other witnesses, have the right to remain anonymous to the rest of the RCOS community.
+At any point, you may report instances of CoC violations to our [Coordinators](https://rcos.github.io/rcos-handbook/#/coordinating/README) and [Faculty Advisors](https://handbook.rcos.io/#/coordinating/faculty) at <coordinators@rcos.io>. You, as well as any other witnesses, have the right to remain anonymous to the rest of the RCOS community.
 
-If you are uncomfortable reporting to the coordinators for any reason, you may reach out to a faculty advisor directly via our [Discord](https://rcos-discord.herokuapp.com//).
+If you are uncomfortable reporting to the Coordinators for any reason, you may reach out to a Faculty Advisor directly via our [Discord](https://rcos-discord.herokuapp.com//).
 
 ## Project Maintainer Responsibilities
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. In the case of contributors external to RPI and/or RCOS, temporary or permanent bans may occur. RPI-specific policies are outlined below.
 
 ## RPI-Specific Policies
-RPI-specific policies, including consequences for violating the RCOS Code of Conduct in the context of RCOS at RPI, can be found under our [Bylaws](https://rcos.github.io/rcos-handbook/#/community/bylaws). Please review these if you are a student, mentor, or coordinator at RPI, as you will also be expected to follow these bylaws.
+RPI-specific policies, including consequences for violating the RCOS Code of Conduct in the context of RCOS at RPI, can be found under our [Bylaws](https://rcos.github.io/rcos-handbook/#/community/bylaws). Please review these if you are a student, mentor, or Coordinator at RPI, as you will also be expected to follow these bylaws.
 
 ## License and Attribution
 

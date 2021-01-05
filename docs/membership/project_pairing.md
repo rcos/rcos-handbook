@@ -14,7 +14,7 @@ The goal of project Project Pairing is to ensure that each student finds a proje
 
 Project Pairing should take place the meeting directly after pitch day but **must** take place before the first small group meeting. During Project Pairing, each project that is currently seeking new members is made easily visible to all members seeking projects. For this reason, it is crucial that all projects and members are present in the same room.
 
-<!-- Project Pairing must occur before the first small group meeting of the year. For a project to qualify for the Project Pairing process they must have an outline of their proposal approved by a coordinator or mentor. This outline must be approved by a coordinator or mentor 48 hours before the Project Pairing process. After approval each project must pick one person to act as a representative of the project. The rep will be given a sign with their project name on it and then the representatives will begin talking to anyone interested in joining the project. The rep should make sure that anyone interested in their project gets their email and a link to the projects' main communication channel. After the Project Pairing process has finished, the next order of business will be for projects so submit their proposals for approval by coordinators. -->
+<!-- Project Pairing must occur before the first small group meeting of the year. For a project to qualify for the Project Pairing process they must have an outline of their proposal approved by a Coordinator or mentor. This outline must be approved by a Coordinator or mentor 48 hours before the Project Pairing process. After approval each project must pick one person to act as a representative of the project. The rep will be given a sign with their project name on it and then the representatives will begin talking to anyone interested in joining the project. The rep should make sure that anyone interested in their project gets their email and a link to the projects' main communication channel. After the Project Pairing process has finished, the next order of business will be for projects so submit their proposals for approval by Coordinators. -->
 
 !> Projects should participate in Project Pairing if and only if they are still looking for new members.
 
@@ -33,16 +33,16 @@ After the large group meeting where Project Pairing is announced, Project Leads 
 
 Once the list of participating projects has been established, a numbered list should be compiled and documented. Each project taking part in the event will be assigned an ID number corresponding to its list enumeration.
 
-Each project should also select one representative who is well informed of the project’s goals and needs. This representative should be given a sign to wear that identifies which project they are promoting, the project’s ID number, their name, and their contact information. *The coordinators should prepare signs for each participating project in advance of this meeting.*
+Each project should also select one representative who is well informed of the project’s goals and needs. This representative should be given a sign to wear that identifies which project they are promoting, the project’s ID number, their name, and their contact information. *The Coordinators should prepare signs for each participating project in advance of this meeting.*
 
 
 When Project Pairing begins, representatives should arrange themselves in the front of the room according to their assigned ID number. A key of assigned numbers to projects should be displayed on the projector to make it easier to find projects (this key should correlate to the numbered list mentioned above).
 
-It is advised that coordinators bring a couple print outs of the current semester’s pitch slide deck, so members can flip through and refresh their memories about project details and technology stack used.
+It is advised that Coordinators bring a couple print outs of the current semester’s pitch slide deck, so members can flip through and refresh their memories about project details and technology stack used.
 
 Once the representatives are all in place, members are instructed to find a project if they do not already have one. Members should speak to reps for projects they find interesting and gain more information, and reps should be open to questions. **It is the rep’s responsibility to decide whether or not a member is suited for the role.**
 
-Once a project has one to two members in addition to the representative, those members should move to the proposal approval room to work on the project proposal. Additionally, once a project has decided that it has enough members, the representative should bring their project sign to a mentor or coordinator. The mentor should strike through (~Project A~) projects that have concluded their search from the projected key on an ongoing basis.
+Once a project has one to two members in addition to the representative, those members should move to the proposal approval room to work on the project proposal. Additionally, once a project has decided that it has enough members, the representative should bring their project sign to a mentor or Coordinator. The mentor should strike through (~Project A~) projects that have concluded their search from the projected key on an ongoing basis.
 
 **DO NOT delete the project from the list!!**
 

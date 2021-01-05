@@ -11,7 +11,7 @@ We have a special team forming process called [Project Project Pairing](membersh
 
 ## Writing a Proposal
 
-After you form a team, you will have to write a proposal for your project for the current semester. See the [rubric](grading/documentation?id=proposal) for more details on proposals. Make sure it meets the requirements specified, as mentors/coordinators will be reviewing these and giving feedback before contributing starts.
+After you form a team, you will have to write a proposal for your project for the current semester. See the [rubric](grading/documentation?id=proposal) for more details on proposals. Make sure it meets the requirements specified, as mentors/Coordinators will be reviewing these and giving feedback before contributing starts.
 
 ## Setup
 
@@ -22,7 +22,7 @@ If you haven't already, set up an account on:
 
 ## Discord channel
 
-**You shouldn't have to do anything!** When projects are finalized, we automate the creation of categories for each small group which include a voice and text channel for your project. The text channel is only visible to you, your team, and the coordinators/faculty. You are given permission to pin and delete messages in your project's channel. Reach out to a coordinator if you every have issues with your channel or need help. 
+**You shouldn't have to do anything!** When projects are finalized, we automate the creation of categories for each small group which include a voice and text channel for your project. The text channel is only visible to you, your team, and the Coordinators/Faculty Advisors. You are given permission to pin and delete messages in your project's channel. Reach out to a Coordinator if you every have issues with your channel or need help. 
 
 ## Setup Your Repository
 
