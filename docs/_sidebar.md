@@ -20,7 +20,6 @@
 * Grading
   * [Overview](grading/README.md)
   * [Rubric](grading/rubric.md)
-  * [Appeal Policies](grading/appeal_policies.md)
   * [Academic Integrity](grading/academic_integrity.md)
 
 * Assignments
