@@ -2,30 +2,34 @@
 
 !> Large group format has been revised while remote learning is in effect.
 
-## Frequency
-Each online meeting starts in a Faculty Advisors WebEx meeting with the entire class. Coordinators and Faculty Advisors present the day's slideshow including announcements, reminders, deadlines, etc. Meetings are recorded and posted shortly after for anyone to view.
+## Overview
+Large Group is when the entirety of RCOS gathers for announcements, guest speakers, town hall meetings, or opening/closing ceremonies. Currently, Large Group meetings are held in a Faculty Advisor's WebEx meeting room.
+
+
+## Time and Frequency
+While remote learning is in effect, every Tuesday and Friday RCOS session starts with a Large Group meeting in a Faculty Advisor's WebEx meeting room. A normal meeting takes between 15-30 minutes. Recordings are posted on Venue and YouTube afterwards for asynchronous attendance. [Small Groups](meetings/small_group_meetings) are encouraged to take place afterwards; see their page for details.
 
 ## Announcements
-Each meeting's slides have an announcements section where Coordinators/Faculty Advisors announce important events both in RCOS and external. RCOS members who have interesting announcements about external events or anything else they feel worth sharing with everyone can ask a Coordinator to briefly talk during the large group meeting. Don't be hesitant to, we heavily encourage participation!
+Each meeting's slides have an announcements section where Coordinators/Faculty Advisors announce important events both in RCOS and external. RCOS members who have interesting announcements about external events or anything else they feel worth sharing with everyone can ask a Coordinator to briefly talk during the Large Group meeting. Don't be hesitant to, we heavily encourage participation!
 
 ## Guest Speakers
-RCOS welcomes guest speakers to present their work or research and how it encorporates open-source software. Every once in a while a guest speaker will be given time to present during a large group meeting for everyone. These can be anyone from RPI faculty to external companies. These will be announced ahead of time.
+RCOS welcomes guest speakers to present their work or research and how it encorporates open-source software. Every once in a while a guest speaker will be given time to present during a Large Group meeting for everyone. These can be anyone from RPI faculty to external companies. These will be announced ahead of time.
 
-## Closing Ceremony
+## End of Year Closing Ceremony
 - Coordinators select 2-3 projects to give a very brief highlights reel on their accomplishments in the semester
 - New Coordinators are introduced
 - ~~Pizza is delivered for everyone~~ ;(
 
 <!-- IN PERSON FORMAT BELOW -->
 <!-- ## Overview
-- What are large group meetings?
+- What are Large Group meetings?
 - Where / when do we meet?
 
 ## Frequency
 
-During the first two weeks of the semester, large group occurs every Tuesday and Friday to get new community members acquainted with RCOS and to inform existing members on changes in structure and mentorship.
+During the first two weeks of the semester, Large Group occurs every Tuesday and Friday to get new community members acquainted with RCOS and to inform existing members on changes in structure and mentorship.
 
-Once all community members are assigned to a small group, large group will only occur on one or two Fridays per month. All other Fridays are reserved for workshops on open-source technologies hosted by the RCOS community.
+Once all community members are assigned to a small group, Large Group will only occur on one or two Fridays per month. All other Fridays are reserved for workshops on open-source technologies hosted by the RCOS community.
 
 Large group will also occur on the last Friday of the semester for our closing ceremony. 
 

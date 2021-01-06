@@ -18,6 +18,8 @@ Each RCOS semester is standalone. The first few weeks are used for setting up me
 
 ## Mid Semester
 
+- Small Group Meetings Start
+
 - Project Contributions Start
 
 - Workshops Start
