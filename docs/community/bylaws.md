@@ -18,7 +18,7 @@ An important part of RCOS is being able to hear from both fellow RCOS members an
 
 ### Sensitive Topics
 
-Please keep in mind that students, alumni, and faculty from a diverse range of backgrounds will be viewing your talk. In addition, students are required to attend a certain number of talks per semester.
+Please keep in mind that students, alumni, and Faculty Advisors are from a diverse range of backgrounds will be viewing your talk. In addition, students are required to attend a certain number of talks per semester.
 
 Presentations containing detailed discussion of sensitive, upsetting, or controversial topics without warning can create an especially hostile environment when this is considered.
 
@@ -31,7 +31,7 @@ Presentations should not include any content that:
   * Excessive profanity
   * Nudity
 
-If you're unsure about whether or not your talk conforms to the above guidelines, please reach out to a mentor or coordinator to discuss.
+If you're unsure about whether or not your talk conforms to the above guidelines, please reach out to a mentor or Coordinator to discuss.
 
 ### Live Demos
 
@@ -54,7 +54,7 @@ In addition, some speakers may ask audience members to put away all mobile devic
 If you absolutely must take a phone call, you can exit the lecture hall to make/take a phone call. If you need to call emergency services for any reason, you may remain in the room while you make the call.
 
 ## Consequences of Code of Conduct Violations
-If you violate the RCOS Community Code of Conduct or Bylaws, appropriate consequences will follow at the discretion of faculty. In addition, if you are an RPI student, you must also comply with all policies in the [RPI Student Handbook](https://sexualviolence.rpi.edu/sites/default/files/Rensselaer%20Handbook%20of%20Student%20Rights%20%26%20Responsibilities%2C%20November%202017.pdf).
+If you violate the RCOS Community Code of Conduct or Bylaws, appropriate consequences will follow at the discretion of Faculty Advisors. In addition, if you are an RPI student, you must also comply with all policies in the [RPI Student Handbook](https://sexualviolence.rpi.edu/sites/default/files/Rensselaer%20Handbook%20of%20Student%20Rights%20%26%20Responsibilities%2C%20November%202017.pdf).
 
 ### Short Version
 Consequences may include:
@@ -66,7 +66,7 @@ Consequences may include:
 - Referral to Dean of Students for violations of RPI Student Handbook
 - Removal from RCOS permanently or for a minimum of 1 semester
 - Loss of mentorship privileges
-- Any other consequences that faculty advisors deem appropriate
+- Any other consequences that Faculty Advisors deem appropriate
 
 See the long version below for details on what these penalties entail.
 
@@ -74,8 +74,8 @@ See the long version below for details on what these penalties entail.
 
 Consequences may include:
 
-* A verbal or Discord warning from a mentor or coordinator
-* A written warning from a faculty advisor
+* A verbal or Discord warning from a mentor or Coordinator
+* A written warning from a Faculty Advisor
 * A request to edit or delete any project material that violates the Code of Conduct 
   * Project material includes, but is not limited to, status updates, code, comments, issues, pull requests, milestones, wiki pages, static websites, graphics, social media posts, etc. 
   * Failure to comply with this request may result in grade penalties as outlined below.
@@ -91,6 +91,6 @@ Consequences may include:
     * You will not be allowed to register for RCOS for credit, funding or experience.
     * You will be barred from attending any future RCOS events.
     * Your Slack and Observatory accounts will be suspended.
-    * If you are currently a mentor, your mentorship position will be terminated immediately and you will be ineligible to mentor, including as an external mentor. The same rule applies to coordinators.
+    * If you are currently a mentor, your mentorship position will be terminated immediately and you will be ineligible to mentor, including as an external mentor. The same rule applies to Coordinators.
 
 Please note that the above list is not exhaustive and additional consequences may follow as appropriate.

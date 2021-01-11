@@ -6,7 +6,7 @@ Student-teacher relationships are built on trust. For example, students must tru
 ## Open Source Contributions and Additional Documentation
 Students are allowed and encouraged to collaborate on open source contributions and reuse existing open source code, documentation, and graphics where permitted in the original project's license. 
 
-Students may also engage in “pair programming” to work on open source contributions as long as they use co-authoring on all commits where pair programming was used. When using co-authoring, all students who worked on the commit must be included to receive credit for the commit. Instructions for co-authoring are listed below.
+Students may also engage in "pair programming" to work on open source contributions as long as they use co-authoring on all commits where pair programming was used. When using co-authoring, all students who worked on the commit must be included to receive credit for the commit. Instructions for co-authoring are listed below.
 - [GitHub Commit Co-Authoring](https://help.github.com/articles/creating-a-commit-with-multiple-authors/)
 - GitLab currently does not support co-authoring.
 
@@ -18,7 +18,7 @@ Submission of a status update that is not a student’s own work will result in 
 
 
 ## Attendance
-Attendance codes are given during all RCOS small group, large group, and bonus sessions through Observatory. 
+Attendance codes are given during all RCOS small group, large group, and bonus sessions through Venue or Submitty. 
 
 As much as we value sharing and openness, we also value integrity. Thus, we ask that you do not distribute attendance codes to people who are not currently attending the session or attempt to attend a session where you are not present. 
 

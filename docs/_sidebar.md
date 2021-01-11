@@ -1,8 +1,7 @@
 * Overview
   * [Welcome to RCOS](README.md)
   * [FAQ](overview/faq.md)
-  * [Projects](overview/projects.md)
-  <!-- * [History](overview/history.md) -->
+  * [History](overview/history.md)
   * [Code Of Conduct](overview/code_of_conduct.md)
   <!-- * [Sponsors](overview/sponsors.md) -->
   * [Contact](overview/contact.md)
@@ -11,22 +10,22 @@
   * [Join RCOS](membership/join_rcos.md)
   * [What You'll Need](membership/requirements.md)
   * [Project Pairing](membership/project_pairing.md)
-  * [New Projects](membership/new_projects.md)
 
 * Meetings
+  * [Semester Outline](meetings/semester_outline.md)
   * [Large Group Meetings](meetings/large_group_meetings.md)
   * [Small Group Meetings](meetings/small_group_meetings.md)
-  * [Inclement Weather Policy](meetings/inclement_weather.md)
+  <!-- * [Inclement Weather Policy](meetings/inclement_weather.md) TODO: uncomment when we return to in-person meetings -->
+
 * Grading
   * [Overview](grading/README.md)
   * [Rubric](grading/rubric.md)
-  * [Attendance](grading/attendance.md)
-  * [Documentation](grading/documentation.md)
-  * [Status Updates](grading/status_updates.md)
-  <!-- * [Flex](grading/flex.md) -->
-  * [Appeal Policies](grading/appeal_policies.md)
   * [Academic Integrity](grading/academic_integrity.md)
-  
+
+* Assignments
+  * [Status Updates](grading/status_updates)
+  * [Final Presentation](grading/presentations)
+
 * Events
   * [Casual Coding Sessions](events/casual_coding_sessions.md)
   * [Tech Talks](events/tech_talks.md)
@@ -45,6 +44,12 @@
 <!-- * [Sponsorship](work_groups/sponsorship.md) -->
 <!-- * [Student Resources](work_groups/student_resources.md) -->
 
+* Project Management
+  * [New Projects](project_management/new_projects)
+  * [Project Pitch](project_management/pitch)
+  * [Project Proposal](grading/documentation?id=proposal)
+  * [Managing a Project](#)
+
 * Mentoring
   * [What are Mentors?](mentoring/README.md)
   * [Training](mentoring/training.md)
@@ -60,7 +65,7 @@
   * [What are Faculty Advisors?](coordinating/faculty.md)
 
 * Student Resources
-  * [Presentation Slides](resources/slides.md)
+  <!-- * [Presentation Slides](resources/slides.md) TODO: return when we figure out slides -->
   * [Resources](resources/README.md)
   * [Code Of Conduct Template](community/code_of_conduct_template.md)
 

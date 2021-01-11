@@ -6,24 +6,12 @@ Make sure you meet the requirements, including the academic integrity policy and
 **We have tried to make this rubric broadly applicable to the wide variety of projects we find in RCOS. 
 Certainly, each category of Open Source Contributions, Status Updates, Presentations, Community Involvement, and Attendance are critical to success in RCOS and often to the Open Source processes as well. 
 Remember that we can only evaluate your contributions to the extent that you allow us to see what you are doing. 
-If you have issues with any rubric item, or if you cannot figure out how to make your particular RCOS project openly visible, please talk to a coordinator or faculty member so that we can help you be as Open as possible.**
+If you have issues with any rubric item, or if you cannot figure out how to make your particular RCOS project openly visible, please talk to a Coordinator or Faculty Advisor so that we can help you be as Open as possible.**
 
 ## 50% - Open Source Contributions
 RCOS is, at heart, about participation in the Open Source Ecosystem. 
-As part of this semester long journey, you need to make contributions to the community. 
-They need to be significant, licensed correctly to allow open reuse, and importantly, they need to be findable. 
-This applies to code contributions, design documents, hardware diagrams, description of issues found and overcome, and to all the other artifacts that would allow someone else to retrace your footsteps and replicate your accomplishments.
 
-**We understand that during their first semester of participation or during 
-the first semester of a new project, students do not always have a lot of 
-code to commit. Do not let that keep you from making open source contrbutions. 
-The investigations, research and design you are exploring should be used to 
-create tutorials, design documents, user studies, etc., 
-all of which can
-be included in your repository in appropriate directories and should also be reflected 
-in well structured status updates. If you 
-are having problems deciding how to contribute, please see your mentor, a
-coordinator or a faculty advisor for help and suggestions. Failure to do so will impact your grade.**
+?> View the specific guidelines for Open Source Contributions [here](grading/contributions). This covers what is included/excluded in the definition of contributions.
 
 | Grade | Description |
 |-|-|
@@ -35,11 +23,13 @@ coordinator or a faculty advisor for help and suggestions. Failure to do so will
 
 ## 25% - Status Updates and Project Documentation
 Your community needs to know what you are working on and what you have accomplished, and we need to know that you are engaged throughout the semester.
-Keeping us informed with a weekly status blog and by keeping your project documentation up to date will help us and will allow us to give you the grade you deserve.
+Keeping us informed with a weekly status update and by keeping your project documentation up to date will help us and will allow us to give you the grade you deserve.
+
+?> View the specific guidelines for Status Updates [here](grading/status_updates) and the specific guidelines for Documentation [here](grading/documentation).
 
 | Grade | Description |
 |-|-|
-| **A** | Makes frequent (weekly), high caliber status updates documenting each issue they work on and several problems they solve or investigate deeply. Project has a helpful README, and has additional documentation that is of quality and value. The Final Status Update is a concise but complete summary of the year's efforts and accomplishments.|
+| **A** | Submits the required number of high caliber status updates documenting each issue they work on and several problems they solve or investigate deeply. Project has a helpful README, and has additional documentation that is of quality and value. The Final Status Update is a concise but complete summary of the year's efforts and accomplishments.|
 | **B** | Makes status updates that may be too few or brief OR project may not have may not have much additional documentation. Final status update is missing or does not fully capture the project status.|
 | **C** | Makes only a few or low quality status updates, OR project may have little other documentation. |
 | **D** | Makes few status updates of little to no value and does not contribute to other forms of documentation. |
@@ -49,6 +39,8 @@ Keeping us informed with a weekly status blog and by keeping your project docume
 External outreach is especially critical on projects with no formal management structure. 
 You need to develop the ability to represent yourself, your project and RCOS. 
 Presentations and outreach are critical to this learning goal.
+
+?> View the specific guidelines for Presentations [here](grading/presentations).
 
 | Grade | Description |
 |-|-|
@@ -61,23 +53,12 @@ Presentations and outreach are critical to this learning goal.
 ## 10% - Attendance
 You cannot learn, participate, or share unless you are here. 
 
-Attendance at RCOS is required for:
-- all small group meetings
-- all mandatory large group meetings
-- at least 50% of all workshop sessions
-- at least 2 work sessions
-
-You may miss up to two meetings (small or large group combined) without an excuse and can make up an additional two meetings by attending more than the required number of bonus, work, or workshop sessions. 
-
-Unexcused absences beyond those allowed will impact your grade.
-We understand that there are occasional conflicts that require you to be absent from an RCOS meeting without a formal excuse.
-Please see a coordinator or faculty member prior to any conflicts to make arrangements.
-See our [documentation on attendance](attendance.md) for further details on what constitutes a bonus session as well as our official excused absence policy.
+?> View the specific guidelines for Attendance [here](grading/attendance).
 
 | Grade | Description |
 |-|-|
-| **A** | Misses no more than two meetings and makes up any unexcused absences by attending bonus sessions. Attends 50% or more of all workshop sessions and 2 or more work sessions.|
-| **B** | Misses no more than four meetings and makes up most unexcused absences. Attends 33% or more of all workshop sessions and at least 1 work session. |
+| **A** | Makes all required meetings and makes up all unexcused absences. |
+| **B** | Misses no more than four meetings and makes up most unexcused absences. |
 | **C** | Repeatedly misses meetings or does not make up unexcused absences. |
 | **D** | Misses many meetings and does not attempt to make up unexcused absences. |
 | **F** | Makes no effort to regularly attend meetings. |
@@ -88,12 +69,11 @@ Part of fostering this environment includes practicing good citizenship.
 The way you conduct yourself at RCOS may have a long-lasting impact on the community, whether that be positive or negative.
 
 Students who go above and beyond to model and encourage positive behaviors outlined in our community Code of Conduct may receive:
-- a bonus added to the [Flex](grading/flex) portion of their grade
-- additional consideration for leadership positions within RCOS (e.g. task force teams, mentor, coordinator)
+- additional consideration for leadership positions within RCOS (e.g. task force teams, mentor, Coordinator)
 - recognition from the community as a model citizen
 
 On the other hand, students may be penalized, depending on the severity of the offense, for violating the Code of Conduct. 
-These penalties are given at faculty discretion and may range from a small attendance penalty to an F in the course. 
+These penalties are given at Faculty Advisor discretion and may range from a small attendance penalty to an F in the course. 
 Please review the [Code of Conduct](community/CODE_OF_CONDUCT.md) as well as our [Bylaws](community/bylaws.md) for more detailed information.
 
 # Grading Rubric for Mentors

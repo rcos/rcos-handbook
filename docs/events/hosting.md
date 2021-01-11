@@ -6,7 +6,7 @@
 
 ## Setup
 
-To setup your event, contact a coordinator or faculty advisor with a brief description of the event you'd like to host and the room you'd like to reserve. Rooms can be viewed at [http://rogers.mms.rpi.edu](http://rogers.mms.rpi.edu).
+To setup your event, contact a Coordinator or Faculty Advisor with a brief description of the event you'd like to host and the room you'd like to reserve. Rooms can be viewed at [http://rogers.mms.rpi.edu](http://rogers.mms.rpi.edu).
 
 Events are subject to requirements listed below. Students who host and attend events may receive a Bonus Session attendance for their participation.
 
@@ -26,6 +26,6 @@ With the exception of HackRPI and external hackathons, all events must begin no 
 
 ### Food and Beverages
 
-Contact a coordinator or faculty advisor if you plan on having food and/or non-alcoholic beverages at your event.
+Contact a Coordinator or Faculty Advisor if you plan on having food and/or non-alcoholic beverages at your event.
 
 All RCOS events are dry, meaning no alcohol can be consumed or served during an RCOS-sanctioned event.

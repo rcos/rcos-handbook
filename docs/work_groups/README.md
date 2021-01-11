@@ -6,7 +6,7 @@ Work Groups provide students flexible opportunities to develop their leadership 
 The overarching goals of RCOS Work Groups are to:
 - Provide opportunities for the broader RCOS community to have a role in running the organization
 - Expand the reach of the organization and its ideals both inside and outside of RPI
-- Reduce managerial overhead previously delegated exclusively to coordinators
+- Reduce managerial overhead previously delegated exclusively to Coordinators
 
 ### RCOS Work Groups
 - [Archival](/work_groups/archival.md)
@@ -29,7 +29,7 @@ All RCOS Work Groups must meet the following requirements each semester:
 - Meet **at least four times** during the semester as a team. Meetings may be held in-person or remotely.
 
 ### Joining a Work Group
-Work Group positions are open to all RCOS students, alumni, and faculty. Please consult the following steps to join a group:
+Work Group positions are open to all RCOS students, alumni, and Faculty Advisors. Please consult the following steps to join a group:
 - Fill out the [Work Group Sign Up](__TODO - add link to Google Form__) form
 - Join the Work Group's Discord channel
 
@@ -50,6 +50,6 @@ If there are no students or alumni available or willing to manage a Work Group, 
 - _No Defunct Work Groups yet :)_
 
 ### QUESTIONS
-- TODO - where should meeting minutes be placed? GitHub repository, blog, emailed to coordinators?
+- TODO - where should meeting minutes be placed? GitHub repository, blog, emailed to Coordinators?
 - TODO - where should the manifest of groups and respective members be maintained?
 - TODO - create the `Work Group Sign Up` form and link it above
