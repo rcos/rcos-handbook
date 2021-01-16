@@ -12,6 +12,7 @@
   * [Project Pairing](membership/project_pairing.md)
 
 * Meetings
+  * [Calendar](meetings/calendar.md)
   * [Semester Outline](meetings/semester_outline.md)
   * [Large Group Meetings](meetings/large_group_meetings.md)
   * [Small Group Meetings](meetings/small_group_meetings.md)
