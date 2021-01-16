@@ -1,5 +1,7 @@
 # Grading
 
+!> Grading only applies to students who enroll in RCOS for course credit. If you are participating for experience only (0 credits), you are not required to complete or submit any assignments or updates, nor is attendance required for you.
+
 RCOS is largely a self-guided class, which can make management and grading difficult. Instructors assign appropriate grades using utilities such as [Observatory](https://rcos.io/) to track open source contributions and community involvement.
 
 Generally speaking, if you're contributing to the community and/or making valuable open-source contributions you'll receive a high grade in RCOS.
