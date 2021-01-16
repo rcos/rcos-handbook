@@ -32,7 +32,7 @@ const calendar = new FullCalendar.Calendar(calendarEl, {
     timeZone: 'America/New_York',
     weekends: false,
     events: function(info, successCallback, failureCallback) {
-        fetch(apiBaseUrl + '/meetings')
+        fetch(apiBaseUrl + '/public_meetings')
             .then(res => res.json())
             .then(meetings => successCallback(meetings.map(meetingToEvent)))
             .catch(failureCallback)
