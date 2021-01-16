@@ -1,6 +1,6 @@
 # Mentor Replacement Policy
 
-We understand that mentors and coordinators may leave during the semester due to unforeseen circumstances. The following document establishes protocol for when mentors leave during the semester.
+We understand that mentors and Coordinators may leave during the semester due to unforeseen circumstances. The following document establishes protocol for when mentors leave during the semester.
 
 Please note that this policy is a work in progress.
 
@@ -24,13 +24,13 @@ If there are still people on the waitlist after the first month of the semester,
 
 ## Replacing Coordinators
 
-If a coordinator leaves at any point during the semester, a new coordinator may be selected from the current mentors. Any mentors considered must have at least 1-2 semesters' worth of mentorship experience.
+If a Coordinator leaves at any point during the semester, a new Coordinator may be selected from the current mentors. Any mentors considered must have at least 1-2 semesters' worth of mentorship experience.
 
-If a coordinator resigns, is terminated, or is suspended/expelled from Rensselaer due to severe and repeated Code of Conduct and/or RPI Student Handbook violations, faculty advisors must select a new coordinator to prevent conflicts of interest.
+If a Coordinator resigns, is terminated, or is suspended/expelled from Rensselaer due to severe and repeated Code of Conduct and/or RPI Student Handbook violations, Faculty Advisors must select a new Coordinator to prevent conflicts of interest.
 
-In all other circumstances, the current coordinators, including the coordinator leaving, may assist in selecting a new coordinator.
+In all other circumstances, the current Coordinators, including the Coordinator leaving, may assist in selecting a new Coordinator.
 
-Since coordinators are mentors as well, the mentor replacement policy below outlines the protocol for choosing a new mentor or moving mentors between small groups.
+Since Coordinators are mentors as well, the mentor replacement policy below outlines the protocol for choosing a new mentor or moving mentors between small groups.
 
 ## Replacing Mentors
 
@@ -46,9 +46,9 @@ If there is no waitlist, an emergency mentorship application will be sent out an
 
 If there is no waitlist and we do not get any applicants from the emergency application within 1 full week, we may follow the mid-semester procedure of moving mentors between small groups. 
 
-If applicants or waitlist members have not been mentors before, they must undergo mentor training. If the last mentor training session has already passed, they may schedule a one-on-one debrief/training session with a coordinator. 
+If applicants or waitlist members have not been mentors before, they must undergo mentor training. If the last mentor training session has already passed, they may schedule a one-on-one debrief/training session with a Coordinator. 
 
-If a mentor resigns, is terminated, or is suspended/expelled from Rensselaer due to severe and repeated Code of Conduct and/or RPI Student Handbook violations, it is solely the coordinators' and faculty advisors' responsibility to choose a new mentor from the waitlist or from the emergency application. If the mentor in question is also a coordinator or a coordinator was also involved in the violations, faculty advisors must select a new mentor.
+If a mentor resigns, is terminated, or is suspended/expelled from Rensselaer due to severe and repeated Code of Conduct and/or RPI Student Handbook violations, it is solely the Coordinators' and Faculty Advisors' responsibility to choose a new mentor from the waitlist or from the emergency application. If the mentor in question is also a Coordinator or a Coordinator was also involved in the violations, Faculty Advisors must select a new mentor.
 
 In all other circumstances, the mentor leaving as well as the other mentors in their small group may assist in selecting a new mentor.
 

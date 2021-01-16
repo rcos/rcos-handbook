@@ -7,6 +7,10 @@ All RCOS students will need a few belongings to succeed:
 For software-based projects:
 - Text editor or IDE
 
+## Learn Git
+
+[Git](https://git-scm.com/) is a version control/collaboration system that is extremely popular among open source projects. To contribute in RCOS, you WILL need to learn to use git (it's not that bad). Try taking [github's git tutorial](https://try.github.io/levels/1/challenges/1).
+
 ## Recommendations
 
 ### Operating Systems

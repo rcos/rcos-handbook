@@ -171,7 +171,7 @@ Bonus Sessions + Workshops on a rolling basis
 ---
 
 ### Large Groups
-- Lead by coordinators
+- Lead by Coordinators
 - Student Announcements
 - Lightning Talks
 - Guest Speakers
@@ -286,7 +286,7 @@ https://rcos.io/projects
 ### Finding a team (optional)
 - Pitch Day
 - Post on Mattermost (#slides)
-- Talk to mentors and coordinators
+- Talk to mentors and Coordinators
 - Project Project Pairing
 
 ---

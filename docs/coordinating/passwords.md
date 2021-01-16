@@ -4,7 +4,7 @@ It is imperative that RCOS infrastructure and social media accounts are always a
 
 ### Access to BitWarden Vault
 
-Coordinators must be securely sent the username and password combination to the BitWarden account upon becoming a coordinator. This account grants access to all other RCOS accounts so naturally it must be kept extremely secure.
+Coordinators must be securely sent the username and password combination to the BitWarden account upon becoming a Coordinator. This account grants access to all other RCOS accounts so naturally it must be kept extremely secure.
 
 ### New RCOS Accounts
 

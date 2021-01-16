@@ -1,8 +1,8 @@
 # How to join RCOS
 
-If you're an RPI student, hop in on our first meeting of the semester or join [our Discord](https://rcos-discord.herokuapp.com/) and message a faculty coordinator (@mskmoorthy or @turnew2).
+If you're an RPI student, hop in on our first meeting of the semester or join [our Discord](https://rcos-discord.herokuapp.com/) and introduce yourself! Feel free to ask questions to anyone, especially Mentors, Coordinators, and Faculty Advisors.
 
-If you're looking to get involved with RCOS as a member outside of RPI, email a [coordinator](mailto:coordinators@rcos.io) to get setup on the [RCOS Discord](#discord). In the meantime, you can create an account and fill in your profile on [Observatory](#observatory).
+If you're looking to get involved with RCOS as a member outside of RPI, email a [Coordinator](mailto:coordinators@rcos.io) to get setup on the [RCOS Discord](#discord). In the meantime, you can create an account and fill in your profile on [Observatory](#observatory).
 
 <!-- RCOS is a group of RPI students who work on open source projects. Our members work on a variety of projects, which can be seen on the projects page. To see the presentation schedule look here. -->
 
@@ -16,7 +16,7 @@ If you're looking to get involved with RCOS as a member outside of RPI, email a 
 
 ## GitHub
 
-[GitHub](https://github.com/) is where most RCOS projects are stored and collaborated on within. You will need to create an account and eventually create or join a project.
+[GitHub](https://github.com/) is where most RCOS projects are stored and collaborated on within. You will need to create an account and eventually create or join a project. Some projects do choose another platform such as GitLab, BitBucket, etc.
 
 ## Observatory
 
@@ -24,11 +24,7 @@ If you're looking to get involved with RCOS as a member outside of RPI, email a 
 
 ## Discord
 
-[Discord](https://rcos-discord.herokuapp.com/) is the primary communication platform for RCOS. We created a tool to link your RPI identity to your Discord account (only for our server of course!) and create categories and channels for small groups and projects each semester. Here you'll be able to reach out to faculty, coordinators, mentors, and your fellow members!
-
-## Git
-
-[Git](https://git-scm.com/) is a version control/collaboration system that is extremely popular among open source projects. To contribute in RCOS, you WILL need to learn to use git (it's not that bad). Try taking [github's git tutorial](https://try.github.io/levels/1/challenges/1).
+[Discord](https://rcos-discord.herokuapp.com/) is the primary communication platform for RCOS. We created a tool to link your RPI identity to your Discord account (only for our server of course!) and create categories and channels for small groups and projects each semester. Here you'll be able to reach out to Faculty Advisors, Coordinators, Mentors, and your fellow members!
 
 <!-- ## Finding a project
 
