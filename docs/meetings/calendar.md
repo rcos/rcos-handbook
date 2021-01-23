@@ -15,8 +15,8 @@ const meetingColors = {
 function meetingToEvent(meeting, index) {
     const event = {
         title: (meeting.title || 'Meeting'),
-        start: meeting.start_date_time + 'Z',
-        end: meeting.end_date_time + 'Z',
+        start: meeting.start_date_time,
+        end: meeting.end_date_time,
         backgroundColor: meetingColors[meeting.type],
         meeting
     };
@@ -59,8 +59,8 @@ const calendar = new FullCalendar.Calendar(calendarEl, {
             
             // Location might be empty, a phsyical location, or a URL
             let locationString = '';
-            if (meeting.location && meeting.location.startsWith('http')) {
-                locationString = `<a target='_blank' href='${meeting.location}'>${meeting.location}</a><br>`;
+            if (meeting.is_remote && meeting.meeting_url) {
+                locationString = `<a target='_blank' href='${meeting.meeting_url}'>Join Meeting</a><br>`;
             } else if (meeting.location) {
                 locationString = `<span class='meeting-location'>${location}</span><br>`;
             }
@@ -77,7 +77,7 @@ const calendar = new FullCalendar.Calendar(calendarEl, {
                 theme: 'light', // closest to RCOS theme
                 content: `
                     <strong class='meeting-title'>${meeting.title}</strong><br>
-                    <p class='meeting-type'>${meetingType} Meeting${hostString}</p>
+                    <p class='meeting-type'>${meeting.is_remote ? 'Remote ' : ''}${meetingType} Meeting${hostString}</p>
                     ${agendaString}
                     ${locationString}
                     ${presentationString}
