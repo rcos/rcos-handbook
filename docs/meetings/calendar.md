@@ -30,7 +30,7 @@ function meetingToEvent(meeting, index) {
 }
 
 // Points to RCOS Postgrest API
-const apiBaseUrl = 'http://198.211.105.73:3000';
+const apiBaseUrl = 'https://api.rcos.io';
 
 const calendarEl = document.getElementById('calendar');
 const calendar = new FullCalendar.Calendar(calendarEl, {
