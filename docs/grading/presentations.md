@@ -14,5 +14,8 @@ List every team member you worked with for the semester.
 ### Description (20%)
 Describe your project to an audience that has no prior familiarity with it.
 
+### Organization (20%)
+How is your project organized and how are you set up with respect to building community? Do you have guidelines for new contributors? Getting started documentation? Do you need it?
+
 ### Progress (10%)
 Show proof of the progress you made **over this semester.**
