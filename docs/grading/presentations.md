@@ -19,3 +19,7 @@ How is your project organized and how are you set up with respect to building co
 
 ### Progress (10%)
 Show proof of the progress you made **over this semester.**
+
+## Previous Presentation Examples
+- [Poll Buddy - Fall 2020](https://docs.google.com/presentation/d/1kso5zVST9BMJ47kN0e3hdFemxm11NBhn8GuBnMhyT8U/edit?usp=sharing)
+- [LATE - Spring 2020](https://docs.google.com/presentation/d/1qUa-gJ1IYv6i5LjJzClxNNrxvj_NA_AgaU2dG4kn5To/edit?usp=sharing)
