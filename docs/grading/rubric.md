@@ -15,7 +15,7 @@ RCOS is, at heart, about participation in the Open Source Ecosystem.
 
 | Grade | Description |
 |-|-|
-| **A** | Makes numerous significant contributions. Student is active on GitHub and Discord and makes excellent use of issue tracking and project management systems. Student communicates failures and development barriers to their team and mentors and documents them for the future, and makes their best effort to overcome challenges. Open contributions are licensed correctly with an OSI approved license, are easy to find and can be easily obtained and used. Gives a Final Status Update that is a concise but complete summary of linke to the year's contributions.|
+| **A** | Makes numerous significant contributions. Student is active on GitHub and Discord and makes excellent use of issue tracking and project management systems. Student communicates failures and development barriers to their team and mentors and documents them for the future, and makes their best effort to overcome challenges. Open contributions are licensed correctly with an OSI approved license, are easy to find and can be easily obtained and used. Gives a Final Status Update that is a concise but complete summary of links to the year's contributions.|
 | **B** | Makes multiple meaningful contributions to the project, but may be slightly lacking in communication and/or planning requirements, or may not make good use of issue tracking / project management systems. Open contributions are licensed correctly and can be easily obtained and used, but may not be easy to find. May not provide a final summary of links to contributions. |
 | **C** | Makes too few contributions and does not ask for help when needed. Student makes little to no use of issue tracking and project management systems, and does not communicate well with team members or mentors. Open contributions may not be licensed correctly, may not be easily obtained and used, or may not be easy to find. May not provide a final summary of links to contributions.|
 | **D** | Makes almost no meaningful contributions and makes little effort to communicate with team members and mentors, or contributions are not licensed correctly. May not provide a final summary of links to contributions.|
@@ -44,11 +44,11 @@ Presentations and outreach are critical to this learning goal.
 
 | Grade | Description |
 |-|-|
-| **A** | Participates in presentation and demonstrates a knowledge of what they worked on; is well prepared and clearly rehearsed. Represents RCOS externally by either hosting at least one well prepared and useful tech talk, workshop, or bonus session OR attending at least one bonus session beyond any used to meet attendance requirements or make up missing attendance. |
-| **B** | Makes a reasonable effort to participate in presentation and is at least somewhat prepared. Hosts a tech talk, workshop, or bonus session OR attends the requisite bonus session. |
-| **C** | Is unprepared for presentation or does not participate heavily. Hosts a tech talk, workshop, or bonus session OR attends the requisite bonus session. |
-| **D** | Makes little effort to participate in presentation and does not host tech talk, workshop, bonus session, or attend bonus sessions. |
-| **F** | Makes no effort to participate in presentation or does not attend. Does not host tech talk, workshop, bonus session, or attend any bonus sessions. |
+| **A** | Participates in a well structured and interesting presentation and demonstrates a knowledge of what they worked on; is well prepared and clearly rehearsed. Represents RCOS externally. |
+| **B** | Makes a reasonable effort to participate in presentation and is at least somewhat prepared. |
+| **C** | Is unprepared for presentation or does not participate heavily. |
+| **D** | Makes little effort to participate in presentation or gives a poor presentation. |
+| **F** | Makes no effort to participate in presentation or does not attend. |
 
 ## 10% - Attendance
 You cannot learn, participate, or share unless you are here. 
@@ -59,7 +59,7 @@ You cannot learn, participate, or share unless you are here.
 |-|-|
 | **A** | Makes all required meetings and makes up all unexcused absences. Attends or gives at least one bonus session. |
 | **B** | Misses no more than four meetings and makes up most unexcused absences. Attends one bonus session beyond those used to make up missed attendances. |
-| **C** | Repeatedly misses meetings or does not make up unexcused absences. |
+| **C** | Repeatedly misses meetings or does not make up unexcused absences. Does not attend an additional bonus session. |
 | **D** | Misses many meetings and does not attempt to make up unexcused absences. |
 | **F** | Makes no effort to regularly attend meetings. |
 
