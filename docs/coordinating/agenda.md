@@ -1,11 +1,11 @@
 # First Two Weeks Agenda
 
-The first two weeks is an extremely important time to get new students acquainted with RCOS, old students updated on any changes in structure/leadership, assigning mentors and a handful of other tasks. This is the most important time for the Coordinators to be "on top of things".
+The first two weeks is an extremely important time to get new students acquainted with RCOS, old students updated on any changes in structure/leadership, assigning Mentors and a handful of other tasks. This is the most important time for the Coordinators to be "on top of things".
 
 ## Before the First Meeting
-Prior to the first meeting, mentors and new Coordinators should be chosen. Any planned changes should be reflected in the relevant documentation and/or presentations. The Coordinators should meet to plan and make sure all administrative affairs are in order.
+Prior to the first meeting new Coordinators should be chosen. Any planned changes should be reflected in the relevant documentation and/or presentations. The Coordinators should meet to plan and make sure all administrative affairs are in order.
 
-In addition, at least one [mentor training session](mentoring/training) must take place prior to the first meeting.
+<!--In addition, at least one [mentor training session](mentoring/training) must take place prior to the first meeting.-->
 
 ## Outline
 All of the following details need to be worked out within the first two weeks
@@ -46,8 +46,6 @@ If a significant number of new mentors have still not completed mentor training,
 
 ## Third Meeting
 
-!> The process for Project Pairing and proposal approving now occurs asynchronously due to remote learning.
-
 The third meeting has two parts that occur simultaneously: [Project Pairing](membership/project_pairing) and proposal approval. The mentors should be split evenly between the two events, with each occuring in its own room. Finding a project can be very nervewracking for newcomers, so Project Pairing is intended to ensure every student finds a project.
 
 In the second room, mentors should be present to look over student's proposals and approve them. If a proposal does not meet the guidelines, mentors should assist the project members in modifying their proposal.
@@ -56,9 +54,7 @@ In the second room, mentors should be present to look over student's proposals a
 
 ## Prior to the Fourth Meeting
 
-Mentor groups should selected and rooms should be assigned prior to the fourth meeting. Each mentor group should have its own room. Projects should be distributed amongst mentor groups as evenly as possible. Projects should be assigned to mentors with relevant skill sets so the mentors can best provide technical assistance when needed. All students should be informed of their mentor groups prior to the fourth meeting. If the fourth meeting is a Tuesday, students should report directly to their mentor group.
-
-Projects with 8 or more members may be split between mentor groups.
+Mentor groups should selected and rooms should be assigned prior to the fourth meeting. Each mentor group should have its own room. Projects should be distributed amongst Small Groups as evenly as possible. Projects should be assigned to mentors with relevant skill sets so the mentors can best provide technical assistance when needed. All students should be informed of their mentor groups prior to the fourth meeting. If the fourth meeting is a Tuesday, students should report directly to their mentor group.
 
 At least one mentor meeting excluding mentor training must occur prior to the fourth meeting. Mentors should be instructured to ensure that mentees:
 1. Are on [rcos.io](https://rcos.io).

@@ -1,32 +1,18 @@
 # Small Group Meetings
 
-!> Small group format has been revised while remote learning is in effect.
+!> We are still adapting to the return to restricted in-person courses. This information may change.
 
 ## Overview
-Small group meetings are where the majority of RCOS project work gets done. Normally projects would meet in their Small Group, share their progress, and get to work for the rest of the period. While remote learning is in effect, projects will instead meet individually at a time that works best for them. Mentors will be able to hop in to check on projects and make sure they are meeting consistently.
+Small group meetings are where the majority of RCOS project work gets done. Once projects are finalized at the start of the semester, projects are grouped into Small Groups overseen by a Mentor or two and are assigned to a room. During Small Group meetings, you have time to work and discuss with your team, collaborate with other projects, and get help from your Mentors.
 
 ## Time and Frequency
-While remote learning is in effect, Small Group meetings by individual projects are encouraged to take place directly after the Large Group meeting twice a week. Due to differing timezones and course restrictions, we cannot require that every student meet at the same time for their Small Group meeting. Therefore, **project leads must determine what days and times their project will meet and let their mentor(s)** know.
+Small Group meetings take place during regularly schedule RCOS sections on Tuesdays and Fridays from 4pm to 5:50pm. Attendance is required, with details listed [here](#). Members are expected to work for the majority of the period. Attendance is generally taken after an hour and a half to ensure members are coming and staying.
 
 ## Location
-Small Groups and projects are given their own Discord voice and text channels on the server which they are encouraged to use for Small Group meetings. However, projects can use a different communication platform as long as they let their mentor(s) know and give them access to it.
+Small Groups are assigned to small rooms, typically in Russell Sage Laboratory. Each Small Group (and project) is also given their own Discord voice and text channels on the server which they are encouraged to actively use.
+
+## Standup
+Each Small Group meeting should begin with a very brief review of the previous week's work from each project's team members. This ensures Project Leads know how their members are doing, and allows Mentors to proactively provide assistance. It's not meant to show off how much or how little work you were able to complete!
 
 ## Open Hacking
 The majority of Small Group meeting time should be actual development work on your project. This is when project leads can directly speak with the whole team, delegate tasks, troubleshoot, and manage their project. Mentors can be called in if available to help with technical blockers.
-
-<!-- IN PERSON FORMAT -->
-<!-- ## Overview
-- What are Small Group meetings?
-- Where / when do we meet? (TODO - link to times & locations)
-
-## Announcements
-Meetings begin with announcements.
-
-## Stand Up
-Each project has an opportunity to give their small-group a brief update on their progress over the past week. Follows SCRUM format.
-
-## Presentations
-All projects will give a presentation to their Small Group on their progress at least once per semester. Each presentation will be graded by the Small Group mentors. If there are no presentations in a Small Group on a given date, students are encouraged to attend presentations in another Small Group.
-
-## Open Hacking
-The remaining time in the Small Group meetings is dedicated to working onyour project. This time allocation enables mentors to check in on each project and help resolve problems and guide their ongoing work. -->
