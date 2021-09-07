@@ -1,7 +1,5 @@
 # Mentors
 
-!> While remote learning is in effect, mentor responsibilities are somewhat lessened as there are no in-person meetings. Instead, it is even more vital that mentors stay in touch with their small group projects and members as asynchronous meetings make it easy for members to feel isolated and fall behind.
-
 Mentors are the life blood of RCOS, a mentor can help you with technical problems, show you where/how to find help for your project, and help you find a new project etc.
 
 ### Mentor Responsibilities
@@ -24,16 +22,8 @@ Mentors are the life blood of RCOS, a mentor can help you with technical problem
 - Names and channels for referring mentees to Coordinators or Faculty Advisor.
 - What resources are provided in the Handbook to direct mentees to.
 
-<!-- TODO: Add "Become a Mentor" section -->
-
-
-
-<!-- ## Student Coordinators
-
-Student Coordinators are mentors that organize the first couple weeks as well
-as the large group meetings. If you're having an issue and your mentor can't
-point you in the right direction, a Coordinator will be able to direct you
-towards another mentor, Faculty Advisor or help you directly. -->
+### Becoming a Mentor
+At the very start of each semester, a Mentor application form will be published. Mentors are selected before the start of Small Groups and are assigned to projects at that point. Keep an eye out for this call for Mentors each semester!
 
 ## External Mentors
 
