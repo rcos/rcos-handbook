@@ -9,3 +9,4 @@ Coordinators must be securely sent the username and password combination to the 
 ### New RCOS Accounts
 
 Coordinators in the past used personal accounts for RCOS infrastructure. Once they graduated, succeeding Coordinators lost access and sometimes even knowledge of those important accounts. Therefore, it is imperative that **personal accounts are NEVER used for RCOS infrastructure or social media** but instead use the `rcos.management@gmail.com` email and are added to the RCOS BitWarden vault.
+
