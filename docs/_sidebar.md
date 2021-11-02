@@ -59,7 +59,8 @@
 * Coordinating
   * [What are Coordinators?](coordinating/README.md)
   * [First Week Agenda](coordinating/agenda.md)
-  * [Observatory](coordinating/observatory.md)
+  * [Telescope](coordinating/telescope.md)
+  * [Onboarding](coordinating/onboarding.md)
   * [Passwords](coordinating/passwords.md)
 
 * Faculty Advisor
