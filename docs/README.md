@@ -11,7 +11,7 @@ RCOS members collaborate on open source projects throughout the semester. Member
 
 All members are encouraged to produce successful projects, but the primary goals are to be exposed to interesting ideas, technologies, and people while gaining practical experience outside of the classroom in a low-risk environment.
 
-RCOS is an active member of the [Mozilla Open Source Student Network](https://opensource.mozilla.community/) and is the first student run organization to be accepted as an associate member of the [Open Source Initiative](https://opensource.org/). With an enrolled membership of 200+ students and over 800 alumni, RCOS is the largest open source campus organization in the country.
+RCOS is <!--an active member of the [Mozilla Open Source Student Network](https://opensource.mozilla.community/) and is-->the first student run organization to be accepted as an associate member of the [Open Source Initiative](https://opensource.org/). With an semesterly membership of ~200 students and over 1000 alumni, RCOS is the largest open source campus organization in the country.
 
 Check out the [FAQ](overview/faq.md?id=main) for more information.
 
