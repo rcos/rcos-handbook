@@ -33,22 +33,22 @@
   - [Final Presentation](grading/presentations)
 
 - Events
+
   - [Casual Coding Sessions](events/casual_coding_sessions.md)
   - [Tech Talks](events/tech_talks.md)
   - [Code Jams](events/code_jams.md)
   - [Hackathons](events/hackathons.md)
   - [Accepted Students Day](events/accepted_students_day.md)
   - [NRB](events/nrb.md)
-  - [Hosting an Event](events/hosting.md) TODO: remove after remote learning
-
-<!-- * Work Groups -->
-<!-- * [Overview](work_groups/README.md) -->
-<!-- * [Archival](work_groups/archival.md) -->
-<!-- * [Event Planning](work_groups/event_planning.md) -->
-<!-- * [Outreach](work_groups/outreach.md) -->
-<!-- * [Public Relations](work_groups/public_relations.md) -->
-<!-- * [Sponsorship](work_groups/sponsorship.md) -->
-<!-- * [Student Resources](work_groups/student_resources.md) -->
+  - [Hosting an Event](events/hosting.md)
+    <!-- * Work Groups -->
+    <!-- * [Overview](work_groups/README.md) -->
+    <!-- * [Archival](work_groups/archival.md) -->
+    <!-- * [Event Planning](work_groups/event_planning.md) -->
+    <!-- * [Outreach](work_groups/outreach.md) -->
+    <!-- * [Public Relations](work_groups/public_relations.md) -->
+    <!-- * [Sponsorship](work_groups/sponsorship.md) -->
+    <!-- * [Student Resources](work_groups/student_resources.md) -->
 
 - Project Management
 
