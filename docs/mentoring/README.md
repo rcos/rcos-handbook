@@ -30,6 +30,10 @@ Mentors are the life blood of RCOS, a mentor can help you with technical problem
 
 At the very start of each semester, a Mentor application form will be published. Mentors are selected before the start of Small Groups and are assigned to projects at that point. Keep an eye out for this call for Mentors each semester!
 
+### Mentor Grading
+
+Mentors typically take RCOS for credit and therefore are subject to the RCOS grading rubric. However, since mentoring comes with its own responsibilities, the requirements are more lax and the details can be found [here](/grading/rubric?id=grading-rubric-for-mentors).
+
 ## External Mentors
 
 External mentors are mentors that help projects remotely. External mentors serve a different role than regular student mentors.
