@@ -9,7 +9,7 @@ Ensure your presentation is well-rehearsed, concise, and not too long. Your shou
 Include your project title in your presentation!
 
 ### Teammates (10%)
-List every team member you worked with for the semester.
+Ensure every team member taking RCOS for credit is involved in the presentation!
 
 ### Description (20%)
 Describe your project to an audience that has no prior familiarity with it.
