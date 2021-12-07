@@ -6,7 +6,7 @@ pertinent to their open source work.
 ## Hosting a workshop
 Anyone in RCOS is allowed to host a workshop. Mentors are required to host at least one. 
 
-Workshops have historically be hosted mostly on Wednesdays, since most Computer Science majors at RPI are free on Wednesdays afternoon. Despite this, 
+Workshops have historically be hosted mostly on Wednesdays, since most Computer Science majors at RPI are free on Wednesday afternoons. Despite this, 
 there is no requirement to what day you host a workshop on. Weekends are acceptable, as are most days of the week, as long as your workshop does not conflict
 with a large group meeting or small group meeting. 
 
@@ -19,7 +19,7 @@ mostly difficult to find a skill that would not be useful to open source develop
 coordinator or faculty advisor. 
 
 Workshops that focus on a specific technology or protocol should be sure that the technology is open source. There are some exceptions, 
-for example git is open source but GitHub is not. Despite being closed source, GitHub (or parts of it like GitHub Actions) would obviously be an acceptable 
+for example Git is open source but GitHub is not. Despite being closed source, GitHub (or parts of it like GitHub Actions) would obviously be an acceptable 
 workshop topic since they are used by so many open source projects and cater directly to the open source community. Once again if you are unsure if your topic is 
 acceptable please reach out to a coordiantor or faculty advisor. 
 
