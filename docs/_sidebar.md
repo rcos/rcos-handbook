@@ -15,7 +15,6 @@
 
 - Meetings
 
-  - [Calendar](meetings/calendar.md)
   - [Semester Outline](meetings/semester_outline.md)
   - [Large Group Meetings](meetings/large_group_meetings.md)
   - [Small Group Meetings](meetings/small_group_meetings.md)
@@ -38,6 +37,7 @@
   - [Tech Talks](events/tech_talks.md)
   - [Code Jams](events/code_jams.md)
   - [Hackathons](events/hackathons.md)
+  - [Workshops](events/workshops.md)
   - [Accepted Students Day](events/accepted_students_day.md)
   - [NRB](events/nrb.md)
   - [Hosting an Event](events/hosting.md)
@@ -95,4 +95,3 @@
 
 - RCOS Handbook
   - [Overview](handbook/README.md)
-  - [Contributing](../CONTRIBUTING.md)
