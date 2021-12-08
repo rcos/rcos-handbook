@@ -7,3 +7,5 @@ This is intended to be a thorough, living document detailing the organizational 
 
 
 Built with [Docsify](https://docsify.js.org)
+
+Remember to modify the [sidebar](https://github.com/rcos/rcos-handbook/blob/master/docs/_sidebar.md) whenever you add or remove content from the handbook!
