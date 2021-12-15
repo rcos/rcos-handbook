@@ -1,8 +1,24 @@
 # How to join RCOS
 
-If you're an RPI student, hop in on our first meeting of the semester or join [our Discord](https://rcos-discord.herokuapp.com/) and introduce yourself! Feel free to ask questions to anyone, especially Mentors, Coordinators, and Faculty Advisors.
+## RPI Students
 
-If you're looking to get involved with RCOS as a member outside of RPI, email a [Coordinator](mailto:coordinators@rcos.io) to get setup on the [RCOS Discord](#discord). In the meantime, you can create an account and fill in your profile on [Observatory](#observatory).
+RCOS runs each semester of the school year, including summer semesters. You can participate either by either taking the course for credit or no credit. If you take RCOS for credit, you must meet all of the requirements described in [Grading](grading/README) in order to receive a grade. If not taking for credit, you can participate in the same way but are not held to any requirements.
+
+### 1. Register for RCOS Course
+
+When course registration opens, search for RCOS in SIS/QuACS/YACS and register for the section that has the number of credits you want to take RCOS for. The credit count is factored into grading. You will also be able to show up to the first RCOS meeting of the semester and register via SIS then, but it is best to do this as soon as possible!
+
+### 2. Register on Telescope
+
+Log into [Telescope](https://rcos.io) with CAS to register as an RCOS member in our database.
+
+### 3. Join Discord Server
+
+RCOS uses Discord for all communication. It is required that you join the RCOS Discord server for updates, announcements, and team communication throughout the semester. Once you have logged into Telescope, [connect your Discord account](https://rcos.io/link/discord) which will add you to the Discord server. Here you'll be able to reach out to Faculty Advisors, Coordinators, Mentors, and your fellow members!
+
+### 4. Attend First Meeting
+
+The first RCOS meeting of each semester is on either the first Tuesday or Friday of the semester at 4pm. Typically these large meetings take place in DCC 318, but always check SIS for the actual location!
 
 <!-- RCOS is a group of RPI students who work on open source projects. Our members work on a variety of projects, which can be seen on the projects page. To see the presentation schedule look here. -->
 
@@ -13,18 +29,6 @@ If you're looking to get involved with RCOS as a member outside of RPI, email a 
 <!-- - Practice giving and receiving feedback. Learning how to discuss technical and non-technical aspects of a project in a constructive fashion is a critical skill that employers look for! -->
 
 <!-- Students can participate in RCOS for course credit or for a stipend. At the beginning of each semester, the Internal Advisory Board will review project proposals and decide which projects should receive financial support. -->
-
-## GitHub
-
-[GitHub](https://github.com/) is where most RCOS projects are stored and collaborated on within. You will need to create an account and eventually create or join a project. Some projects do choose another platform such as GitLab, BitBucket, etc.
-
-## Observatory
-
-[Observatory](https://rcos.io) is RCOS's open source project management platform. Every RCOS member is required to have an observatory account, it's through this platform that you can write blog posts, record your attendance and see other RCOS projects.
-
-## Discord
-
-[Discord](https://rcos-discord.herokuapp.com/) is the primary communication platform for RCOS. We created a tool to link your RPI identity to your Discord account (only for our server of course!) and create categories and channels for small groups and projects each semester. Here you'll be able to reach out to Faculty Advisors, Coordinators, Mentors, and your fellow members!
 
 <!-- ## Finding a project
 
