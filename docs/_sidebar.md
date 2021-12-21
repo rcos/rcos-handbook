@@ -55,7 +55,7 @@
   - [New Projects](project_management/new_projects)
   - [Project Pitch](project_management/pitch)
   - [Project Proposal](grading/documentation?id=proposal)
-  - [Managing a Project](#)
+  <!-- - [Managing a Project](#) -->
 
 - Mentoring
 

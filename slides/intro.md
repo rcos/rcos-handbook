@@ -1,4 +1,3 @@
-
 ---
 <!-- HTML -->
 
@@ -8,11 +7,13 @@
 ---
 
 ### Overview
+
 - What is RCOS?
 - Meetings
 - New Changes to RCOS
 - Getting Started
 - Tips for Success
+
 ---
 
 ### About this presentation
@@ -23,10 +24,12 @@
 ---
 
 ### Other presentations
+
 - [github.com/rcos/intro/presentations](https://github.com/rcos/intro/presentations)
 - [github.com/rcos/intro/smallgroups](https://github.com/rcos/intro/smallgroups)
 
 ---
+
 <!-- HTML -->
 
 <style> .byside{ display:inline-block; } </style>
@@ -47,6 +50,7 @@
 ---
 
 ### Coordinators
+
 - Adrian Collado
 - Alex Schwartzberg
 - Chris Tang
@@ -56,6 +60,7 @@
 ---
 
 ### Mentors (p. 1 of 3)
+
 - Adam Lawrence
 - Bryan Dieudonne
 - Charlie Schmitter
@@ -69,6 +74,7 @@
 ---
 
 ### Mentors (p. 2 of 3)
+
 - John Hulton
 - Kevin Phoenix
 - Kousuke Tachida
@@ -82,6 +88,7 @@
 ---
 
 ### Mentors (p. 3 of 3)
+
 - Ruijie Geng
 - Scott Thiel
 - Shoshana Malfatto
@@ -89,10 +96,10 @@
 - Tim Clough
 - Victor Nazzaro
 
-
 ---
 
 ### External Mentors
+
 - Ada Young
 - Josh Goldberg
 - Ranjit Marathay
@@ -117,13 +124,14 @@ To cultivate an inclusive, creative, and entrepreneurial community that seeks to
 
 (but for real)
 
-Every RCOS member is an *agent of change* within the organization.
+Every RCOS member is an _agent of change_ within the organization.
 
 ---
 
 ### We still have rules!
 
 ![](https://78.media.tumblr.com/0e8e9ec630301a1b30ff0056138146af/tumblr_mhkhnkQNCD1rmmhtko1_400.jpg)
+
 - [Code of Conduct](https://handbook.rcos.io/#/community/CODE_OF_CONDUCT) - general ground rules
 - [Bylaws](https://handbook.rcos.io/#/community/bylaws) - RPI specific policies
 
@@ -162,6 +170,7 @@ Bonus Sessions + Workshops on a rolling basis
 ---
 
 ### Small Groups
+
 - Lead by a small group of mentors
 - Typically about 20 people to a small group
 - Stand-ups & Status Updates
@@ -171,6 +180,7 @@ Bonus Sessions + Workshops on a rolling basis
 ---
 
 ### Large Groups
+
 - Lead by Coordinators
 - Student Announcements
 - Lightning Talks
@@ -181,25 +191,29 @@ Bonus Sessions + Workshops on a rolling basis
 ---
 
 ### Casual Coding Sessions
--  Open to all! (not just members)
--  Come and work on whatever you want!
--  Not just for coding!
--  Every Wednesday at 4PM (location TBD)
--  Bring your friends!
+
+- Open to all! (not just members)
+- Come and work on whatever you want!
+- Not just for coding!
+- Every Wednesday at 4PM (location TBD)
+- Bring your friends!
 
 ---
 
-###  Bonus Sessions
--  Can take the place of a large group attendance
--  Scheduled on a rolling basis
--  Workshops & talks on specific topics
--  Mostly student run, some external presenters
--  Anyone can host one
+### Bonus Sessions
+
+- Can take the place of a large group attendance
+- Scheduled on a rolling basis
+- Workshops & talks on specific topics
+- Mostly student run, some external presenters
+- Anyone can host one
 
 ---
 
 ### NEW!
+
 ### Status Updates
+
 - **REQUIRED** weekly, short-form blog posts
 - Replaces old Blog Post requirement
 - Submit by pushing to a GitHub repository
@@ -209,7 +223,9 @@ Bonus Sessions + Workshops on a rolling basis
 ---
 
 ### NEW!
+
 ### Work Groups
+
 - Help run and grow RCOS!
 - Small, task-oriented teams
 - More opportunities for student leadership
@@ -240,6 +256,7 @@ Bonus Sessions + Workshops on a rolling basis
 ---
 
 ### Getting started at RCOS
+
 - Observatory
 - Mattermost
 - SIS
@@ -248,6 +265,7 @@ Bonus Sessions + Workshops on a rolling basis
 ---
 
 ### Observatory
+
 http://rcos.io
 
 RCOS's homebrew project management system
@@ -255,6 +273,7 @@ RCOS's homebrew project management system
 ---
 
 ### Discord
+
 https://rcos-discord.herokuapp.com/
 
 RCOS's primary communication medium
@@ -272,6 +291,7 @@ Helps us reserve our rooms and build a roster
 ---
 
 ### GitHub
+
 We manage all our projects on GitHub
 
 You're welcome to use GitLab for your project if you prefer
@@ -279,24 +299,28 @@ You're welcome to use GitLab for your project if you prefer
 ---
 
 ### Finding a project
+
 https://rcos.io/projects
 
 ---
 
 ### Finding a team (optional)
+
 - Pitch Day
 - Post on Mattermost (#slides)
 - Talk to mentors and Coordinators
-- Project Project Pairing
+- Project Pairing
 
 ---
 
 ### Learning Git
+
 [try.github.io](http://try.github.io)
 
 ---
 
 ### Getting Help
+
 - `#helpdesk`
 - Mattermost
 - Other members!
@@ -307,11 +331,13 @@ https://rcos.io/projects
 ---
 
 ## How to be Successful
+
 (and get an A!)
 
 ---
 
 ## How to be Successful
+
 - Contribute often
 - Communicate and document!
 - Tell us what you're up to (Blog often!)
@@ -322,6 +348,7 @@ https://rcos.io/projects
 ---
 
 ### Goals for RCOS 2018
+
 - Collaborate more with other organizations
 - Offer alternative ways to learn and get involved
 - Not just coding and projects
@@ -330,6 +357,7 @@ https://rcos.io/projects
 ---
 
 ### Goals for RCOS 2018
+
 - Get more contributions to external projects
 - Have more student talks and bonus sessions!
 - Increase longevity of RCOS projects
@@ -337,14 +365,15 @@ https://rcos.io/projects
 
 ---
 
-###  What happens next?
+### What happens next?
+
 Project pitches Tuesday!
 
 - Send your slides to @aeksco on Mattermost
 - Please send them by 11pm on Monday (9/4)
 - Slides MUST be in JPEG format!
 - Please NO PDF, PPT/X, or Google links!
-- Friday (9/7) - Project Project Pairing (Find a project!)
+- Friday (9/7) - Project Pairing (Find a project!)
 - DO NOT wait until Project Pairing to look for a project!
 
 ---
@@ -361,6 +390,7 @@ Saturday 9/1 - 12-4pm in SAGE 4510
 ---
 
 ### What do you do now?
+
 - Sign up on rcos.io, Mattermost, and GitHub
 - Register on SIS (`CRN 53081`, `CSCI-4963-01`)
 - Find a project
@@ -369,7 +399,9 @@ Saturday 9/1 - 12-4pm in SAGE 4510
 ---
 
 ### Who do I talk to for `blank`?
+
 ![](https://media.giphy.com/media/si7ZWHm50U3T2/giphy.gif)
+
 - Coordinators
 - Mentors
 - Faculty
@@ -378,11 +410,13 @@ Saturday 9/1 - 12-4pm in SAGE 4510
 ---
 
 ### Where are these slides
+
 [handbook.rcos.io](http://handbook.rcos.io)
 
 ---
 
 ### Any questions?
+
 ![](https://upload.wikimedia.org/wikipedia/en/b/b5/David_S._Pumpkins_dance.jpg)
 
 ---

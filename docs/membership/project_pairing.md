@@ -4,7 +4,7 @@
 
 ## Overview
 
-The goal of project Project Pairing is to ensure that each student finds a project that matches their interests. Finding a project can be very nerve-wracking, especially for new members. Project Pairing was introduced to address this problem.
+The goal of Project Pairing is to ensure that each student finds a project that matches their interests. Finding a project can be very nerve-wracking, especially for new members. Project Pairing was introduced to address this problem.
 
 Project Pairing should take place the meeting directly after the last Pitch Day and **must** take place before the first Small Group meeting. During Project Pairing, each project that is currently seeking new members is made easily visible to all members seeking projects. For this reason, it is crucial that all projects and members are present in the same location.
 
@@ -16,8 +16,7 @@ Project Pairing should take place the meeting directly after the last Pitch Day 
 
 Once the list of participating projects has been established, a numbered list should be compiled and documented. Each project taking part in the event will be assigned an ID number corresponding to its list enumeration.
 
-Each project should also select one representative who is well informed of the project's goals and needs. This representative should be given a sign to wear that identifies which project they are promoting, the project’s ID number, their name, and their contact information. *The Coordinators should prepare signs for each participating project in advance of this meeting.*
-
+Each project should also select one representative who is well informed of the project's goals and needs. This representative should be given a sign to wear that identifies which project they are promoting, the project’s ID number, their name, and their contact information. _The Coordinators should prepare signs for each participating project in advance of this meeting._
 
 When Project Pairing begins, representatives should arrange themselves in the front of the room according to their assigned ID number. A key of assigned numbers to projects should be displayed on the projector to make it easier to find projects (this key should correlate to the numbered list mentioned above).
 
