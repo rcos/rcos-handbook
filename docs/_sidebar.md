@@ -63,17 +63,14 @@
   - [Training](mentoring/training.md)
   - [Mentor Replacement Policy](mentoring/replacement.md)
 
-- Coordinating
+- Leadership
 
-  - [What are Coordinators?](coordinating/README.md)
-  - [First Week Agenda](coordinating/agenda.md)
-  - [Telescope](coordinating/telescope.md)
-  - [Onboarding](coordinating/onboarding.md)
-  - [Passwords](coordinating/passwords.md)
-
-- Faculty Advisor
-
-  - [What are Faculty Advisors?](coordinating/faculty.md)
+  - [Coordinators](leadership/coordinators.md)
+  - [Faculty Advisors](leadership/faculty.md)
+  - [First Week Agenda](leadership/agenda.md)
+  - [Telescope](leadership/telescope.md)
+  - [Onboarding](leadership/onboarding.md)
+  - [Passwords](leadership/passwords.md)
 
 - Student Resources
   <!-- * [Presentation Slides](resources/slides.md) TODO: return when we figure out slides -->
