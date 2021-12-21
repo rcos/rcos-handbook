@@ -6,8 +6,9 @@ RCOS is largely a self-guided class, which can make management and grading diffi
 
 Generally speaking, if you're contributing to the community and/or making valuable open-source contributions you'll receive a high grade in RCOS.
 
-## [Grading Rubric](grading/rubric) <!-- {docsify-ignore} -->
+?> Our grading rubric assumes you are taking RCOS for 4 credits, as that is most common. If you are taking RCOS for less credits, we scale down the Contributions requirements slightly.
 
+## [Grading Rubric](grading/rubric) <!-- {docsify-ignore} -->
 
 ## Guidelines
 
@@ -22,7 +23,6 @@ The rubric details what categories make up your grade. Please read through the g
 **[Presentations](grading/presentations)**
 
 **[Attendance](grading/attendance)**
-
 
 ## Grade Appeal Policies
 
