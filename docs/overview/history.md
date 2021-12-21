@@ -7,13 +7,13 @@
 
 <!-- Initial donation was to the tune of $250,000.  Dr. Luk was the first director of this center (I think). On Dr. Luk’s resignation in 2007,  a call for directorship went to a few CS Faculty Advisors in March 2007.  The directorship has to be joint between Computer Science Department and Computer and Systems Engineering Department. Dr. B. Roysam was appointed from computer systems engineering department I was appointed from the computer science department. (I was the only person who volunteered ) -->
 
-> NOTE - all the content below was taking from the following [RCOS OverviewJan16,2018-old presentation](https://docs.google.com/presentation/d/1mX6wNaIBUDo1RnLvu1POPQGLMi4wp8OA44SbA5C7xHM/edit#slide=id.g827926ff0_0_0). It needs to be refined a bit more now that it's been ported to the RCOS handbook.
+<!-- > NOTE - all the content below was taking from the following [RCOS OverviewJan16,2018-old presentation](https://docs.google.com/presentation/d/1mX6wNaIBUDo1RnLvu1POPQGLMi4wp8OA44SbA5C7xHM/edit#slide=id.g827926ff0_0_0). It needs to be refined a bit more now that it's been ported to the RCOS handbook. -->
 
 ### Overview
 
-Founded in 2006 by generous $2M donation
-from Sean O'Sullivan
+RCOS was founded in 2006 by a generous $2M donation from [Sean O'Sullivan](https://sosf.us/rensselaer/).
 Past and current leadership:
+
 - 2006-2007: Frank Luk, Director
 - 2007-2010: Badri Roysam, Mukkai Krishnamoorthy, co-Directors
 - 2010-2013: Mukkai Krishnamoorthy, Director
@@ -21,8 +21,7 @@ Past and current leadership:
 - 2016-2018: Mukkai Krishnamoorthy, David Goldschmidt, Wes Turner, co-Directors/Advisor
 - 2018-present: David Goldschmidt, Wes Turner, co-Directors/Advisor
 
-Gained momentum in 2007 with launch of Open Source Software course
-Funding rejuvenated by Red Hat in 2015.
+The program gained momentum in 2007 with launch of Open Source Software course. Funding was rejuvenated by Red Hat in 2015.
 
 <!-- ### Mission Statement -->
 
@@ -61,8 +60,8 @@ Thrust: To improve the overall quality of RCOS projects and to increase diversit
 - Funds the development of two (one CS and one HASS) freshmen/sophomore-level courses on Open Source
 - Funds Undergraduate Mentors for two new courses
 
-
 ### RedHat Funding (contd)
+
 - Diversity Hackathon - April 16-17, 2016
 - Primarily Hackathon for women students in Capital District universities, colleges and high schools
 - Coordinated jointly with Pearlhacks and RedHat
@@ -74,11 +73,10 @@ Thrust: To improve the overall quality of RCOS projects and to increase diversit
 - Syllabus and Other details may be found at http://rcos.github.io/CSCI2961-01/ and https://github.com/rcos/CSCI2961-01
 
 ### Going Forward
-- Scale the Course - How to reach more students.
-- Sustain software projects
+
+- Sustain projects over semesters
+- Provide resources for Project Leads
 - Increase the sophistication of RCOS Projects
 - Increase the diversity of participants
-- Hacker Space and Community Space
 - Increase projects using new hardware
 - Increased interaction with OSI and other universities
-- We are working to make RCOS a BIG part of Summer Arch!
