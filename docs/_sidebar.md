@@ -71,6 +71,7 @@
   - [Telescope](leadership/telescope.md)
   - [Onboarding](leadership/onboarding.md)
   - [Passwords](leadership/passwords.md)
+  - [Notes](leadership/notes.md)
 
 - Student Resources
   <!-- * [Presentation Slides](resources/slides.md) TODO: return when we figure out slides -->
