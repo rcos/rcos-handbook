@@ -57,7 +57,7 @@ Examples of unacceptable behaviors include:
 
 ## Reporting Incidents
 
-At any point, you may report instances of CoC violations to our [Coordinators](https://rcos.github.io/rcos-handbook/#/leadership/coordinators) and [Faculty Advisors](https://handbook.rcos.io/#/leadership/faculty) at <coordinators@rcos.io>. You, as well as any other witnesses, have the right to remain anonymous to the rest of the RCOS community.
+At any point, you may report instances of CoC violations to our [Coordinators](https://rcos.github.io/rcos-handbook/#/leadership/coordinators) and [Faculty Advisors](https://handbook.rcos.io/#/leadership/faculty) at <rcos-leadership@googlegroups.com>. You, as well as any other witnesses, have the right to remain anonymous to the rest of the RCOS community.
 
 If you are uncomfortable reporting to the Coordinators for any reason, you may reach out to a Faculty Advisor directly via our [Discord server](https://rcos-discord.herokuapp.com//).
 
