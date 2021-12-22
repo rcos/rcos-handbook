@@ -1,71 +1,71 @@
 # Mentor Training
 
-## Overview
+Welcome to the Mentor team! RCOS can't function without you. This page has all the documentation you need to start mentoring and flourish as an RCOS Mentor.
 
-- Topics to cover
-- Slides
+While some information here might be common knowledge to long-time Mentors, it also has useful specifics that would benefit Mentors with all levels of experience. Be sure to read and familiarize yourself with the information here each semester you mentor!
 
-## Mentor Training Event(s)
+## Agenda
 
-Welcome to the RCOS Mentor team! At the beginning of each semester, we hold Mentor training sessions to help get our new Mentors started.
+- Time Commitments
+- Semester Overview
+- Managing a Small Group
+- Helping in Large Group
+- Grading
+- Taking Attendance
+- Handling Code of Conduct Violations
 
-Mentor training is required for all new Mentors and returning Mentors who have not mentored in at least 2 semesters and did not complete Mentor training prior to becoming a Mentor.
+## When Is This Covered?
 
-All other returning mentors are not required to attend Mentor training, but are welcome to assist the Coordinators in facilitating Mentor training.
+We aim to have the first Mentor meeting of each semester immediately following the first RCOS meeting of the semester.
 
-External mentors are not required to complete mentor training, but are encouraged to review the mentor training slides.
+## Mentor Time Commitments
 
-## Topics Covered in Mentor Training
+The extra time commitment to being a Mentor is minimal. Besides being present for the typical twice a week RCOS meetings for 1-2 hours, we expect Mentors to commit to:
 
-Below is a rough outline of what will be covered in the training sessions.
+- Bi-weekly Mentor meetings
+  - 30min - 1hr typically during Small Group meetings
+- Hosting at least one [Workshop](/events/workshops)
+  - 30min - 1hr typically on Wednesdays but up to Mentor
 
-### Estimated Time Commitments
+### Semester Overview
 
-Bare minimum:
+Mentors have impact throughout the entire semester.
 
-- **Mentor training**: mandatory for all first-time mentors, optional for returning mentors (returning mentors may help facilitate training and/or answer any questions)
-- **Small group**: ~1-2 hours once or twice per week (Tuesdays and Fridays when Large Group is not in session).
-- **Large group**: ~1-2 hours once or twice per month plus kick-off at beginning of semester and wrap-up at end of the semester.
-- **Mentor meetings**: biweekly, typically no longer than 30 mins-1 hour
-- **Code jams**: held once a month, you must host at least one
-- **Bonus sessions/casual coding sessions**: you must help out with at least one. At longer events such as coding sessions, hackathons, and code jams, you may sign up for a timeslot that only covers part of the session.
+The first two weeks agenda can be found [here](leadership/agenda). This time is always hectic for the Coordinators and Faculty Advisors as we introduce RCOS, run project pitches, project pairing, and form Small Groups.
+As a mentor, you are expected to help out with Project Pairing. <!-- TODO: expand -->
 
-### First Two Weeks
+During the middle of the semester, you will be managing your Small Group both during and outside of RCOS meetings. You will be grading weekly status updates, taking meeting attendance, and providing support and/or direction to your mentees when it is needed.
 
-The first two weeks agenda can be found [here](leadership/agenda).
+During the end of the semester, you will review your mentee projects' presentations before they actually present, ensure that your mentees know how well they are doing in RCOS, and help in grading Final Presentations and Final Reviews.
 
-As a mentor, you are expected to help out with Project Pairing. If you have a course conflict on Tuesdays at 4pm (e.g. ECSE seminar), please let the Coordinators know so that:
+## Managing a Small Group
 
-- your absence during these meetings can be marked as excused
-- you can be placed in an alternate small group (typically held at 6pm on Tuesday)
+A description of Small Group meetings for RCOS members can be found [here](meetings/small_group_meetings).
 
-<!-- ### Using Observatory as a Mentor
-  - Verification
-  - Setting up a small group
-  - Generating small group attendance codes -->
+<!-- TODO: way exand -->
 
-### Running Small Group
-
-A brief overview of small group meetings for RCOS members can be found [here](meetings/small_group_meetings). Mentor training will additionally cover:
-
-- Tuesday vs. Friday small group
-- Running standup
-- Grading presentations
-
-### Helping in Large Group
+## Helping in Large Group
 
 - Managing noise levels/talking
 
-### Handling Code of Conduct Violations
+## Grading
 
-Please familiarize yourselves with our [Code of Conduct](community/CODE_OF_CONDUCT) and [Bylaws](community/bylaws). As a mentor, you are not only expected to follow these, but to enforce them where appropriate.
+One of a Mentor's most important and helpful responsibilites is grading their mentees' Status Updates, Mid-year Review, and Final Review. Currently, grading takes place through Submitty. At the start of the semester, you should be added as a Grader on the RCOS Submitty course. You will be assigned to only grade assignments for your Small Group mentees. The first Mentor Meeting will show what this looks like in Submitty.
+
+In general, as a Mentor you must familiarize yourself with the RCOS [grading rubric](grading/rubric) so that you can answer mentees' questions. In short, in order of grading weight the rubric is: contributions, status updates/documentation, presentation, attendance.
+
+Point your mentees to this Handbook for the most up-to-date information.
+
+## Taking Attendance
+
+Attendance is an important part of RCOS. While it is a small factor of the grade, missing attendance likely results in fewer and poorer open source contributions and causes issues for projects and Project Leads. As a Mentor of a Small Group, it is your job to ensure those who attend get attendance credit, and those that miss many meetings are contacted.
+
+Currently, attendance is handled by some form of Venue. The first Mentor Meeting of the semester will go over exact details. It will take the form of showing a QR code or similar on your screen at the end of meetings.
+
+If you ever find instances of attendance fraud, let a Coordinator or Faculty Advisor know immediately. This has happened in the past.
+
+## Handling Code of Conduct Violations
+
+Please familiarize yourselves with our [Code of Conduct](community/CODE_OF_CONDUCT) and [Bylaws](community/bylaws). As a Mentor, you are not only expected to follow these, but to enforce them where appropriate.
 
 Any violations warranting more than a verbal/Discord warning (e.g. repeated offenses, harassment) should be reported to Coordinators/Faculty Advisors, who will then determine the appropriate action(s) necessary.
-
-### Q&A
-
-Current Mentors and Coordinators will be present at each training event to answer any questions you may have about mentorship.
-
-## Mentor Training Slides
-
-The mentor training slides can be accessed on [Google Slides](https://docs.google.com/presentation/d/18qP0p2QFEmcT0ylAm84zMyUJU31u7uzXwfhjUeZN2KA/edit?usp=sharing).

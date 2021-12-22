@@ -28,7 +28,7 @@ Mentors are the life blood of RCOS, a mentor can help you with technical problem
 
 ### Becoming a Mentor
 
-At the very start of each semester, a Mentor application form will be published. Mentors are selected before the start of Small Groups and are assigned to projects at that point. Keep an eye out for this call for Mentors each semester!
+Before the start of each semester, a Mentor application form will be published. Mentors are ideally selected before the first meeting and are assigned to Small Groups and projects by meeting 4. Keep an eye out for this call for Mentors before each semester! If you proactively reach out, that improves your chances of being selected.
 
 ### Mentor Grading
 
