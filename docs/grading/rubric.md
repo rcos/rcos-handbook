@@ -85,7 +85,7 @@ Please review the [Code of Conduct](community/CODE_OF_CONDUCT.md) as well as our
 # Grading Rubric for Mentors
 
 Mentors have a unique responsibility within RCOS. As a mentor you are
-expected to run a small group, be familiar with all the projects in your
+expected to run a Small Group, be familiar with all the projects in your
 group, fill out evaluations, provide guidance and technical support to
 projects in your group, and to regularly attend mentor meetings. Additionally, you
 are expected to help us plan and execute external events such as code jams,

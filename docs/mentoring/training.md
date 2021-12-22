@@ -24,7 +24,7 @@ Below is a rough outline of what will be covered in the training sessions.
 Bare minimum:
 
 - **Mentor training**: mandatory for all first-time mentors, optional for returning mentors (returning mentors may help facilitate training and/or answer any questions)
-- **Small group**: ~1-2 hours once or twice per week (Tuesdays and Fridays when large group is not in session).
+- **Small group**: ~1-2 hours once or twice per week (Tuesdays and Fridays when Large Group is not in session).
 - **Large group**: ~1-2 hours once or twice per month plus kick-off at beginning of semester and wrap-up at end of the semester.
 - **Mentor meetings**: biweekly, typically no longer than 30 mins-1 hour
 - **Code jams**: held once a month, you must host at least one

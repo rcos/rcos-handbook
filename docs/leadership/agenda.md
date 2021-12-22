@@ -3,22 +3,25 @@
 The first two weeks is an extremely important time to get new students acquainted with RCOS, old students updated on any changes in structure/leadership, assigning Mentors and a handful of other tasks. This is the most important time for the Coordinators to be "on top of things".
 
 ## Before the First Meeting
+
 Prior to the first meeting new Coordinators should be chosen. Any planned changes should be reflected in the relevant documentation and/or presentations. The Coordinators should meet to plan and make sure all administrative affairs are in order.
 
 <!--In addition, at least one [mentor training session](mentoring/training) must take place prior to the first meeting.-->
 
 ## Outline
+
 All of the following details need to be worked out within the first two weeks
-* RCOS Concepts
+
+- RCOS Concepts
   - History Reviewed
   - Structure, Grading and Motivations introduced
   - Sponsors introduced
   - Small groups introduced
   - Semester Goals introduced
   - Presentation rules and guidelines
-* Old Projects Pitched
-* New Projects Pitched
-* Project Pairing
+- Old Projects Pitched
+- New Projects Pitched
+- Project Pairing
 
 ## First Meeting
 
@@ -32,7 +35,7 @@ The expectations of working on a project for credit are defined. The rubric is e
 
 After expectations are defined, students are reminded how to pitch their projects the following meeting. Pitch slides are collected by a Coordinator until 11:59PM the night before the second meeting.
 
-Existing projects are reminded to submit proposals. Existing projects are asked to fill out a form expressing their small group mentor/technology preference.
+Existing projects are reminded to submit proposals. Existing projects are asked to fill out a form expressing their Small Group mentor/technology preference.
 
 After the first meeting, another mentor training session will be held for any new mentors who have not completed mentor training.
 
@@ -42,7 +45,7 @@ The second meeting is dedicated solely to project pitches. Each pitch should be 
 
 Additional information should be kept to the minimum. Students should be encouraged to get in touch with project leaders and mentors for help picking a project, and should be reminded of the URP form deadlines.
 
-If a significant number of new mentors have still not completed mentor training, another mentor training session will take place after the second meeting if time allows. 
+If a significant number of new mentors have still not completed mentor training, another mentor training session will take place after the second meeting if time allows.
 
 ## Third Meeting
 
@@ -57,6 +60,7 @@ In the second room, mentors should be present to look over student's proposals a
 Mentor groups should selected and rooms should be assigned prior to the fourth meeting. Each mentor group should have its own room. Projects should be distributed amongst Small Groups as evenly as possible. Projects should be assigned to mentors with relevant skill sets so the mentors can best provide technical assistance when needed. All students should be informed of their mentor groups prior to the fourth meeting. If the fourth meeting is a Tuesday, students should report directly to their mentor group.
 
 At least one mentor meeting excluding mentor training must occur prior to the fourth meeting. Mentors should be instructured to ensure that mentees:
+
 1. Are on [rcos.io](https://rcos.io).
 2. Are on [Discord](https://rcos-discord.herokuapp.com/)
 
