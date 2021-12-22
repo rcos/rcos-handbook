@@ -41,11 +41,9 @@ After the first meeting, another mentor training session will be held for any ne
 
 ## Second Meeting
 
-The second meeting is dedicated solely to project pitches. Each pitch should be no more than one minute long, although exceptions are sometimes made for 'special' projects.
+The second meeting is dedicated solely to project pitches. Each pitch should be no more than one minute long, although exceptions are sometimes made for 'special' projects. Returning projects should be encouraged to go first, to set an example for new projects.
 
-Additional information should be kept to the minimum. Students should be encouraged to get in touch with project leaders and mentors for help picking a project, and should be reminded of the URP form deadlines.
-
-If a significant number of new mentors have still not completed mentor training, another mentor training session will take place after the second meeting if time allows.
+Additional information should be kept to the minimum. Students should be encouraged to get in touch with project leaders and mentors for help picking a project, but be reminded that there might be more project pitches at the next meeting.
 
 ## Third Meeting
 

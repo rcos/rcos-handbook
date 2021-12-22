@@ -7,11 +7,11 @@
 
 ## Mentor Training Event(s)
 
-Welcome to the RCOS mentor team! At the beginning of each semester, we hold mentor training sessions to help get our new mentors started.
+Welcome to the RCOS Mentor team! At the beginning of each semester, we hold Mentor training sessions to help get our new Mentors started.
 
-Mentor training is required for all new mentors and returning mentors who have not mentored in at least 2 semesters and did not complete mentor training prior to becoming a mentor.
+Mentor training is required for all new Mentors and returning Mentors who have not mentored in at least 2 semesters and did not complete Mentor training prior to becoming a Mentor.
 
-All other returning mentors are not required to attend mentor training, but are welcome to assist the Coordinators in facilitating mentor training.
+All other returning mentors are not required to attend Mentor training, but are welcome to assist the Coordinators in facilitating Mentor training.
 
 External mentors are not required to complete mentor training, but are encouraged to review the mentor training slides.
 
@@ -55,7 +55,6 @@ A brief overview of small group meetings for RCOS members can be found [here](me
 ### Helping in Large Group
 
 - Managing noise levels/talking
-- Verifying members
 
 ### Handling Code of Conduct Violations
 
@@ -63,17 +62,10 @@ Please familiarize yourselves with our [Code of Conduct](community/CODE_OF_CONDU
 
 Any violations warranting more than a verbal/Discord warning (e.g. repeated offenses, harassment) should be reported to Coordinators/Faculty Advisors, who will then determine the appropriate action(s) necessary.
 
-<!--
-TODO: flesh this out further
-Example enforcing manuals:
-Ada Initiative template: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports
-Django project enforcement manual: https://www.djangoproject.com/conduct/enforcement-manual/
--->
-
 ### Q&A
 
-Current mentors and Coordinators will be present at each training event to answer any questions you may have about mentorship.
+Current Mentors and Coordinators will be present at each training event to answer any questions you may have about mentorship.
 
 ## Mentor Training Slides
 
-The mentor training slides can be accessed in [our presentations repository](https://github.com/rcos/presentations/tree/master/mentor-training) (source code) and online at [https://rcos.github.io/rcos-presentations/mentor-training/](https://rcos.github.io/rcos-presentations/mentor-training/) (compiled presentation).
+The mentor training slides can be accessed on [Google Slides](https://docs.google.com/presentation/d/18qP0p2QFEmcT0ylAm84zMyUJU31u7uzXwfhjUeZN2KA/edit?usp=sharing).
