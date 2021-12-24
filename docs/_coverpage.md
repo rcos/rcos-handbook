@@ -2,7 +2,7 @@
 
 <hr style='width:40%; border-color:#da291c;'>
 <h1 style="color: #da291c">Handbook</h1>
-<p style="color: #da291c">version 0.5</p>
+<p style="color: #da291c">Spring 2022 | version 0.6</p>
 
 [Get Started](#main)
 
