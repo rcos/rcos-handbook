@@ -6,7 +6,7 @@ Each project group is required to give a final presentation at the end of the se
 
 ### Effectiveness of Presentation (30%)
 
-Ensure your presentation is well-rehearsed, concise, and not too long. Your should give your audience an organized idea of what happened (good/bad/unexpected) in the semester.
+Ensure your presentation is well-rehearsed, concise, and not too long. Your should give your audience an organized idea of what happened (good/bad/unexpected) in the semester. You should aim for **10 minutes**.
 
 ### Title (10%)
 

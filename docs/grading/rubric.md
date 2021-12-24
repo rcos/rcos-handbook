@@ -37,11 +37,10 @@ Keeping us informed with a weekly status update and by keeping your project docu
 | **D** | Makes few status updates of little to no value and does not contribute to other forms of documentation.                                                                                                                                            |
 | **F** | Makes no status updates and contributes no effort toward documenting the project. Project does not have a meaningful README or license.                                                                                                            |
 
-## 15% - Presentations and Outreach
+## 15% - Presentations
 
-External outreach is especially critical on projects with no formal management structure.
 You need to develop the ability to represent yourself, your project and RCOS.
-Presentations and outreach are critical to this learning goal.
+Presentations like the Final Presentation are critical to this learning goal.
 
 ?> View the specific guidelines for Presentations [here](grading/presentations).
 
