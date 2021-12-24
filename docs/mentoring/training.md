@@ -42,11 +42,23 @@ During the end of the semester, you will review your mentee projects' presentati
 
 A description of Small Group meetings for RCOS members can be found [here](meetings/small_group_meetings).
 
-<!-- TODO: way exand -->
+As a Mentor, you will be assigned to a Small Group before Small Group meetings start. Depending on then number of Mentors for the semester, you will hopefully have 1-2 other Mentors in your Small Group. Your main role is to run Small Group meetings, go through the day's slides at the start of the meeting, be present to help your mentees or point them to who can help during meetings, take attendance at the end of the meetings, and be knowledgeable on what the projects in your Small Group are up to.
 
-## Helping in Large Group
+You should make an effort to get to know every project and project member in your Small Group. Ask about projects and progress, both to get to know your mentees and also to identify mentees who have blockers or who aren't making progress.
 
-- Managing noise levels/talking
+### Meeting Slides
+
+Check Discord's #slides channel for the day's slides before each meeting. **Please familiarize yourself with the slides prior to presenting them.** Ask any questions in the #mentors channel. At the start of Small Group meetings, one Mentor should present the slides from their device to the attendees. It is vital that you do this, as important RCOS announcements, updates, opportunities, deadlines, etc. are conveyed in the meeting slides.
+
+### Standup
+
+Immediately after the day's slides are shown, we highly recommend you have every project very quickly go through a stand up, or "daily scrum" where everyone stands up and every person quickly gives 3 things:
+
+- their progress from the following week
+- their plans for the current/next week
+- any **technical** blockers
+
+As a Mentor, it is your job to ensure your mentees give substantive but concise answers, and it is your job to actually listen to progress and blockers in case you can help!
 
 ## Grading
 
