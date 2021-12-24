@@ -11,7 +11,7 @@ Students are allowed and encouraged to collaborate on open source contributions 
 Students may also engage in "pair programming" to work on open source contributions as long as they use co-authoring on all commits where pair programming was used. When using co-authoring, all students who worked on the commit must be included to receive credit for the commit. Instructions for co-authoring are listed below.
 
 - [GitHub Commit Co-Authoring](https://help.github.com/articles/creating-a-commit-with-multiple-authors/)
-- GitLab currently does not support co-authoring.
+- GitLab also supports this format
 
 ## Status Updates
 
