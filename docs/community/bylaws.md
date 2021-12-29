@@ -98,7 +98,8 @@ Consequences may include:
   - If you are removed from RCOS, the following will occur during your removal (temporary or permanent):
     - You will not be allowed to register for RCOS for credit, funding or experience.
     - You will be barred from attending any future RCOS events.
-    - Your Slack and Observatory accounts will be suspended.
+    - Your Discord account will be kicked from the server.
+    - Your Observatory account will be suspended.
     - If you are currently a mentor, your mentorship position will be terminated immediately and you will be ineligible to mentor, including as an external mentor. The same rule applies to Coordinators.
 
 Please note that the above list is not exhaustive and additional consequences may follow as appropriate.
