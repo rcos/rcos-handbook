@@ -1,6 +1,22 @@
-# First Two Weeks Agenda
+# Pre-Semester Agenda
 
-The first two weeks is an extremely important time to get new students acquainted with RCOS, old students updated on any changes in structure/leadership, assigning Mentors and a handful of other tasks. This is the most important time for the Coordinators to be "on top of things".
+While difficult to plan when on break, it is vital that Coordinators and Faculty Advisors meet a handful of times before each semester starts to handle the following items (at least):
+
+- [ ] determine success and failures of previous semesters
+  - [ ] determine what changes to implement
+- [ ] set goals for next semester
+- [ ] [select](leadership/coordinators?id=selecting-new-coordinators) new Coordinator(s)
+  - [ ] select [Scribe](leadership/notes?id=role-of-scribe) from Coordinators
+- [ ] [onboard](leadership/onboarding) new Coordinator(s) and Faculty Advisor(s)
+- [ ] publish Mentor application form
+  - [ ] create it from the template in the Google Drive
+- [ ] create new general text channel for semester in Discord server
+  - [ ] remove access to previous channel
+  - [ ] delete any semester channels that are very old
+
+# Semester Agenda
+
+The first fews weeks of each semester is an extremely important time to get new students acquainted with RCOS, old students updated on any changes in structure/leadership, assigning Mentors and a handful of other tasks. This is the most important time for the Coordinators to be "on top of things".
 
 ## Before the First Meeting
 

@@ -67,7 +67,7 @@
 
   - [Coordinators](leadership/coordinators.md)
   - [Faculty Advisors](leadership/faculty.md)
-  - [First Week Agenda](leadership/agenda.md)
+  - [Semester Agenda](leadership/agenda.md)
   - [Telescope](leadership/telescope.md)
   - [Onboarding](leadership/onboarding.md)
   - [Passwords](leadership/passwords.md)
