@@ -1,6 +1,6 @@
 # Mentor Training
 
-Welcome to the Mentor team! RCOS can't function without you. This page has all the documentation you need to start mentoring and flourish as an RCOS Mentor.
+RCOS can't function without its Mentors. This page has all the documentation you need to start mentoring and flourish as an RCOS Mentor.
 
 While some information here might be common knowledge to long-time Mentors, it also has useful specifics that would benefit Mentors with all levels of experience. Be sure to read and familiarize yourself with the information here each semester you mentor!
 
@@ -16,7 +16,7 @@ While some information here might be common knowledge to long-time Mentors, it a
 
 ## When Is This Covered?
 
-We aim to have the first Mentor meeting of each semester immediately following the first RCOS meeting of the semester.
+We aim to have the first Mentor training meeting of each semester immediately following the first RCOS meeting of the semester.
 
 ## Mentor Time Commitments
 
@@ -32,7 +32,7 @@ The extra time commitment to being a Mentor is minimal. Besides being present fo
 Mentors have impact throughout the entire semester.
 
 The first two weeks agenda can be found [here](leadership/agenda). This time is always hectic for the Coordinators and Faculty Advisors as we introduce RCOS, run project pitches, project pairing, and form Small Groups.
-As a mentor, you are expected to help out with Project Pairing. <!-- TODO: expand -->
+As a mentor, you are expected to help out with Project Pairing and proposal approval. This involves pointing students to the right locations and looking over project proposals to make sure they meet the basic [requirements](grading/documentation?id=proposal).
 
 During the middle of the semester, you will be managing your Small Group both during and outside of RCOS meetings. You will be grading weekly status updates, taking meeting attendance, and providing support and/or direction to your mentees when it is needed.
 
@@ -50,6 +50,14 @@ You should make an effort to get to know every project and project member in you
 
 Check Discord's #slides channel for the day's slides before each meeting. **Please familiarize yourself with the slides prior to presenting them.** Ask any questions in the #mentors channel. At the start of Small Group meetings, one Mentor should present the slides from their device to the attendees. It is vital that you do this, as important RCOS announcements, updates, opportunities, deadlines, etc. are conveyed in the meeting slides.
 
+The suggested agenda for each Small Group meeting is:
+
+- welcome everyone
+- present meeting slides
+- quick standup
+- open hacking
+- attendance after 1hr 30min - 1hr 50min
+
 ### Standup
 
 Immediately after the day's slides are shown, we highly recommend you have every project very quickly go through a stand up, or "daily scrum" where everyone stands up and every person quickly gives 3 things:
@@ -62,11 +70,17 @@ As a Mentor, it is your job to ensure your mentees give substantive but concise 
 
 ## Grading
 
-One of a Mentor's most important and helpful responsibilites is grading their mentees' Status Updates, Mid-year Review, and Final Review. Currently, grading takes place through Submitty. At the start of the semester, you should be added as a Grader on the RCOS Submitty course. You will be assigned to only grade assignments for your Small Group mentees. The first Mentor Meeting will show what this looks like in Submitty.
+One of a Mentor's most important and helpful responsibilites is grading their mentees' Status Updates, Mid-year Review, and Final Review. Currently, grading takes place through Submitty. At the start of the semester, you will be added as a Grader on the RCOS Submitty course. You will be assigned to only grade assignments for your Small Group mentees. The first Mentor Meeting will show what this looks like in Submitty.
 
-In general, as a Mentor you must familiarize yourself with the RCOS [grading rubric](grading/rubric) so that you can answer mentees' questions. In short, in order of grading weight the rubric is: contributions, status updates/documentation, presentation, attendance.
+In general, as a Mentor you must familiarize yourself with the RCOS [grading rubric](grading/rubric) so that you can answer mentees' questions. In short, in order of grading weight the rubric is: contributions, status updates/documentation, presentation, attendance Point your mentees to this Handbook for the most up-to-date information.
 
-Point your mentees to this Handbook for the most up-to-date information.
+Mentors are asked to grade/review
+
+- Project proposals - for each project once at the start of the semester
+- Status Updates - for each mentee weekly
+- Mid-year Review - for each mentee once in the middle of the semester
+- Final Review - for each mentee once at the end of the semester
+- Final Presentations - for each mentee project once at the end of the semester
 
 ## Taking Attendance
 
