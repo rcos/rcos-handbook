@@ -105,6 +105,6 @@ The fourth meeting should be the first Small Group meeting of the semester. Proj
 At least one mentor meeting excluding mentor training must occur prior to the fourth meeting. Mentors should be instructured to ensure that mentees:
 
 1. Are on [rcos.io](https://rcos.io).
-2. Are on [Discord](https://rcos-discord.herokuapp.com/)
+2. Are on [Discord](https://rcos.io/register)
 
 Any larger goals for the year should be made clear and a schedule for mentor meetings should be set.

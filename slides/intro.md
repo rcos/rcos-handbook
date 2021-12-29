@@ -274,7 +274,7 @@ RCOS's homebrew project management system
 
 ### Discord
 
-https://rcos-discord.herokuapp.com/
+https://rcos.io/register
 
 RCOS's primary communication medium
 
