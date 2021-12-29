@@ -2,6 +2,12 @@
 
 Mentors are the life blood of RCOS, a mentor can help you with technical problems, show you where/how to find help for your project, and help you find a new project etc.
 
+### Perks of being an RCOS Mentor
+
+- Grading for Mentors is more lenient
+- Gain valuable leadership and mentoring experience
+- Be exposed to interesting technologies through the projects you mentor
+
 ### Mentor Responsibilities
 
 - Review project proposals at the start of the semester.
