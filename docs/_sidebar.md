@@ -65,12 +65,11 @@
 
 - Leadership
 
-  - [Coordinators](leadership/coordinators.md)
-  - [Faculty Advisors](leadership/faculty.md)
-  - [Semester Agenda](leadership/agenda.md)
-  - [Telescope](leadership/telescope.md)
-  - [Onboarding](leadership/onboarding.md)
-  - [Passwords](leadership/passwords.md)
+  - [Coordinators](leadership/coordinators)
+  - [Faculty Advisors](leadership/faculty)
+  - [Semester Agenda](leadership/agenda)
+  - [Onboarding](leadership/onboarding)
+  - [Infrastructure](leadership/infrastructure)
   - [Notes](leadership/notes.md)
 
 - Student Resources
