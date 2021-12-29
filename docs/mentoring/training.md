@@ -95,3 +95,20 @@ If you ever find instances of attendance fraud, let a Coordinator or Faculty Adv
 Please familiarize yourselves with our [Code of Conduct](community/CODE_OF_CONDUCT) and [Bylaws](community/bylaws). As a Mentor, you are not only expected to follow these, but to enforce them where appropriate.
 
 Any violations warranting more than a verbal/Discord warning (e.g. repeated offenses, harassment) should be reported to Coordinators/Faculty Advisors, who will then determine the appropriate action(s) necessary.
+
+<hr>
+
+# In Summary
+
+### To be a good mentor...
+
+- Help mentees to reach their own goals.
+- Talk directly to projects and mentees, understand what their project is and where you can help.
+- Grade in a timely manner.
+- Share ideas and contribute to development of RCOS as a whole
+
+### Mentors should know...
+
+- The grading rubric for Status Updates.
+- Names and channels for referring mentees to Coordinators or Faculty Advisor.
+- What resources are provided in the Handbook to direct mentees to.

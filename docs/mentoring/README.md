@@ -20,18 +20,6 @@ Mentors are the life blood of RCOS, a mentor can help you with technical problem
 - Set up whatever organization/goal structure you feel is best for helping students be successful with their open source contributions; this is what gives a Small Group personality.
 - In general, help maintain the freedom and culture of RCOS and encourage open source contribution.
 
-### To be a good mentor...
-
-- Help mentees to reach their own goals.
-- Talk directly to projects and mentees, understand what their project is and where you can help.
-- Share ideas and contribute to development of RCOS as a whole - as long as you're monitoring the #mentors Discord channel you should have opportunities to contribute.
-
-### Mentors should know...
-
-- The grading rubric for Status Updates.
-- Names and channels for referring mentees to Coordinators or Faculty Advisor.
-- What resources are provided in the Handbook to direct mentees to.
-
 ### Becoming a Mentor
 
 Before the start of each semester, a Mentor application form will be published. Mentors are ideally selected before the first meeting and are assigned to Small Groups and projects by meeting 4. Keep an eye out for this call for Mentors before each semester! If you proactively reach out, that improves your chances of being selected.
