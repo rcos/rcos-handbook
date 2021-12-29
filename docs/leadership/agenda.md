@@ -1,9 +1,16 @@
 # Pre-Semester Agenda
 
-While difficult to plan when on break, it is vital that Coordinators and Faculty Advisors meet a handful of times before each semester starts to handle the following items (at least):
+While difficult to plan when on break, it is vital that Coordinators and Faculty Advisors meet a 1-2 times before each semester starts. Refer to the checklist for the basic tasks that need to be completed before the semester commences.
+
+!> Keep this page updated with each semester! If you don't the ghosts of Coordinators past will haunt you! I mean it! _- Frank_
 
 **Pre Semester Master Checklist**
 
+- [ ] Update RCOS GitHub
+  - [ ] close old project boards at https://github.com/orgs/rcos/projects
+  - [ ] create new board for Leadership Meeting Agendas
+  - [ ] create new board for Mentor Meeting Agendas
+  - [ ] ensure [RCOS org teams](https://github.com/orgs/rcos/teams) are properly set
 - [ ] Determine success and failures of previous semesters
   - [ ] determine what changes to implement
 - [ ] Set goals for next semester
@@ -24,24 +31,17 @@ While difficult to plan when on break, it is vital that Coordinators and Faculty
 
 The first fews weeks of each semester is an extremely important time to get new students acquainted with RCOS, old students updated on any changes in structure/leadership, assigning Mentors and a handful of other tasks. This is the most important time for the Coordinators to be "on top of things".
 
-<!--In addition, at least one [mentor training session](mentoring/training) must take place prior to the first meeting.-->
-
 ## Outline
 
 All of the following details need to be worked out within the first two weeks
 
-- RCOS Concepts
-  - History Reviewed
-  - Structure, Grading and Motivations introduced
-  - Sponsors introduced
-  - Small groups introduced
-  - Semester Goals introduced
-  - Presentation rules and guidelines
-- Old Projects Pitched
-- New Projects Pitched
+- RCOS Intro & Overview
+- Project Pitches
 - Project Pairing
+- Proposal Approval
+- Small Group Formation & Mentor Assignments
 
-## First Meeting
+## First Meeting - Intro & Overview
 
 The first meeting is to be held on the first Tuesday or Friday of classes, whichever comes first.
 
