@@ -96,6 +96,10 @@ Please familiarize yourselves with our [Code of Conduct](community/CODE_OF_CONDU
 
 Any violations warranting more than a verbal/Discord warning (e.g. repeated offenses, harassment) should be reported to Coordinators/Faculty Advisors, who will then determine the appropriate action(s) necessary.
 
+## Hosting a Workshop
+
+Mentors are required to host **at least one** workshop for the RCOS community each semester. Read about workshop requirements [here](events/workshops). Coordinators will post the link to proposing workshops at the start of the semester and allow you to choose a topic and date/time.
+
 <hr>
 
 # In Summary
