@@ -1,6 +1,6 @@
 # Mentors
 
-Mentors are the life blood of RCOS, a mentor can help you with technical problems, show you where/how to find help for your project, and help you find a new project etc.
+Mentors are the life blood of RCOS; a mentor can help you with technical problems, show you where/how to find help for your project, help you find a new project, etc.
 
 ### Perks of being an RCOS Mentor
 
@@ -12,11 +12,11 @@ Mentors are the life blood of RCOS, a mentor can help you with technical problem
 
 - Review project proposals at the start of the semester.
 - Look after a Small Group of projects and their members as your mentees (usually ~2 mentors per Small Group).
-  - Grade Status Updates for their mentees
-  - Grade Mid-Year Reviews for their mentees
+  - Grade Status Updates for your mentees
+  - Grade Mid-Year Reviews for your mentees
+- Meet once a week with said Small Groups to ensure your mentees are on their schedule OR have documented reasons to be off their schedule.
 - Host at least one [workshop session](/events/hosting) for the RCOS community
 - Help point students to what they need to do/where they need to go within RCOS.
-- Ensure your mentees are on their schedule OR have documented reasons to be off their schedule.
 - Set up whatever organization/goal structure you feel is best for helping students be successful with their open source contributions; this is what gives a Small Group personality.
 - In general, help maintain the freedom and culture of RCOS and encourage open source contribution.
 
