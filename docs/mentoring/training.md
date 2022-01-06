@@ -1,3 +1,13 @@
+### tl;dr - Mentor Responsibilities
+
+- [ ] Attend and participate in Mentor meetings
+- [ ] Grade Status Updates/Mid-Year Reviews/Final Reviews quickly
+- [ ] Explicitly check-in with each Small Group project weekly
+- [ ] Host at least 1 workshop
+- [ ] Point mentees to resources or people when blocked
+
+<hr>
+
 # Mentor Training
 
 RCOS can't function without its Mentors. This page has all the documentation you need to start mentoring and flourish as an RCOS Mentor.
