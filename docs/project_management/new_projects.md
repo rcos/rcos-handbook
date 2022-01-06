@@ -66,6 +66,6 @@ You and your team members will come from a variety of different backgrounds, inc
 
 Once your repository is setup, create a new project on Observatory. Be sure to link your proposal and repository and make sure all team members join your project (your mentors do not need to join if they are not on the project). -->
 
-#### 3. Discord channel
+#### 4. Discord channel
 
 **You shouldn't have to do anything!** When projects are finalized, we automate the creation of categories for each Small Group which include a voice and text channel for your project. The text channel is only visible to you, your team, and the Coordinators/Faculty Advisors. You are given permission to pin and delete messages in your project's channel. Reach out to a Coordinator if you every have issues with your channel or need help.
