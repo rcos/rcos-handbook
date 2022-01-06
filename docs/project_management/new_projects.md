@@ -23,6 +23,8 @@ Some Project Leads pitch their project idea via word of mouth and come up with a
 
 #### 3. Project Pairing
 
+!> If you already have members committed to your project and did not pitch, you do not need to do Project Pairing.
+
 If you have pitched your project, you will need to interact with RCOS members who are interested in potentially joining your project! This takes place in an exciting process called [Project Pairing](membership/project_pairing), which occurs immediately after project pitches at the start of the semester. You will represent your project in-person to any interested members, in a sort of speed-dating format. You will get to talk to and pitch your project to many RCOS members to determine if they are interested and a good match for your project. You must give the go-ahead to members who want to join your project, they cannot join just by requesting alone.
 
 - [ ] Attend Project Pairing and represent your project
@@ -30,21 +32,35 @@ If you have pitched your project, you will need to interact with RCOS members wh
 
 ## Setup
 
-#### 1. Writing a Proposal
+#### 1. Writing a Project Proposal
 
-After you form a team, you will have to write a proposal for your project for the current semester. See the [rubric](grading/documentation?id=proposal) for more details on proposals. Make sure it meets the requirements specified, as Mentors/Coordinators will be reviewing these and giving feedback before contributing starts.
+Woo hoo! You've formed a team to work with you on your RCOS project. Before you begin contributing, it's important to set goals for the semester. After you form a team, you will have to write a Project Proposal for your project for the current semester. It's a simple document containing your project title, team members, and general milestone goals for the semester. We don't grade you based on achieving your goals, but instead encourage it to be a living document that evolves along with your project. See the [rubric](grading/documentation?id=proposal) for more details on proposals. Make sure it meets the requirements specified, as Mentors/Coordinators will be reviewing these and giving feedback before contributing starts. You'll be directed where to submit this.
+
+- [ ] Submit Project Proposal where directed to
+  - [ ] Ensure it meets the requirements
 
 #### 2. Project Repository
 
-Create a repository on GitHub (or similar) for your project. Then, create the following:
+Create a repository on GitHub (or similar platform) for your project. Ensure it is **PUBLICLY ACCESSIBLE** and not private. We're the center for Open Source after all! Then, create the following documentation files:
 
-- README
-- LICENSE
-- CODE OF CONDUCT _(optional but recommended)_
-- CONTRIBUTING _(optional but recommended)_
+- `README` - describe your project
+- `LICENSE` - choose an open source license via https://choosealicense.com/
+- `CODE OF CONDUCT` _(optional but recommended)_
+- `CONTRIBUTING` _(optional but recommended)_ - detail how to contribute to the codebase
 - Issue/pull request templates _(optional but recommended)_
 
-See our [documentation guide](grading/documentation) for specific guidelines.
+See our [documentation guide](grading/documentation) for specific guidelines. Generally, the more documentation your project has, the better experience your entire team has.
+
+- [ ] Create **public** repository
+- [ ] Give team members appropriate access
+- [ ] Add required and recommended documentation
+
+#### 3. Choose a Git Workflow
+
+You and your team members will come from a variety of different backgrounds, including differing experience with Git. It is vital that you choose a Git workflow and explicitly document it and explain it to your team members to ensure your team can work together without the chaos and confusion of merge conflicts and branching/forking/rebasing/etc. disasters. Talk with your team to learn about their experience levels and research different workflows using resources such as [this](https://about.gitlab.com/topics/version-control/what-is-git-workflow/) to determine what will work best for everyone. Document this in the `CONTRIBUTING` file in your repository.
+
+- [ ] Choose a [Git workflow](https://about.gitlab.com/topics/version-control/what-is-git-workflow/)
+- [ ] Explicitly document it in repository to serve as a reference
 
 <!-- #### 3. Add Your Project to Observatory
 
