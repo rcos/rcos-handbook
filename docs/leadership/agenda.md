@@ -1,8 +1,10 @@
+<!-- Keep this page updated with each semester! If you don't the ghosts of Coordinators past will haunt you! Starting with me... _- Frank_ -->
+
 # Pre-Semester Agenda
 
-While difficult to plan when on break, it is vital that Coordinators and Faculty Advisors meet a 1-2 times before each semester starts. Refer to the checklist for the basic tasks that need to be completed before the semester commences.
+?> Spring 2022's agenda is a little different as we are delaying Project Pairing by a meeting in order to do it in-person. In the future, there might be one less meeting before Project Pairing.
 
-!> Keep this page updated with each semester! If you don't the ghosts of Coordinators past will haunt you! I mean it! _- Frank_
+While difficult to plan when on break, it is vital that Coordinators and Faculty Advisors meet a 1-2 times before each semester starts. Refer to the checklist for the basic tasks that need to be completed before the semester commences.
 
 **Pre Semester Master Checklist**
 
@@ -47,32 +49,33 @@ The first meeting is to be held on the first Tuesday or Friday of classes, which
 
 The first meeting begins with the introduction slides, presented by the student Coordinators. The slides go through the stucture of RCOS and how to participate. A Faculty Advisor will then give a talk on the [history](/overview/history) of RCOS, and briefly explain some administrative details.
 
-After the intro talk, mentors are announced and given the chance to introduce themselves. Mentors should say a few sentences about themselves and what experience they have.
-
 The expectations of working on a project for credit are defined. The rubric is explained with emphasis on changes / improvements from the previous year based on feedback from students and mentors. Coordinators should be careful not to sound stringent or cold, while making clear that working on a project for credit does require a commitment and the students' best effort.
 
+<!-- TODO: Return to after Spring 2022
 After expectations are defined, students are reminded how to pitch their projects the following meeting. Pitch slides are collected by a Coordinator until 11:59PM the night before the second meeting.
 
 Existing projects are reminded to submit proposals. Existing projects are asked to fill out a form expressing their Small Group mentor/technology preference.
+-->
 
-After the first meeting, the Mentors should stick around for Mentor training.
+Immediately following the end of this meeting, members interested in mentoring should remain and Mentor Training should start from the [guidelines](mentoring/training).
 
 **First Meeting Master Checklist**
 
 - [ ] Create meeting slides for Day 1
   - [ ] copy from [template](https://docs.google.com/presentation/d/1aqTm8X3N4ZITOKqKQTNMmEdLUHe3V9IgORNm5kuBTPY/edit?usp=sharing)
-- [ ] Review Mentor applications
-  - [ ] accept Mentors and give the Mentors Discord role
-  - [ ] welcome Mentors in #mentors
-  - [ ] schedule first Mentor meeting/training for right after first RCOS meeting
+- [ ] Schedule Mentor Training immediately after meeting slides
 
-## Second Meeting - Project Pitches
+## Second Meeting - Install Fest and Intro to Git
 
-The second meeting is dedicated solely to project pitches. Each pitch should be no more than one minute long, although exceptions are sometimes made for 'special' projects. Returning projects should be put first in the pitch order, to set an example for new projects.
+TODO
 
-Additional information should be kept to the minimum. Students should be encouraged to get in touch with project leaders and mentors for help picking a project, but be reminded that there might be more project pitches at the next meeting.
+## Third AND Fourth Meetings - Project Pitches
 
-**Second Meeting Master Checklist**
+The next two meetings are dedicated solely to project pitches. Each pitch should be no more than one minute long, although exceptions are sometimes made for 'special' projects. Returning projects should be put first in the pitch order, to set an example for new projects.
+
+Additional information should be kept to the minimum. Students should be encouraged to get in touch with project leaders and mentors for help picking a project.
+
+**Project Pitches Master Checklist**
 
 - [ ] Collect pitches from projects **who want to pitch**
   - [ ] ensure pitches are only 1 slide and have required info
@@ -84,11 +87,7 @@ Additional information should be kept to the minimum. Students should be encoura
 - [ ] Announce pitches and pitch order on Discord
   - [ ] Ensure external project mentors understand how to pitch or have sent a recording
 
-## Third Meeting - Project Pairing & Proposal Approval
-
-!> This process is being discussed by RCOS Leadership currently and might be revised. This documentation will be updated and improved once we are done.
-
-?> If not every project gets to pitch during the second meeting, or some projects submit late, these should be quickly pitched at the very beginning of the third meeting.
+## Fifth Meeting - Project Pairing & Proposal Approval
 
 The third meeting has two main parts that occur simultaneously: [Project Pairing](membership/project_pairing) and proposal approval. The mentors should be split evenly between the two events, with each occuring in its own location. Finding a project can be very nervewracking for newcomers, so Project Pairing is intended to ensure every student finds a project.
 
@@ -96,11 +95,15 @@ The third meeting has two main parts that occur simultaneously: [Project Pairing
 
 In the second room, mentors should be present to look over student's proposals and approve them. If a proposal does not meet the guidelines, mentors should assist the project members in modifying their proposal.
 
-**Every for-credit student must be on a project with an approved proposal by the end of the fourth meeting.**
+_Every for-credit student must be on a project with an approved proposal by the end of the fourth meeting._
 
-## Fourth Meeting - First Small Group
+**Project Pairing & Proposal Approval Master Checklist**
 
-The fourth meeting should be the first Small Group meeting of the semester. Projects should be grouped into Small Groups and assigned Mentors based on preferences and project+Mentor skillset matches so that Mentors can best provide technical assistance when needed. All students should be informed of their Small Groups prior to this meeting via Discord. Instead of meeting all together in one location, everyone should report directly to their assigned Small Group rooms. A Coordinator or Faculty Advisor should remain in the main meeting room to direct any stragglers that missed the message to go to their assigned Small Group location.
+- [ ] TODO
+
+## Sixth Meeting - First Small Group
+
+This meeting should be the first Small Group meeting of the semester. Projects should be grouped into Small Groups and assigned Mentors based on preferences and project-Mentor skillset matches so that Mentors can best provide technical assistance when needed. All students should be informed of their Small Groups prior to this meeting via Discord. Instead of meeting all together in one location, everyone should report directly to their assigned Small Group rooms. A Coordinator or Faculty Advisor should remain in the main meeting room to direct any stragglers that missed the message to go to their assigned Small Group location.
 
 At least one mentor meeting excluding mentor training must occur prior to the fourth meeting. Mentors should be instructured to ensure that mentees:
 
