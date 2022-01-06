@@ -22,8 +22,9 @@ We aim to have the first Mentor training meeting of each semester immediately fo
 
 The extra time commitment to being a Mentor is minimal. Besides being present for the typical twice a week RCOS meetings for 1-2 hours, we expect Mentors to commit to:
 
-- Bi-weekly Mentor meetings
-  - 30min - 1hr typically during Small Group meetings
+- Mentor meetings
+  - typically every other week, but potentially once a week at times
+  - 30min - 1hr during the second half of Small Group meetings
 - Hosting at least one [Workshop](/events/workshops)
   - 30min - 1hr typically on Wednesdays but up to Mentor
 
@@ -58,9 +59,15 @@ The suggested agenda for each Small Group meeting is:
 - open hacking
 - attendance after 1hr 30min - 1hr 50min
 
-### Standup
+### Project Check-ins
 
-Immediately after the day's slides are shown, we highly recommend you have every project very quickly go through a stand up, or "daily scrum" where everyone stands up and every person quickly gives 3 things:
+As a Mentor, it's vital to keep up with the projects in your Small Group on a weekly basis. You should get to know what each project is about, the goals the Project Leads have in mind, and the general experience levels of project members. It is up to you on how you want to check in on projects each week, but we recommend either scrum standup's (detailed below) or personally speaking with projects directly during Small Group meetings.
+
+#### Standups
+
+?> Standups are recommended for smaller Small Groups as it might take too long when there are 15+ mentees, yet they have the benefit of giving other projects updates on their peer projects. For larger Small Groups, just speak directly to projects instead of having them hold up the whole meeting by talking aloud.
+
+During a standup, everyone physically stands up and very concisely gives one statement on each of the following:
 
 - their progress from the following week
 - their plans for the current/next week
