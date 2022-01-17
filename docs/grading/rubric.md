@@ -29,6 +29,8 @@ Keeping us informed with a weekly status update and by keeping your project docu
 
 ?> View the specific guidelines for Status Updates [here](grading/status_updates) and the specific guidelines for Documentation [here](grading/documentation).
 
+?> Note: Only 2 status updates will be dropped during each semester.
+
 | Grade | Description                                                                                                                                                                                                                                        |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **A** | Submits the required number of high caliber status updates documenting each issue they work on and several problems they solve or investigate deeply. Project has a helpful README, and has additional documentation that is of quality and value. |

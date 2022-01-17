@@ -1,10 +1,10 @@
 ### tl;dr - Mentor Responsibilities
 
-- [ ] Attend and participate in Mentor meetings
-- [ ] Grade Status Updates/Mid-Year Reviews/Final Reviews quickly
-- [ ] Explicitly check-in with each Small Group project weekly
-- [ ] Host at least 1 workshop
-- [ ] Point mentees to resources or people when blocked
+- [x] Attend and participate in Mentor meetings
+- [x] Grade Status Updates/Mid-Year Reviews/Final Reviews quickly
+- [x] Explicitly check-in with each Small Group project weekly
+- [x] Host at least 1 workshop
+- [x] Point mentees to resources or people when blocked
 
 <hr>
 
