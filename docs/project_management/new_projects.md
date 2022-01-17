@@ -10,9 +10,9 @@ You can work by yourself, but managing an open source project by yourself can be
 
 #### 1. How Many People?
 
-If you are starting a brand new project, have little experience with the technologies you are choosing, and/or have little experience with project management, we heavily recommend you **keep your team small** (no more than 6-8 team members). You might think at first that more members means more work gets done, but in reality it means you spend all of your time as a Project Lead teaching and directing your project members! Or, in a worse scenario, you don't have the time and resources to dedicate to everyone and team members fall behind on work and do poorly in RCOS as a result.
+If you are starting a brand new project, have little experience with the technologies you are choosing, and/or have little experience with project management, we heavily recommend you **keep your team small** (no more than 6-8 team members). You might think at first that more members means more work gets done, but in reality it means you spend all of your time as a Project Lead teaching and directing your project members! Or, in a worse scenario, you don't have the time and resources to dedicate to everyone and team members fall behind on work and do poorly in RCOS as a result. Note that if you find yourself with little time to write code since you are teaching and managing your team, try to turn that into contributions in the form of documentation! Reach out to your Mentor(s) for specific ideas.
 
-- [ ] Determine the maximum number of team members you can handle
+- [ ] Determine the maximum number of team members you feel like you can handle
 
 #### 2. Pitch Your Idea to RCOS Community
 
@@ -59,12 +59,10 @@ See our [documentation guide](grading/documentation) for specific guidelines. Ge
 
 You and your team members will come from a variety of different backgrounds, including differing experience with Git. It is vital that you choose a Git workflow and explicitly document it and explain it to your team members to ensure your team can work together without the chaos and confusion of merge conflicts and branching/forking/rebasing/etc. disasters. Talk with your team to learn about their experience levels and research different workflows using resources such as [this](https://about.gitlab.com/topics/version-control/what-is-git-workflow/) to determine what will work best for everyone. Document this in the `CONTRIBUTING` file in your repository.
 
+?> Here's an [example wiki page](https://github.com/Apexal/late/wiki/Development-Setup-Review) from a past project that details how the Project Lead wanted team members to contribute.
+
 - [ ] Choose a [Git workflow](https://about.gitlab.com/topics/version-control/what-is-git-workflow/)
 - [ ] Explicitly document it in repository to serve as a reference
-
-<!-- #### 3. Add Your Project to Observatory
-
-Once your repository is setup, create a new project on Observatory. Be sure to link your proposal and repository and make sure all team members join your project (your mentors do not need to join if they are not on the project). -->
 
 #### 4. Discord channel
 
