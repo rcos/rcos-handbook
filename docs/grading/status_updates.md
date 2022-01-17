@@ -14,7 +14,7 @@ Currently, a Submitty gradeable is created for a Status Update each week, and me
 
 Your Status Updates are factored into your final year grade. See the [Grading Rubric](grading/rubric) for details.
 
-?> Note: Only 2 status updates will be dropped during each semester.
+?> We drop **2 status updates** each semester, for weeks that you either forget to submit or don't have much to submit.
 
 ## Requirements
 
