@@ -26,7 +26,7 @@ Every semester, **every** project must develop and submit a proposal document de
 - Project Lead(s)
 - Project contributors
 - Project description
-- Milestones for the semester
+- Milestones for the semester on a **monthly** basis
 
 ?> Check out this [template](https://docs.google.com/document/d/1CS5jjniYmfA-n8yBO89hdcNFde4eTQiyte8diMIU-J8/edit) you can follow or this [past proposal](https://docs.google.com/document/d/1sdEsEn1cOOYGZMzunM63HC699bbJs-LZ1lYEGVoCBoo/edit?usp=sharing).
 
