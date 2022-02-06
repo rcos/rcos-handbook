@@ -29,6 +29,12 @@ These are the primary colors for RCOS. We appreciate when you use our correct co
 
 We have designed and saved a myriad of text and icon based RCOS logos for your use: [rcos/rcos-branding](https://github.com/rcos/rcos-branding)
 
+### Fonts
+
+The font for the text at the bottom of our [`lockup`](https://github.com/rcos/rcos-branding/blob/master/img/lockup-white.png) logo is Avenir Next World - Medium.
+
+The font for our slides is [Montserrat](https://fonts.google.com/specimen/Montserrat).
+
 ### Additional Resources
 
 - [Rensselaer Polytechnic Institute Brand Guidelines](https://www.rpi.edu/dept/scer/resources/BrandGuidelines_06_12_15.pdf)
