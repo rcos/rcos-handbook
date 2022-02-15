@@ -45,6 +45,16 @@ The RCOS Community Code of Conduct applies to all RCOS activity and activity aff
   - Being aware of how your actions affect others
   - Correcting any harmful behavior going forward
 
+## Conflicts of Interest
+
+As an organization with multiple layers of leadership, we strongly discourage any relationships, professional or personal, between levels of leadership, that would jeopardize, falsify or otherwise compromise the validity and integrity of any policies that we hold for RCOS. This can apply to grading and/or behavior. 
+
+If you believe that you are in such a relationship, you should notify the Coordinators so that they can smoothly and successfully transition the two parties into isolated groups during meetings and/or grading periods.
+
+If any such relationship leads to harassment, the Coordinators and Mentors are not guaranteed to be confidential ears, but we will assist in any way we can, including performing the above, and potentially contacting the Title IX office, Public Safety and the local police department. However, we ensure that you will remain anonymous to the rest of the RCOS community, if you so choose.
+
+If you are not comfortable sharing any details, do see [Reporting Incidents](https://handbook.rcos.io/#/community/CODE_OF_CONDUCT?id=reporting-incidents), in addition to RPI resources: [Title IX Office@RPI](https://sexualviolence.rpi.edu/) and [Public Safety@RPI](https://publicsafety.rpi.edu/), for more information on how to escalate the situation to authorities.
+
 ## Unacceptable Behaviors
 
 Examples of unacceptable behaviors include:
