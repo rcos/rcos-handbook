@@ -51,7 +51,7 @@ As an organization with multiple layers of leadership, we strongly discourage an
 
 If you believe that you are in such a relationship, you should notify the coordinators so that they can smoothly and successfully transition the two parties into isolated groups during meetings and/or grading periods.
 
-If any such relationship leads to harassment, the coordinators and mentors are not guaranteed to be confidential ears, but we will assist in any way we can, including performing the above, and potentially contacting the Title IX office, Public Safety and the local police department.
+If any such relationship leads to harassment, the coordinators and mentors are not guaranteed to be confidential ears, but we will assist in any way we can, including performing the above, and potentially contacting the Title IX office, Public Safety and the local police department. However, we ensure that you will remain anonymous to the rest of the RCOS community, if you so choose.
 
 If you are not comfortable sharing any details, do see [Reporting Incidents](https://handbook.rcos.io/#/community/CODE_OF_CONDUCT?id=reporting-incidents), in addition to RPI resources: [Title IX Office@RPI](https://sexualviolence.rpi.edu/) and [Public Safety@RPI](https://publicsafety.rpi.edu/), for more information on how to escalate the situation to authorities.
 
