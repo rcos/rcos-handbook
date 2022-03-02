@@ -39,10 +39,10 @@ Workshops should aim for 30 - 45 minutes in length. Any workshop that go longer 
 
 - How to Present like a BO$$ by Bill N.
   - 3/1/2022 at 5:00pm
-
 - Intro to Docker by Richard T.
   - 3/15/2022 at 5:00pm
-
+- Blockchain-Based Development Jeremy W.
+  - 3/16/2022 at 1:00pm
 - Resume Workshop by Jim B.
   - 3/16/2022 at 5:00pm
 
