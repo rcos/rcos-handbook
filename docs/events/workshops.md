@@ -34,3 +34,15 @@ Workshops should aim for 30 - 45 minutes in length. Any workshop that go longer 
 - [Summer 2021 Git Workshop by Nia](https://rcos.io/meeting/44)
   - [Slides](https://docs.google.com/presentation/d/1lK63mnxNEVRjl_EXBtbSNX4y6DZ0Q05dOU-eqO_uFcw/edit?usp=sharing)
   - [Recording](https://youtu.be/KMNVnYXO908)
+
+## Workshop Timeline Spring 2022:
+
+- How to Present like a BO$$ by Bill N.
+  - 3/1/2022 at 5:00pm
+
+- Intro to Docker by Richard T.
+  - 3/15/2022 at 5:00pm
+
+- Resume Workshop by Jim B.
+  - 3/16/2022 at 5:00pm
+
