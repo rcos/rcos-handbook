@@ -81,7 +81,7 @@ Students who go above and beyond to model and encourage positive behaviors outli
 
 On the other hand, students may be penalized, depending on the severity of the offense, for violating the Code of Conduct.
 These penalties are given at Faculty Advisor discretion and may range from a small attendance penalty to an F in the course.
-Please review the [Code of Conduct](/community/CODE_OF_CONDUCT.md) as well as our [Bylaws](/community/bylaws.md) for more detailed information.
+Please review the [Code of Conduct](/docs/community/CODE_OF_CONDUCT.md) as well as our [Bylaws](/docs/community/bylaws.md) for more detailed information.
 
 # Grading Rubric for Mentors
 
