@@ -12,7 +12,7 @@ If you have issues with any rubric item, or if you cannot figure out how to make
 
 RCOS is, at heart, about participation in the Open Source Ecosystem.
 
-?> View the specific guidelines for Open Source Contributions [here](grading/contributions). This covers what is included/excluded in the definition of contributions.
+?> View the specific guidelines for Open Source Contributions [here](contributions.md). This covers what is included/excluded in the definition of contributions.
 
 | Grade | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ RCOS is, at heart, about participation in the Open Source Ecosystem.
 Your community needs to know what you are working on and what you have accomplished, and we need to know that you are engaged throughout the semester.
 Keeping us informed with a weekly status update and by keeping your project documentation up to date will help us and will allow us to give you the grade you deserve.
 
-?> View the specific guidelines for Status Updates [here](grading/status_updates) and the specific guidelines for Documentation [here](grading/documentation).
+?> View the specific guidelines for Status Updates [here](status_updates.md) and the specific guidelines for Documentation [here](documentation.md).
 
 ?> Note: Only 2 status updates will be dropped during each semester.
 
@@ -44,7 +44,7 @@ Keeping us informed with a weekly status update and by keeping your project docu
 You need to develop the ability to represent yourself, your project and RCOS.
 Presentations like the Final Presentation are critical to this learning goal.
 
-?> View the specific guidelines for Presentations [here](grading/presentations).
+?> View the specific guidelines for Presentations [here](presentations.md).
 
 | Grade | Description                                                                                                                                                                             |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,7 +58,7 @@ Presentations like the Final Presentation are critical to this learning goal.
 
 You cannot learn, participate, or share unless you are here.
 
-?> View the specific guidelines for Attendance [here](grading/attendance).
+?> View the specific guidelines for Attendance [here](attendance.md).
 
 | Grade | Description                                                                                                                                        |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
