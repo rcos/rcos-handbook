@@ -4,7 +4,7 @@ Information regarding our brand standards
 
 - Correct pronunciation (i.e. `ARRR-KOS`, not `ARR-KAUS`)
 - Correct spelling (i.e. `RCOS` is always all-caps)
-- Correct usage of graphical assets (i.e. Red-on-White is okay, Red-on-Black is _not_)
+- Correct usage of graphical assets (Red-on-White, White-on-Black, and Red-on-Black)
 - Correct usage of organization name (i.e. `The Rensselaer Center for Open Source`, not `Open-Source` or `open-source`)
 
 ### Colors
@@ -37,4 +37,4 @@ The font for our slides is [Montserrat](https://fonts.google.com/specimen/Montse
 
 ### Additional Resources
 
-- [Rensselaer Polytechnic Institute Brand Guidelines](https://www.rpi.edu/dept/scer/resources/BrandGuidelines_06_12_15.pdf)
+- [Rensselaer Polytechnic Institute Brand Guidelines](https://rpi.app.box.com/s/4nvc7btv8z7713g9gtk6g43zc61z0z5y)
