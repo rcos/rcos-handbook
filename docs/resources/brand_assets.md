@@ -10,18 +10,18 @@ All of our brand assets and associated source files are available at [github.com
 
 ### Logo
 
-> TODO - add logo description and usage
+Use in places where the logo would be recognized or space is limited.
 
 <img src="https://raw.githubusercontent.com/rcos/rcos-branding/master/img/logo-square-red.png" width="150px">
 
 ### Wordmark
 
-> TODO - add wordmark description and usage
+Use in places where the name would be recognized and more space than a logo is allowed.
 
 <img src="https://raw.githubusercontent.com/rcos/rcos-branding/master/img/wordmark-red.png" width="400px">
 
 ### Lockup
 
-> TODO - add lockup description and usage
+Use in places where the name might not be recognized and more space than a logo and workmark is allowed. **(Preferred)**
 
 <img src="https://raw.githubusercontent.com/rcos/rcos-branding/master/img/lockup-red.png" width="400px">
