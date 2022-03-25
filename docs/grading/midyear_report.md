@@ -25,3 +25,5 @@ To do so successfully, **git** and **sed** should be installed on your computer.
 	https://github.com/wdturner/unk/commit/863e53457a04e6039c31c2f04418924010e2cf60
 	https://github.com/wdturner/unk/commit/f3ca5c93915b2238d180d34cf17c727e461399e0
 	https://github.com/wdturner/unk/commit/07eeeadb87e7a32d2b02a3f9c8bd6b434ce77c70
+
+For clarity and the sanity of RCOS leadership, please submit actual links to commits; pull requests are cool, but limit grading visibility and accessibility.  You might get points off if you include things that aren't commits.
