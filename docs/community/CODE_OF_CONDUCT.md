@@ -57,9 +57,9 @@ If you are not comfortable sharing any details, do see [Reporting Incidents](htt
 
 ## Project Endorsement Regulations
 
-Students in RCOS that are already affiliated to and contributors of a certain project may not use imperative statements to endorse joining their project. Outside of pitch season, contributing students may only answer questions concerning facts about their project and opinions about certain people in the project, but not about the project as a whole. During pitch season, they may only state their own opinions about their project. 
+Students in RCOS that are already affiliated with / are contributors of a certain project may not use imperative statements to endorse joining their project. Outside of pitch season, contributing students may only answer questions concerning facts about their project and opinions about certain people in the project, but not about the project as a whole. During pitch season, they may only state their own opinions about their project. 
 
-They are also disallowed from discouraging students from joining projects other than theirs. 
+They are also not permitted to discourage students from joining projects other than their own. 
 
 Any student found in violation of this guideline will be subject to disciplinary action at the discretion of leadership, and multiple violations may incur the rescindment to the right to use public text channels, along with project reassignment.
 
