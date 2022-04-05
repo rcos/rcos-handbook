@@ -55,6 +55,14 @@ If any such relationship leads to harassment, the Coordinators and Mentors are n
 
 If you are not comfortable sharing any details, do see [Reporting Incidents](https://handbook.rcos.io/#/community/CODE_OF_CONDUCT?id=reporting-incidents), in addition to RPI resources: [Title IX Office@RPI](https://sexualviolence.rpi.edu/) and [Public Safety@RPI](https://publicsafety.rpi.edu/), for more information on how to escalate the situation to authorities.
 
+## Project Endorsement Regulations
+
+Students in RCOS that are already affiliated to and contributors of a certain project may not use imperative statements to endorse joining their project. Outside of pitch season, contributing students may only answer questions concerning facts about their project and opinions about certain people in the project, but not about the project as a whole. During pitch season, they may only state their own opinions about their project. 
+
+They are also disallowed from discouraging students from joining projects other than theirs. 
+
+Any student found in violation of this guideline will be subject to disciplinary action at the discretion of leadership, and multiple violations may incur the rescindment to the right to use public text channels, along with project reassignment.
+
 ## Unacceptable Behaviors
 
 Examples of unacceptable behaviors include:
