@@ -11,12 +11,14 @@ See [GitHub Issue #41](https://github.com/rcos/rcos-handbook/issues/41)
 
 Faculty Advisors are the RPI faculty members that support RCOS on the administrative side. They are technically the instructors assigned to the RCOS course each semester. They are vital to the existence and success of RCOS!
 
-## Fall 2021 Faculty Advisors
+## Summer 2022 Faculty Advisors
+
 - [Professor Wes Turner](https://science.rpi.edu/computer-science/faculty/wes-turner)
-- [Professor Konstantin Kuzmin](https://faculty.rpi.edu/node/36271)
 
 ## Responsibilities
+
 Faculty Advisors manage the heavy lifting of the administration of RCOS, including:
+
 - interfacing with RPI
 - course registration issues
 - management of RCOS Submitty
