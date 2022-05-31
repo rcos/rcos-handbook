@@ -9,7 +9,7 @@ While difficult to plan when on break, it is vital that Coordinators and Faculty
 **Pre Semester Master Checklist**
 
 - [ ] Update RCOS GitHub
-  - [ ] close old project boards at https://github.com/orgs/rcos/projects
+  - [ ] close old project boards at <https://github.com/orgs/rcos/projects>
   - [ ] create new board for Leadership Meeting Agendas
   - [ ] create new board for Mentor Meeting Agendas
   - [ ] ensure [RCOS org teams](https://github.com/orgs/rcos/teams) are properly set
@@ -17,7 +17,7 @@ While difficult to plan when on break, it is vital that Coordinators and Faculty
   - [ ] determine what changes to implement
 - [ ] Set goals for next semester
 - [ ] Create new Google Drive folder for semester
-  - [ ] move old folder to PAST folder
+  - [ ] move old folder to **Semester Archive** folder
 - [ ] [Select](leadership/coordinators?id=selecting-new-coordinators) new Coordinator(s)
   - [ ] select [Scribe](leadership/notes?id=role-of-scribe) from Coordinators
 - [ ] [Onboard](leadership/onboarding) new Coordinator(s) and Faculty Advisor(s)
