@@ -14,7 +14,7 @@ If you are starting a brand new project, have little experience with the technol
 
 - [ ] Determine the maximum number of team members you feel like you can handle
 
-Project teams have a soft limit of 12 people and a hard limit of 16. Any teams having more than 12 people need explicit approval from the coordinators and/or faculty advisors. Any teams wishing for more than 16 participants MUST divide themselves into subteams that will act as independent teams such under a multilayer management system. See below:
+Project teams have a soft limit of 12 people and a hard limit of 16. Any teams having more than 12 people need explicit approval from the coordinators and/or faculty advisors. Any teams wishing for more than 16 participants MUST divide themselves into subteams that will act as independent teams under a multilayer management system. See below:
 
 ![large team multilayer diagram](https://github.com/rcos/rcos-handbook/blob/add-team-size-limit/docs/project_management/large_team_multilayer_diagram.png?raw=true)
 
