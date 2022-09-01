@@ -49,3 +49,7 @@ hasura console --admin-secret xxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 Where the admin secret is the "Hasura Admin Secret" from the [RCOS Leadership Bitwarden](../passwords). This gives you a playground to view and edit data directly or through custom GraphQL queries you write.
+
+## Updating Infrastructure
+
+Refer to the READMEs of the [rcos/rcos-data](https://github.com/rcos/rcos-data) and [rcos/telescope](https://github.com/rcos/telescope) repositories for guides to updating.
