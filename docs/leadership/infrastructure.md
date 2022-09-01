@@ -52,4 +52,6 @@ Where the admin secret is the "Hasura Admin Secret" from the [RCOS Leadership Bi
 
 ## Updating Infrastructure
 
-Refer to the READMEs of the [rcos/rcos-data](https://github.com/rcos/rcos-data) and [rcos/telescope](https://github.com/rcos/telescope) repositories for guides to updating.
+1. SSH into the DigitalOcean droplet using the instructions above.
+2. Pull the latest `rcos-data` repository updates, e.g. `cd rcos-data && git pull origin main`
+3. Restart docker containers with `docker-compose down && docker-compose up -d`
