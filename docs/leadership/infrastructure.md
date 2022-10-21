@@ -42,7 +42,7 @@ The [RCOS website](https://rcos.io) is now run using [Telescope](https://github.
 
 We run [Hasura](https://hasura.io/) on our Droplet to provide a fully-functional GraphQL API for the Postgres database. It's pretty darn cool. This GraphQL API serves as the gateway to the database. All clients such as rcos.io, automation scripts, and more can only interact with RCOS data via the Hasura API and can never directly connect to the database.
 
-To open the Hasura console, clone the [rcos-data](https://github.com/rcos/rcos-data) repository, and run inside it:
+To open the Hasura console, install the [Hasura CLI](https://hasura.io/docs/latest/hasura-cli/install-hasura-cli/) clone the [rcos-data](https://github.com/rcos/rcos-data) repository, and run inside it:
 
 ```sh
 hasura console --admin-secret xxxxxxxxxxxxxxxxxxxxxxxx
