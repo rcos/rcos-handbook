@@ -2,11 +2,11 @@
 
 Each project group is required to give a final presentation at the end of the semester. Typically the last 4 RCOS meetings are dedicated to project presentations. Presentations should be well prepared and rehearsed in the presence of a Mentor for feedback. Final Presentations factor into your RCOS grade. See the categories below for what is required and the grading weight of each category.
 
-?> We know that presentations can be stressful. RCOS presentations are meant to be fun and informational. Don't worry too much about them. Follow the guidelines below and you'll be great!
+We know that presentations can be stressful. RCOS presentations are meant to be fun and informational. Don't worry too much about them. Follow the guidelines below and you'll do well!
 
 ### Effectiveness of Presentation (30%)
 
-Ensure your presentation is well-rehearsed, concise, and not too long. Your should give your audience an organized idea of what happened (good/bad/unexpected) in the semester. You should aim for **10 minutes**.
+Ensure your presentation is well-rehearsed, concise, and not too long. Your should give your audience an organized idea of what happened (good/bad/unexpected) in the semester. You should aim for **10 minutes**. We are looking for sparkle here - have fun with it!
 
 ### Title (10%)
 
@@ -14,7 +14,7 @@ Include your full project title in your presentation!
 
 ### Teammates (10%)
 
-Ensure every team member taking RCOS for credit is involved in the presentation! This could take the form of a "what I contributed" slide for each member, but it is preferred if the presentation has a coherent narrative and project members discuss different aspects of it.
+Ensure every team member taking RCOS for credit is involved in the presentation. This could take the form of a "what I contributed" slide for each member, but it is preferred if the presentation has a coherent narrative, and project members discuss different aspects of it. Pick the biggest changes and have everyone present some part of the slideshow.
 
 ### Description (20%)
 
