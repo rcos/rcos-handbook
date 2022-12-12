@@ -4,9 +4,9 @@
 
 RCOS runs each semester of the school year, including summer semesters. You can participate either by either taking the course for credit or no credit. If you take RCOS for credit, you must meet all of the requirements described in [Grading](grading/README) in order to receive a grade. If not taking for credit, you can participate in the same way but are not held to any requirements.
 
-### 1. Register for RCOS Course
+### 1. Register for the RCOS Course
 
-When course registration opens, search for RCOS in SIS/QuACS/YACS and register for the section that has the number of credits you want to take RCOS for. The credit count is factored into grading. You will also be able to show up to the first RCOS meeting of the semester and register via SIS then, but it is best to do this as soon as possible!
+When course registration opens, search for RCOS in QuACS or YACS and register for the section that has the number of credits you want to take RCOS for. The credit count is factored into grading. You will also be able to show up to the first RCOS meeting of the semester and register via SIS then, but it is best to do this as soon as possible!
 
 ### 2. Register on Telescope
 
@@ -14,7 +14,7 @@ Log into [Telescope](https://rcos.io) with CAS to register as an RCOS member in 
 
 ### 3. Join Discord Server
 
-RCOS uses Discord for all communication. It is required that you join the RCOS Discord server for updates, announcements, and team communication throughout the semester. Once you have logged into Telescope, [connect your Discord account](https://rcos.io/link/discord) which will add you to the Discord server. Here you'll be able to reach out to Faculty Advisors, Coordinators, Mentors, and your fellow members!
+RCOS uses Discord for all communication. It is required that you join the RCOS Discord server for updates, announcements, and team communication throughout the semester. Once you have logged into Telescope, [connect your Discord account](https://rcos.io/link/discord) which will add you to the Discord server. Here, you'll be able to reach out to Faculty Advisors, Coordinators, Mentors, and your fellow members!
 
 ### 4. Attend First Meeting
 
