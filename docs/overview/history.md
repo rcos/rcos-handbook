@@ -7,7 +7,7 @@
 
 <!-- Initial donation was to the tune of $250,000.  Dr. Luk was the first director of this center (I think). On Dr. Luk’s resignation in 2007,  a call for directorship went to a few CS Faculty Advisors in March 2007.  The directorship has to be joint between Computer Science Department and Computer and Systems Engineering Department. Dr. B. Roysam was appointed from computer systems engineering department I was appointed from the computer science department. (I was the only person who volunteered ) -->
 
-<!-- > NOTE - all the content below was taking from the following [RCOS OverviewJan16,2018-old presentation](https://docs.google.com/presentation/d/1mX6wNaIBUDo1RnLvu1POPQGLMi4wp8OA44SbA5C7xHM/edit#slide=id.g827926ff0_0_0). It needs to be refined a bit more now that it's been ported to the RCOS handbook. -->
+<!-- > NOTE - almost all the content below was taking from the following [RCOS OverviewJan16,2018-old presentation](https://docs.google.com/presentation/d/1mX6wNaIBUDo1RnLvu1POPQGLMi4wp8OA44SbA5C7xHM/edit#slide=id.g827926ff0_0_0). It needs to be refined a bit more now that it's been ported to the RCOS handbook. -->
 
 ### Overview
 
@@ -19,7 +19,8 @@ Past and current leadership:
 - 2010-2013: Mukkai Krishnamoorthy, Director
 - 2013-2016: Mukkai Krishnamoorthy, David Goldschmidt, co-Directors
 - 2016-2018: Mukkai Krishnamoorthy, David Goldschmidt, Wes Turner, co-Directors/Advisor
-- 2018-present: David Goldschmidt, Wes Turner, co-Directors/Advisor
+- 2018-2022: David Goldschmidt, Wes Turner, co-Directors/Advisor
+- 2022-present: Konstantin Kuzmin, David Goldschmidt, Wes Turner, co-Directors/Advisor
 
 The program gained momentum in 2007 with launch of Open Source Software course. Funding was rejuvenated by Red Hat in 2015.
 
