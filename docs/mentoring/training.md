@@ -1,9 +1,9 @@
 ### tl;dr - Mentor Responsibilities
 
 - [x] Attend and participate in Mentor meetings
-- [x] Grade Status Updates/Mid-Year Reviews/Final Reviews quickly
+- [x] Grade Status Updates/ Mid-Year Reviews/ Final Reviews quickly
 - [x] Explicitly check-in with each Small Group project weekly
-- [x] Host at least 1 workshop
+- [x] Host at least two workshops
 - [x] Point mentees to resources or people when blocked
 
 <hr>
@@ -30,13 +30,13 @@ We aim to have the first Mentor training meeting of each semester immediately fo
 
 ## Mentor Time Commitments
 
-The extra time commitment to being a Mentor is minimal. Besides being present for the typical twice a week RCOS meetings for 1-2 hours, we expect Mentors to commit to:
+The extra time commitment to being a Mentor is minimal. Besides being present for regularly scheduled RCOS meetings for two hours, we expect Mentors to commit to:
 
 - Mentor meetings
   - typically every other week, but potentially once a week at times
   - 30min - 1hr during the second half of Small Group meetings
-- Hosting at least one [Workshop](/events/workshops)
-  - 30min - 1hr typically on Wednesdays but up to Mentor
+- Hosting at least two [Workshops](/events/workshops)
+  - 30min - 1hr typically on Wednesdays, but up to the Mentor
 
 ### Semester Overview
 
@@ -71,11 +71,11 @@ The suggested agenda for each Small Group meeting is:
 
 ### Project Check-ins
 
-As a Mentor, it's vital to keep up with the projects in your Small Group on a weekly basis. You should get to know what each project is about, the goals the Project Leads have in mind, and the general experience levels of project members. It is up to you on how you want to check in on projects each week, but we recommend either scrum standup's (detailed below) or personally speaking with projects directly during Small Group meetings.
+As a Mentor, it's vital to keep up with the projects in your Small Group on a weekly basis. You should get to know what each project is about, the goals the Project Leads have in mind, and the general experience levels of project members. It is up to you on how you want to check in on projects each week, but we recommend either standup meetings (detailed below) or personally speaking with projects directly during Small Group meetings.
 
 #### Standups
 
-?> Standups are recommended for smaller Small Groups as it might take too long when there are 15+ mentees, yet they have the benefit of giving other projects updates on their peer projects. For larger Small Groups, just speak directly to projects instead of having them hold up the whole meeting by talking aloud.
+?> Standups are recommended for smaller Small Groups, as it might take too long when there are 15+ mentees, yet they have the benefit of giving other projects updates on their peer projects. For larger Small Groups, just speak directly to projects instead of having them hold up the whole meeting by talking aloud.
 
 During a standup, everyone physically stands up and very concisely gives one statement on each of the following:
 
@@ -115,7 +115,7 @@ Any violations warranting more than a verbal/Discord warning (e.g. repeated offe
 
 ## Hosting a Workshop
 
-Mentors are required to host **at least one** workshop for the RCOS community each semester. Read about workshop requirements [here](events/workshops). Coordinators will post the link to proposing workshops at the start of the semester and allow you to choose a topic and date/time.
+Mentors are required to host **at least two** workshops for the RCOS community each semester. Read about workshop requirements [here](events/workshops). Coordinators will post the link to proposing workshops at the start of the semester and allow you to choose a topic and date/time.
 
 <hr>
 
