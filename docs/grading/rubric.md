@@ -16,8 +16,12 @@ RCOS is, at heart, about participation in the Open Source Ecosystem.
 
 | Grade | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **A** | Makes numerous significant contributions. Student is active on GitHub and Discord and makes excellent use of issue tracking and project management systems. Student communicates failures and development barriers to their team and mentors and documents them for the future, and makes their best effort to overcome challenges. Open contributions are licensed correctly with an OSI approved license, are easy to find and can be easily obtained and used. Gives a Final Status Update that is a concise but complete summary of links to the year's contributions. |
-| **B** | Makes multiple meaningful contributions to the project, but may be slightly lacking in communication and/or planning requirements, or may not make good use of issue tracking / project management systems. Open contributions are licensed correctly and can be easily obtained and used, but may not be easy to find. May not provide a final summary of links to contributions.                                                                                                                                                                                         |
+| **A** | Makes numerous significant contributions. Student is active on GitHub and Discord and makes excellent use of issue tracking and project management systems. Student communicates failures and development barriers to their team and mentors and documents them for the future, and makes their best effort to overcome challenges. Open contributions are licensed correctly with an OSI approved license, are easy to find and can be easily obtained and used. Gives a Final Status Update that is a concise but complete summary of links to the year's contributions. 
+
+Nominal A-grade contributions include two meaningful, sizeable code commits every week, beginning at week 6.  Students in the A-range are also expected to submit their Status Updates on time, with all fields fully filled out, and communicate with their project leads and mentors about resolving blockers on their own.|
+| **B** | Makes multiple meaningful contributions to the project, but may be slightly lacking in communication and/or planning requirements, or may not make good use of issue tracking / project management systems. Open contributions are licensed correctly and can be easily obtained and used, but may not be easy to find.   
+
+Nominal B-grade contributions include at least one meaningful, sizeable code commit every week, beginning at week 6.  Students in the B-range are also expected to submit their Status Updates with all fields fully filled out, and communicate with their project leads and mentors about resolving blockers on their own.|
 | **C** | Makes too few contributions and does not ask for help when needed. Student makes little to no use of issue tracking and project management systems, and does not communicate well with team members or mentors. Open contributions may not be licensed correctly, may not be easily obtained and used, or may not be easy to find. May not provide a final summary of links to contributions.                                                                                                                                                                              |
 | **D** | Makes almost no meaningful contributions and makes little effort to communicate with team members and mentors, or contributions are not licensed correctly. May not provide a final summary of links to contributions.                                                                                                                                                                                                                                                                                                                                                     |
 | **F** | Makes no visible effort to contribute to their project or communicate with their team and mentors. May not provide a final summary of links to contributions.                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -29,7 +33,7 @@ Keeping us informed with a weekly status update and by keeping your project docu
 
 ?> View the specific guidelines for Status Updates [here](grading/status_updates) and the specific guidelines for Documentation [here](grading/documentation).
 
-?> Note: Only 2 status updates will be dropped during each semester.
+?> Note: Two status updates will be dropped during each semester to account for unexpected circumstances.
 
 | Grade | Description                                                                                                                                                                                                                                        |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -62,11 +66,12 @@ You cannot learn, participate, or share unless you are here.
 
 | Grade | Description                                                                                                                                        |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **A** | Makes all required meetings and makes up all unexcused absences. Attends or gives at least one bonus session.                                      |
-| **B** | Misses no more than four meetings and makes up most unexcused absences. Attends one bonus session beyond those used to make up missed attendances. |
-| **C** | Repeatedly misses meetings or does not make up unexcused absences. Does not attend an additional bonus session.                                    |
+| **A** | Makes all required meetings and makes up all unexcused absences. Attends or gives at least two bonus sessions.                                      |
+| **B** | Misses no more than four meetings and makes up most unexcused absences. Attends two bonus sessions beyond those used to make up missed attendances. |
+| **C** | Repeatedly misses meetings or does not make up unexcused absences.
+|
 | **D** | Misses many meetings and does not attempt to make up unexcused absences.                                                                           |
-| **F** | Makes no effort to regularly attend meetings.                                                                                                      |
+| **F** | Makes no effort to regularly attend meetings, or violates academic integrity by faking attendance to RCOS meetings.                                                                                                      |
 
 ## Citizenship
 
@@ -90,8 +95,8 @@ expected to run a Small Group, be familiar with all the projects in your
 group, fill out evaluations, provide guidance and technical support to
 projects in your group, and to regularly attend mentor meetings. Additionally, you
 are expected to help us plan and execute external events such as code jams,
-bonus sessions, and our weekly coding open houses. Because of this added
+bonus sessions, and coding open houses. Because of this added
 responsiblity, you are given more leeway on the open source contributions as
 well as other rubric items above.
 
-At a minimum a mentor is **required** to host at least one workshop.
+At a minimum, a mentor is **required** to host at least two workshops and grade a reasonable portion of student status updates every week.
