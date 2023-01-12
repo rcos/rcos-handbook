@@ -21,9 +21,9 @@ Submission of a status update that is not a student’s own work will result in 
 
 ## Attendance
 
-Attendance is given during all RCOS Small Group, Large Group, and bonus sessions.
+Attendance is given during all RCOS Small Group, Large Group, and bonus sessions past RPI's deadline for adding courses.
 
-As much as we value sharing and openness, we also value integrity. Thus, we ask that you do not distribute attendance codes to people who are not currently attending the session or attempt to attend a session where you are not present.
+As much as we value sharing and openness, we also value integrity. Thus, **we ask that you do not distribute attendance codes to people who are not attending the session**.
 
 All students who dishonestly log attendance will receive an unexcused absence which cannot be made up with a bonus session. Repeated infractions will result in a referral to the Dean of Students.
 
