@@ -77,3 +77,5 @@ Additional documentation is strongly encouraged! There is no specific format you
 - Wiki
 - Static website
 - Style guide
+- Tutorial
+- UML diagrams
