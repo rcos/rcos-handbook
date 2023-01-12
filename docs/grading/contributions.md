@@ -22,17 +22,18 @@ Coordinator or a Faculty Advisor for help and suggestions. Failure to do so will
 - user studies
 - guides
 - tutorials
+- UML diagrams
+- Graphics and their standards
 
 ### What does NOT constitute contributions?
 - links to read/watched tutorials
-<!-- TODO?: - opening issues -->
-
+- links to your repository
 
 <!-- TODO: add links to get commits for user in repo -->
 
 ## External Contributions
 
-Contribute to something outside of RCOS or help out another group with an issue! External contributions are encouraged as it allows RCOS to give back to the larger open source community. The project you're contributing to should be used by a significant number of people outside of RPI.
+Contribute to something outside of RCOS or help out another group with an issue! External contributions are encouraged, as it allows RCOS to give back to the larger open source community. The project you're contributing to should be used by a significant number of people outside of RPI.
 
 Within RCOS, we also want to generate a community of helping other projects and making your project more friendly to outside contributors. If you're doing your external contributions to another RCOS project, it must be a project that you have not previouly worked on and you must communicate with the project through GitHub issues, PRs, and code reviews.
 
