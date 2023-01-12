@@ -64,10 +64,9 @@ You cannot learn, participate, or share unless you are here.
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **A** | Makes all required meetings and makes up all unexcused absences. Attends or gives at least two bonus sessions.                                      |
 | **B** | Misses no more than four meetings and makes up most unexcused absences. Attends two bonus sessions beyond those used to make up missed attendances. |
-| **C** | Repeatedly misses meetings or does not make up unexcused absences.
-|
-| **D** | Misses many meetings and does not attempt to make up unexcused absences.                                                               |
-| **F** | Makes no effort to regularly attend meetings, or violates academic integrity by faking attendance to RCOS meetings.                     |
+| **C** | Repeatedly misses meetings or does not make up unexcused absences.  |
+| **D** | Misses many meetings and does not attempt to make up unexcused absences.  |
+| **F** | Makes no effort to regularly attend meetings, or violates academic integrity by faking attendance to RCOS meetings.  |
 
 ## Citizenship
 
