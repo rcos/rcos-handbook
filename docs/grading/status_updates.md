@@ -8,7 +8,7 @@ Status Updates are weekly updates submitted by members detailing what they have 
 
 **How are Status Updates tracked?**
 
-Currently, a Submitty gradeable is created for a Status Update each week, and members are expected to upload a **text** file in either plaintext, markdown, or similar format. PDFs are also accepted. Word documents are **not allowed** as Submitty cannot display them. Students are automatically enrolled into the RCOS Submitty course at the start of the semester.
+Currently, a Submitty gradeable is created for a Status Update each week. The gradable appears as a Submitty "notebook", with fields that students are required to fill out. Students are automatically enrolled into the RCOS Submitty course at the start of the semester.
 
 **How are Status Updates graded?**
 
@@ -24,18 +24,16 @@ We ask that each Status Update comprise the following parts. **Each part must be
 State your name and project.
 
 #### 1: This Week
-Summarize what you have contributed in the past week. This includes code, documentation, learning, etc. Remember that someone reading might not be familiar with your project, so give context. If you're unsure how much detail to give, lean on the more detailed side.
+Summarize what you have contributed in the past week. This includes code, documentation, learning, etc. Remember that someone reading might not be familiar with your project, so **give context**. If you're unsure how much detail to give, lean on the more detailed side.
 
 #### 2: Next Week
-Summarize what you plan on doing next week. We aren't holding you to this, but we want you to at least think about it each week.
+Summarize what you plan on doing next week. We want you to at least think about where your project is going, and what that might require of you.
 
 #### 3: Blockers
-List any *technical* blockers you have hit when trying to work on your project. This **does not** include things outside of RCOS that prevented you from getting work done, i.e. "I had a test this week so I couldn't do work"
-
+List any *technical* blockers you have hit when trying to work on your project. This **does not** include things outside of RCOS that prevented you from getting work done, i.e. "I had a test this week so I couldn't do work." Students with blockers are encouraged to reach out to their project leads or small group mentors so they can continue development.
 
 #### 4: Links
-List direct links to your contributions and any resources you were using for learning. Mentors need to be able to see proof of your work by following these links. Links to your commits, issues, etc. are desirable.
-
+List direct links to your contributions. Mentors need to be able to see proof of your work by following these links. Links to your commits, issues, etc. are desirable.
 
 ## Example Status Update
 <div style="border: 1px solid; padding: 1em;">
