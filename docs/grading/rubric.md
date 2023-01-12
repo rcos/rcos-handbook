@@ -50,9 +50,9 @@ Presentations like the Final Presentation are critical to this learning goal.
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **A** | Participates in a well structured and interesting presentation and demonstrates a knowledge of what they worked on; is well prepared and clearly rehearsed. Represents RCOS externally. |
 | **B** | Makes a reasonable effort to participate in presentation and is at least somewhat prepared.                                                                                             |
-| **C** | Is unprepared for presentation or does not participate heavily.                                                                                                                         |
-| **D** | Makes little effort to participate in presentation or gives a poor presentation.                                                                                                        |
-| **F** | Makes no effort to participate in presentation or does not attend.                                                                                                                      |
+| **C** | Is unprepared for presentation or does not participate heavily.                                                                         |
+| **D** | Makes little effort to participate in presentation or gives a poor presentation.                                                       |
+| **F** | Makes no effort to participate in presentation or does not attend.                                                                     |
 
 ## 10% - Attendance
 
@@ -66,8 +66,8 @@ You cannot learn, participate, or share unless you are here.
 | **B** | Misses no more than four meetings and makes up most unexcused absences. Attends two bonus sessions beyond those used to make up missed attendances. |
 | **C** | Repeatedly misses meetings or does not make up unexcused absences.
 |
-| **D** | Misses many meetings and does not attempt to make up unexcused absences.                                                                           |
-| **F** | Makes no effort to regularly attend meetings, or violates academic integrity by faking attendance to RCOS meetings.                                                                                                      |
+| **D** | Misses many meetings and does not attempt to make up unexcused absences.                                                               |
+| **F** | Makes no effort to regularly attend meetings, or violates academic integrity by faking attendance to RCOS meetings.                     |
 
 ## Citizenship
 
