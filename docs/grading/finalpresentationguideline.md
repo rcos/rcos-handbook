@@ -1,8 +1,8 @@
 # Presentation
 
-We will have presentations on your projects during meeting times from 4/12-4/26. Every meeting has 2 rooms. You are expected to present with your room. You only need to come to DCC 318 on your presentation day, but you are welcome to come to any of them that interest you. If you can't make arrangements ASAP for an alternate date:
+We will have presentations on your projects during meeting times from 4/12-4/26. Every meeting has 2 rooms. You are expected to present with your room. You only need to come to DCC 318 on your presentation day, but you are welcome to come to any of them that interest you. If you can't make arrangements ASAP for an alternate date<!--:
 
-[https://rcos.io](https://rcos.io)
+[https://rcos.io](https://rcos.io)-->
 
 We will plan on a nominal 10 minutes per project, but we will adjust based on the number of members of the team and the number of groups in the rooms. Please prepare 5 or 6 slides covering:
 
@@ -10,8 +10,8 @@ We will plan on a nominal 10 minutes per project, but we will adjust based on th
 * Team members
 * Your description and goals for the semester
     * Make sure you differentiate work done for this course from any work done for another course or for independent study
-* Project organization (see the PROJECT)
-* Contributions (see the PROJECT)
+* Project organization 
+* Contributions 
 * Progress / issues
 * Demo
 * Additionally you are encouraged to create additional slides with direct pointers to your work! **For commits make sure you have everything pushed!** Give us direct links and include branch names when necessary.
