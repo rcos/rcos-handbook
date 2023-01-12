@@ -1,6 +1,6 @@
 # Mid-Year Review
 
-Mid-year Reviews occur once a semester; they should really be called Mid-Semester Reviewss.  In any case, they happen in the middle of when students are to be committing code; this should be a good showcase of what they've been up to throughout the semester, and a good indication of their resulting success in RCOS.
+Mid-year Reviews occur once a semester; they should really be called Mid-Semester Reviews.  In any case, they happen in the middle of when students are to be committing code; this should be a good showcase of what they've been up to throughout the semester, and a good indication of their resulting success in RCOS.
 
 Typically, a Mid-Year Review consists simply of a list of commits.  You can copy and paste them from all of your previous status updates, or generate the list automatically by running the following command:
 
