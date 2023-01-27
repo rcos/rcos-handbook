@@ -35,7 +35,7 @@ Each RCOS semester is standalone. The first few weeks are used for setting up me
 
 - End of Year Review
 
-  - ~~Pizza and drinks!~~ ;(
+  - Pizza??
 
 - Final Grading
   - Grade appeals
