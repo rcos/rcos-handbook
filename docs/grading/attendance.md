@@ -8,11 +8,11 @@ Attendance at RCOS is required for:
 
 - all Small Group meetings
 - all mandatory Large Group meetings
-- at least 1 workshop bonus session
+- at least 2 Workshops
 
 You may miss up to two meetings (small or Large Group combined) without an excuse and can make up at most two meetings by attending more than the required number of bonus, work, or workshop sessions.
 
-!> For example, imagine you have not yet attended a bonus session (1 is required) and you miss a Small Group meeting. In order to make up for that missed attendance, you must first attend a bonus session to meet your requirement, and then another bonus session to make up for the unexcused absence. You can make up for at most 2 unexcused absences in this way.
+!> For example, imagine you have not yet attended a bonus session (2 are required) and you miss a Small Group meeting. In order to make up for that missed attendance, you must first attend two bonus sessions to meet your requirement, and then another bonus session to make up for the unexcused absence. You can make up for at most 2 unexcused absences in this way.
 
 Unexcused absences beyond those allowed will impact your grade.
 We understand that there are occasional conflicts that require you to be absent from an RCOS meeting without a formal excuse.
@@ -51,13 +51,13 @@ Excused absences do **not** need to be made up with a bonus session (but you are
 
 ### Requesting Excused Absences
 
-Currently, in order to request an excused absence, you must contact a Coordinator or Faculty Advisor.
+Currently, in order to request an excused absence, you must contact a Faculty Advisor.
 
 For foreseen absences (e.g. hackathons, conferences, job/grad school interviews, etc), this must be done at least 48 hours in advance of the first session you will miss.
 
 For unforeseen absences (e.g. illness, family emergency), this must be done within 1 week of returning to RCOS.
 
-For extenuating circumstances, please speak to a Coordinator or Faculty Advisor directly.
+For extenuating circumstances, please speak to a Faculty Advisor directly.
 
 In the future, functionality will be implemented to request excused absences!
 
