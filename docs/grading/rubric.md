@@ -62,9 +62,9 @@ You cannot learn, participate, or share unless you are here.
 
 | Grade | Description                                                                                                                                        |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **A** | Makes all required meetings and makes up all unexcused absences. Attends or gives at least one bonus session.                                      |
-| **B** | Misses no more than four meetings and makes up most unexcused absences. Attends one bonus session beyond those used to make up missed attendances. |
-| **C** | Repeatedly misses meetings or does not make up unexcused absences. Does not attend an additional bonus session.                                    |
+| **A** | Makes all required meetings and makes up all unexcused absences. Attends or gives at least two bonus sessions.                                      |
+| **B** | Misses no more than four meetings and makes up most unexcused absences. Attends two bonus sessions beyond those used to make up missed attendances. |
+| **C** | Repeatedly misses meetings or does not make up unexcused absences. Does not attend additional bonus sessions.                                    |
 | **D** | Misses many meetings and does not attempt to make up unexcused absences.                                                                           |
 | **F** | Makes no effort to regularly attend meetings.                                                                                                      |
 
