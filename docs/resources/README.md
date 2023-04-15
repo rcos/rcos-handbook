@@ -32,7 +32,7 @@ Whether you're completely new to the world of open source or you feel ready to t
   - [MongoDB](#mongodb)
   - [Cassandra](#cassandra)
   - [Supabase](#supabase)
-- [Frameworks and Platforms](#frameworks-and-platforms)
+- [Frameworks](#frameworks)
   - [JavaScript Frameworks](#javascript-frameworks)
     - [React](#react)
     - [Angular](#angular)
@@ -59,6 +59,14 @@ Whether you're completely new to the world of open source or you feel ready to t
     - [Ionic](#ionic)
     - [Qt](#qt)
     - [Electron](#electron)
+- [Cloud Platforms](#cloud-platforms)
+  - [Amazon Web Services](#amazon-web-services)
+  - [Google Cloud Platform](#google-cloud-platform)
+  - [Firebase](#firebase)
+  - [Microsoft Azure](#microsoft-azure)
+  - [IBM Cloud](#ibm-cloud)
+  - [Oracle Cloud Infastructure](#oracle-cloud-infastructure)
+  - [Digital Ocean](#digital-ocean)
 - [IDEs and Code Editors](#ides-and-code-editors)
   - [Visual Studio](#visual-studio)
   - [Eclipse](#eclipse)
@@ -83,8 +91,7 @@ Whether you're completely new to the world of open source or you feel ready to t
   - [Women in Technology](#women-in-technology)
   - [LGBTQ+ in Technology](#lgbtq-in-technology)
 - [Miscellaneous](#miscellaneous)
-  - [Amazon Web Services](#amazon-web-services)
-  - [Firebase](#firebase)
+  - [Markdown](#markdown)
   - [LaTeX](#latex)
   - [Docker](#docker)
   - [Kubernetes](#kubernetes)
@@ -291,7 +298,7 @@ A brief list of database management systems.
 
 [Learn Supabase](https://supabase.com/docs/guides/getting-started) - Learn Supabase from the source.
 
-## Frameworks and Platforms
+## Frameworks
 
 We have too many JavaScript frameworks.
 
@@ -439,6 +446,52 @@ Heads up! You will need to learn Dart to use Flutter.
 
 There are plenty more frameworks out there. Do a little digging and you can find the perfect one for your project!
 
+## Cloud Platforms
+
+Keep in mind most if not all of these platforms require some form of payment for full access to all features.
+
+### Amazon Web Services
+
+[Amazon Web Services](https://aws.amazon.com/) - A cloud computing platform that provides a wide range of services and tools for businesses and individuals to build and manage scalable, reliable, and secure applications and infrastructure in the cloud.
+
+[Learn AWS](https://aws.amazon.com/training/) - Learn AWS from the source.
+
+### Google Cloud Platform
+
+[Google Cloud Platform](https://cloud.google.com/) - A cloud platform that provides a broad set of infrastructure and platform services, including computing, storage, networking, data analytics, and machine learning, built on Google's robust and reliable infrastructure.
+
+[Learn GCP](https://cloud.google.com/learn/training) - Learn Google Cloud from the source.
+
+### Firebase
+
+[Firebase](https://firebase.google.com/) - A mobile and web application development platform that provides developers with a suite of tools and services to build, test, and deploy apps quickly and easily, including real-time databases, user authentication, hosting, and more.
+
+[Learn Firebase](https://firebase.google.com/community/learn) - Learn Firebase from the source.
+
+### Microsoft Azure
+
+[Microsoft Azure](https://azure.microsoft.com/en-us) - A cloud platform with a wide range of services, including compute, storage, networking, analytics, and artificial intelligence, that integrates seamlessly with Microsoft products and services.
+
+[Learn Microsoft Azure](https://learn.microsoft.com/en-us/training/azure/) - Learn Azure from the source.
+
+### IBM Cloud
+
+[IBM Cloud](https://www.ibm.com/cloud) - A cloud platform that offers a range of infrastructure and platform services, including compute, storage, networking, analytics, and artificial intelligence, with a strong focus on security, compliance, and enterprise-level customers.
+
+[Learn IBM Cloud](https://www.ibm.com/training/cloud) - Learn IBM cloud from the source.
+
+### Oracle Cloud Infastructure
+
+[Oracle Cloud](https://www.oracle.com/cloud/) - A cloud platform that provides a broad range of infrastructure and platform services, including compute, storage, networking, database, analytics, and artificial intelligence, with a focus on security, performance, and compliance for enterprise-level customers.
+
+[Learn OCI](https://education.oracle.com/learn/oracle-cloud-infrastructure/pPillar_640) - Learn OCI from the source
+
+### Digital Ocean
+
+[Digital Ocean](https://www.digitalocean.com/) - A cloud platform that provides simple and affordable cloud computing for developers and small businesses, with a focus on easy-to-use infrastructure services and a strong community of users and contributors.
+
+[Learn Digital Ocean](https://www.digitalocean.com/community/tutorials) - Learn Digital Ocean from the source.
+
 ## IDEs and Code Editors
 
 Help, I can't exit Vim!
@@ -565,17 +618,15 @@ STEM for all!
 
 Useful technologies that didn't fit in any other category.
 
-### Amazon Web Services
+### Markdown
 
-[Amazon Web Services](https://aws.amazon.com/) - A cloud computing platform that provides a wide range of services and tools for businesses and individuals to build and manage scalable, reliable, and secure applications and infrastructure in the cloud.
+[Markdown](https://www.markdownguide.org/) - A lightweight markup language that uses plain text formatting syntax to create formatted documents that can be easily converted to HTML or other formats.
 
-[Learn AWS](https://aws.amazon.com/training/) - Learn AWS from the source.
+[StackEdit](https://stackedit.io/) - Open Source Online Markdown Editor
 
-### Firebase
+[Learn Markdown](https://www.markdownguide.org/basic-syntax/) - Learn Markdown via Markdown Guide
 
-[Firebase](https://firebase.google.com/) - A mobile and web application development platform that provides developers with a suite of tools and services to build, test, and deploy apps quickly and easily, including real-time databases, user authentication, hosting, and more.
-
-[Learn Firebase](https://firebase.google.com/community/learn) - Learn Firebase from the source.
+Fun fact most of this handbook is written using Markdown!
 
 ### LaTeX
 
