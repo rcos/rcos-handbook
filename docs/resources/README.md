@@ -15,13 +15,13 @@ Whether you're completely new to the world of open source or you feel ready to t
   - [Python](#python)
   - [JavaScript](#javascript)
   - [Java](#java)
-  - [C](#c)
+  - [C++](#c)
   - [C](#c-1)
   - [PHP](#php)
   - [Ruby](#ruby)
   - [Swift](#swift)
   - [TypeScript](#typescript)
-  - [C](#c-2)
+  - [C#](#c-2)
   - [Go](#go)
   - [Scala](#scala)
   - [Kotlin](#kotlin)
@@ -167,7 +167,7 @@ So... Many... Languages...
 
 [Learn Java](https://www.learnjavaonline.org/) - Learn Java via Interactive Tutorials.
 
-### C
+### C++
 
 [C++](https://cplusplus.com/) - A powerful, high-performance, object-oriented language used for developing system software, gaming, and other high-performance applications.
 
@@ -215,7 +215,7 @@ So... Many... Languages...
 
 [Learn Typscript](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/) - Learn Typescript via freeCodeCamp.
 
-### C
+### C\#
 
 [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) - A modern, general-purpose, object-oriented language developed by Microsoft for developing Windows desktop applications, games, and web applications.
 
