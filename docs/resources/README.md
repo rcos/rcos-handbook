@@ -622,9 +622,9 @@ Useful technologies that didn't fit in any other category.
 
 [Markdown](https://www.markdownguide.org/) - A lightweight markup language that uses plain text formatting syntax to create formatted documents that can be easily converted to HTML or other formats.
 
-[StackEdit](https://stackedit.io/) - Open Source Online Markdown Editor
+[StackEdit](https://stackedit.io/) - Open Source Online Markdown Editor.
 
-[Learn Markdown](https://www.markdownguide.org/basic-syntax/) - Learn Markdown via Markdown Guide
+[Learn Markdown](https://www.markdownguide.org/basic-syntax/) - Learn Markdown via Markdown Guide.
 
 Fun fact most of this handbook is written using Markdown!
 
