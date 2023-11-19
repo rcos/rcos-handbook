@@ -9,7 +9,7 @@
 
 <!-- > NOTE - almost all the content below was taking from the following [RCOS OverviewJan16,2018-old presentation](https://docs.google.com/presentation/d/1mX6wNaIBUDo1RnLvu1POPQGLMi4wp8OA44SbA5C7xHM/edit#slide=id.g827926ff0_0_0). It needs to be refined a bit more now that it's been ported to the RCOS handbook. -->
 
-### Overview
+## Overview
 
 RCOS was founded in 2006 by a generous $2M donation from [Sean O'Sullivan](https://sosf.us/rensselaer/).
 Past and current leadership:
@@ -52,7 +52,7 @@ The program gained momentum in 2007 with launch of Open Source Software course. 
 
 <!-- We Became an Affiliate Member of OSI -->
 
-### RedHat Funding (2014-2015)
+## RedHat Funding (2014-2015)
 
 Thrust: To improve the overall quality of RCOS projects and to increase diversity
 
@@ -61,7 +61,7 @@ Thrust: To improve the overall quality of RCOS projects and to increase diversit
 - Funds the development of two (one CS and one HASS) freshmen/sophomore-level courses on Open Source
 - Funds Undergraduate Mentors for two new courses
 
-### RedHat Funding (contd)
+## RedHat Funding (contd)
 
 - Diversity Hackathon - April 16-17, 2016
 - Primarily Hackathon for women students in Capital District universities, colleges and high schools
