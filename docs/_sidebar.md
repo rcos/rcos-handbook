@@ -1,6 +1,7 @@
 - Overview
 
   - [Welcome to RCOS](README.md)
+  - [One Page Unofficial Syllabus](overview/one_page.md)
   - [FAQ](overview/faq.md)
   - [History](overview/history.md)
   - [Code Of Conduct](overview/code_of_conduct.md)
