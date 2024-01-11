@@ -17,10 +17,10 @@ RCOS is, at heart, about participation in the Open Source Ecosystem.
 | Grade | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **A** | Makes numerous significant contributions. Student is active on GitHub and Discord and makes excellent use of issue tracking and project management systems. Student communicates failures and development barriers to their team and mentors and documents them for the future, and makes their best effort to overcome challenges. Open contributions are licensed correctly with an OSI approved license, are easy to find and can be easily obtained and used. Gives a Final Status Update that is a concise but complete summary of links to the year's contributions. |
-| **B** | Makes multiple meaningful contributions to the project, but may be slightly lacking in communication and/or planning requirements, or may not make good use of issue tracking / project management systems. Open contributions are licensed correctly and can be easily obtained and used, but may not be easy to find. May not provide a final summary of links to contributions.                                                                                                                                                                                         |
-| **C** | Makes too few contributions and does not ask for help when needed. Student makes little to no use of issue tracking and project management systems, and does not communicate well with team members or mentors. Open contributions may not be licensed correctly, may not be easily obtained and used, or may not be easy to find. May not provide a final summary of links to contributions.                                                                                                                                                                              |
-| **D** | Makes almost no meaningful contributions and makes little effort to communicate with team members and mentors, or contributions are not licensed correctly. May not provide a final summary of links to contributions.                                                                                                                                                                                                                                                                                                                                                     |
-| **F** | Makes no visible effort to contribute to their project or communicate with their team and mentors. May not provide a final summary of links to contributions.                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **B** | Makes multiple meaningful contributions to the project, but may be slightly lacking in communication and/or planning requirements, or may not make good use of issue tracking / project management systems. Open contributions are licensed correctly and can be easily obtained and used, but may not be easy to find. May not provide a final summary of links to contributions.           |
+| **C** | Makes too few contributions and does not ask for help when needed. Student makes little to no use of issue tracking and project management systems, and does not communicate well with team members or mentors. Open contributions may not be licensed correctly, may not be easily obtained and used, or may not be easy to find. May not provide a final summary of links to contributions.     |
+| **D** | Makes almost no meaningful contributions and makes little effort to communicate with team members and mentors, or contributions are not licensed correctly. May not provide a final summary of links to contributions.     |
+| **F** | Makes no visible effort to contribute to their project or communicate with their team and mentors. May not provide a final summary of links to contributions.                                       |
 
 ## 25% - Status Updates and Project Documentation
 
@@ -90,93 +90,66 @@ Please review the [Code of Conduct](community/CODE_OF_CONDUCT.md) as well as our
 Mentors have a unique responsibility within RCOS. As a mentor you are
 expected to run a Small Group, be familiar with all the projects in your
 group, fill out evaluations, provide guidance and technical support to
-projects in your group, and to regularly attend mentor meetings. Additionally, you
-are expected to help us plan and execute external events such as code jams,
-bonus sessions, and our weekly coding open houses. Because of this added
-responsiblity, you are given more leeway on the open source contributions as
-well as other rubric items above.
+projects in your group, and to regularly attend mentor meetings. Because of this added responsiblity, you are given more leeway on the number of open source contributions as well as other rubric items below.
 
 At a minimum a mentor is **required** to host at least one workshop.
 
-## 35% - Open Source Contributions
+## 50% - Open Source Contributions & RCOS Community Service
 
-RCOS is, at heart, about participation in the Open Source Ecosystem.
+RCOS is, at heart, about participation in the Open Source Ecosystem. *Mentorship includes contributing to the RCOS community.*
 
 ?> View the specific guidelines for Open Source Contributions [here](grading/contributions). This covers what is included/excluded in the definition of contributions.
 
 | Grade | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **A** | Makes multiple meaningful contributions to the project, but may be slightly lacking in communication and/or planning requirements, or may not make good use of issue tracking / project management systems. Open contributions are licensed correctly and can be easily obtained and used, but may not be easy to find. May not provide a final summary of links to contributions.                                                                                                                                                                                         |
-| **B** | Makes few contributions and does not ask for help when needed. Student makes little to no use of issue tracking and project management systems, and does not communicate well with team members or mentors. Open contributions may not be licensed correctly, may not be easily obtained and used, or may not be easy to find. May not provide a final summary of links to contributions.                                                                                                                                                                              |
-| **D** | Makes little visible effort to contribute to their project or communicate with their team and project mentors. May not provide a final summary of links to contributions.                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **C** | Makes almost no meaningful contributions and makes little effort to communicate with team members and project mentors, or contributions are not licensed correctly. May not provide a final summary of links to contributions.                                                                                                                                                                                                                                                                                                                                                     |
-| **F** | Makes no effort to contribute to their project or communicate with their team and project mentors. May not provide a final summary of links to contributions. |
+| **A** | Makes significant contributions to open-source projects **and the RCOS organization**. This can include effective management of small-group rooms, marking student contributions, answering student questions, promoting RCOS externally, and generally allowing the RCOS organization to function as a strong component of the RPI campus. Student is active on GitHub and Discord and makes excellent use of issue tracking and project management systems. Student communicates failures and development barriers to their team and documents them for the future, and makes their best effort to overcome challenges. Open contributions are licensed correctly with an OSI approved license, are easy to find and can be easily obtained and used. Gives a Final Status Update that is a concise but complete summary of links to the semesters's contributions. |
+| **B** | Makes multiple meaningful contributions to projects **and the RCOS organization**, but may be slightly lacking in communication and/or planning requirements, or may not make good use of issue tracking / project management systems. Open contributions are licensed correctly and can be easily obtained and used, but may not be easy to find. May not provide a final summary of links to contributions. Does a good job monitoring projects in their small group room but may occasionally miss the target with regard to project needs to open-source **and the RCOS organization**. Mentor is marginally effective monitoring their project groups and services to RCOS.  |
+| **C** | Makes too few contributions and does not ask for or provide help when needed. Small group room is not well run and students are not given help. Student makes little to no use of issue tracking and project management systems, and does not communicate well with team members or mentors. Open contributions may not be licensed correctly, may not be easily obtained and used, or may not be easy to find. May not provide a final summary of links to contributions.    Is generally ineffective in providing guidance to their room and helping with management of RCOS.                              
+|**D** | Makes almost no meaningful contributions to open-source and the RCOS organization, and makes little effort to communicate with students and coordinators, or contributions are not licensed correctly. Is not May not provide a final summary of links to contributions. Is generally  ineffective monitoring their project groups and services to RCOS. Is generally ineffective in prviding guidance to their room and helping with magament of RCOS.  |
+| **F** | Makes no visible effort to contribute to their project or communicate with their team and mentors. May not provide a final summary of links to contributions. Does little to monitor their project groups and provide services to RCOS. Is not effective in prviding guidance to their room.      |
 
-## 15% - Status Updates and Project Documentation
+## 25% - Status Updates and Project Documentation
 
-Your community needs to know what you are working on and what you have accomplished, and we need to know that you are engaged throughout the semester.
-Keeping us informed with a weekly status update and by keeping your project documentation up to date will help us and will allow us to give you the grade you deserve.
+Mentors help bridge communication between RCOS students and coordinators. Mentor-specific status updates serve as a way to keep coordinators aware of the general status of each room, projects that may be running into issues or facing blockers, as well as students notable for going above and beyond. 
+
+These status updates specifically require, in addition to everything required in student status updates, updates on each project within the room and students that may require more help or attention.
 
 ?> View the specific guidelines for Status Updates [here](grading/status_updates) and the specific guidelines for Documentation [here](grading/documentation).
 
-?> Note: Only 2 status updates will be dropped during each semester.
 
 | Grade | Description                                                                                                                                                                                                                                        |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **A** | Submits the required number of high caliber status updates documenting each issue they work on and several problems they solve or investigate deeply. Project has a helpful README, and has additional documentation that is of quality and value. |
-| **B** | Makes status updates that may be too few or brief OR project may not have may not have much additional documentation. Final status update is missing or does not fully capture the project status.                                                 |
-| **C** | Makes only a few or low quality status updates, OR project may have little other documentation.                                                                                                                                                    |
-| **D** | Makes few status updates of little to no value and does not contribute to other forms of documentation.                                                                                                                                            |
+| **B** | Makes status updates that may be too few or brief OR project may not have may not have much additional documentation. Final status update is missing or does not fully capture the project status.                              |
+| **C** | Makes only a few or low quality status updates, OR project may have little other documentation.                                        |
+| **D** | Makes few status updates of little to no value and does not contribute to other forms of documentation.                                         |
 | **F** | Makes no status updates and contributes no effort toward documenting the project. Project does not have a meaningful README or license.                                                                                                            |
-
-## 25% - Marking Status Updates
-
-As a mentor you have a respobsibility to the projects under your supervision to mark each student's weekly status updates (and mid/end-of-semester contribution summaries) in a timely and accurate manner.
-Each week you and your students will upload status updates to Submitty, and it will be your responsibility to follow the [RCOS Handbook](https://handbook.rcos.io/#/grading/status_updates?id=requirements) and [rubric](https://handbook.rcos.io/#/grading/rubric?id=_50-open-source-contributions) to read through and "mark" your suggested score for each student. **Mentor-submitted marks are subject to secondary screening by coordinators and faculty advisors.**
-
-?> Mentors are expected to communicate early and often with coordinators and faculty advisors in cases where they believe they will be unable to meet their deadline, suspect an academic integrity violation, or have any other hesitation during the marking process.
-
-?> When marking a non-100% score on a status update, mentors should provide a brief explanation (1-3 sentences) explaining why the student did not earn a full score.
-
-
-| Grade | Description                                                                                                                                                                                                                                        |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **A** | Always marks status status updates accurately and on time. |
-| **B** | Occassionally completes marking after their deadline and/or repeatedly marks scores inaccurately (according to the [rubric](https://handbook.rcos.io/#/grading/rubric?id=_50-open-source-contributions) or after being corrected by coordinators or faculty advisors.                                                 |
-| **C** | Regularly completes marking after their deadline and/or repeatedly marks scores inaccurately (according to the [rubric](https://handbook.rcos.io/#/grading/rubric?id=_50-open-source-contributions) or after being corrected by coordinators or faculty advisors.                                                                                                                                                         |
-| **D** | Rarely completes marking before the deadline.                                                                                                                                               |
-| **F** | Does not mark status updates for their assigned students or shows bias when marking status updates.      
 
 ## 15% - Presentations
 
 You need to develop the ability to represent yourself, your project and RCOS.
-Presentations like the Final Presentation and Mentor Workshop are critical to this learning goal.
-
-**In order to pass the course, a Mentor <ins>MUST</ins> present a [workshop](https://handbook.rcos.io/#/events/workshops) on a topic of their choosing.**
+Presentations like the Final Presentation are critical to this learning goal.
 
 ?> View the specific guidelines for Presentations [here](grading/presentations).
 
 | Grade | Description                                                                                                                                                                             |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **A** | Participates in a well structured and interesting final presentation and demonstrates a knowledge of what they worked on; is well prepared and clearly rehearsed. Represents RCOS externally. **Hosts a well-rehearsed mentor workshop on a topic of their choosing.**|
-| **B** | Makes a reasonable effort to participate in the final presentation and is at least somewhat prepared.                                                                                             |
-| **C** | Is unprepared for the final presentation or does not participate heavily.                                                                                                                         |
-| **D** | Makes little effort to participate in the final presentation or gives a poor presentation.                                                                                                        |
-| **F** | Makes no effort to participate in the final presentation, does not attend, or **does not host a mentor workshop**.                                                                                                                       |
+| **A** | Participates in a well structured and interesting presentation and demonstrates a knowledge of what they worked on; is well prepared and clearly rehearsed. Represents RCOS externally. |
+| **B** | Makes a reasonable effort to participate in presentation and is at least somewhat prepared.           |
+| **C** | Is unprepared for presentation or does not participate heavily.         |
+| **D** | Makes little effort to participate in presentation or gives a poor presentation.       |
+| **F** | Makes no effort to participate in presentation or does not attend.       |
 
 ## 10% - Attendance
 
-You cannot learn, participate, or share unless you are here.
-
-As a mentor, you are required to attend every RCOS class. In the case that you cannot make it, you **MUST** let a coordinator know ahead a time (not a few minutes before class!). There are of course exceptions in cases of emergency, but please make your best effort to attend. Mentors who do not attend class will be demoted back to the role of the student with due notice from a coordinator or RCOS faculty member.
+You cannot learn, participate, mentor, or share unless you are here.
 
 ?> View the specific guidelines for Attendance [here](grading/attendance).
 
 | Grade | Description                                                                                                                                        |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **A** | Makes all required meetings and makes up all unexcused absences. Attends or gives at least two workshops. Gives attendance to students each day in a timely manner.                                     |
-| **B** | Misses no more than two meetings without notice and makes up most unexcused absences. Attends two workshops beyond those used to make up missed attendances. Gives attendance to students each day in a timely manner. |
-| **C** | Repeatedly misses meetings or does not make up unexcused absences. Does not attend additional bonus sessions. Does not always give students attendance on time.                                  |
-| **D** | Misses many classes and does not attempt to make up unexcused absences. Does not give students attendance on multiple occasions.                                                                        |
-| **F** | Makes no effort to regularly attend meetings. Rarely gives attendance to students in their room.                                                                                                   |
-
+| **A** | Attends all required classes and mentor meetings and makes up all unexcused absences. **Presents at least one workshop** and attends at least one workshop.                                      |
+| **B** | Misses no more than four mentor/class meetings and makes up most unexcused absences. **Presents at least one workshop** and attends at least one workshop. |
+| **C** | Repeatedly misses mentor/class meetings or does not make up unexcused absences. Does not give any workshops.                                    |
+| **D** | Misses many meetings and does not attempt to make up unexcused absences.  |
+| **F** | Makes no effort to regularly attend meetings.    |
