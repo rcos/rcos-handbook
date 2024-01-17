@@ -153,10 +153,6 @@ You cannot learn, participate, mentor, or share unless you are here.
 | **D** | Misses many meetings and does not attempt to make up unexcused absences.  |
 | **F** | Makes no effort to regularly attend meetings.    |
 
-## Mentor Grade Rubric
-
-!> Add Mentor Rubric here when its done.
-
 ## Semester Outline
 
 ### Semester Start
