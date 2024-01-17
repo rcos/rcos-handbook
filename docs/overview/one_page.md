@@ -31,7 +31,7 @@ As of Spring 2024 these are the current Faculty Advisors and Coordinators, along
 
 ### Coordinators
 
-- Anugraha Awasthi - Email: awasta@rpi.edu | Discord: webex.edu
+- Anugraha Awasthi - Email: awasta@rpi.edu | Discord: webex.exe
 - Siggy Nazimowitz - Email: nazime@rpi.edu | Discord: sigalit
 - Jacob Weber - Email: weberj5@rpi.edu | Discord: jaw12346
 - Michael Anderson - Email: anderm18@rpi.edu | Discord: officialpie
