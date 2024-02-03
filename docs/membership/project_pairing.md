@@ -1,7 +1,5 @@
 # Project Pairing
 
-!> We are still adapting to the return to restricted in-person courses. This information may change.
-
 ## Overview
 
 The goal of Project Pairing is to ensure that each student finds a project that matches their interests. Finding a project can be very nerve-wracking, especially for new members. Project Pairing was introduced to address this problem.
