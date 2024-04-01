@@ -10,7 +10,7 @@ Attendance at RCOS is required for:
 - all mandatory Large Group meetings
 - at least 2 Workshops
 
-You may miss up to two meetings (small or Large Group combined) without an excuse and can make up at most two meetings by attending more than the required number of bonus, work, or workshop sessions.
+You may miss up to four meetings (small or Large Group combined) without an excuse and can make up at most two additional meetings by attending more than the required number of bonus, work, or workshop sessions.
 
 !> For example, imagine you have not yet attended a bonus session (2 are required) and you miss a Small Group meeting. In order to make up for that missed attendance, you must first attend two bonus sessions to meet your requirement, and then another bonus session to make up for the unexcused absence. You can make up for at most 2 unexcused absences in this way.
 
