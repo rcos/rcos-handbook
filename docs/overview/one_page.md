@@ -24,19 +24,27 @@ As of Spring 2024 these are the current Faculty Advisors and Coordinators, along
 
 - Professor Wes Turner - Email: turnew2@rpi.edu | Discord: prof.turner
 - Professor Konstantin Kuzmin - Email: kuzmik2@rpi.edu | Discord: main.sparky
-- Professor Neha Keshan - Email: Keshan@rpi.edu | Discord: tiger93
 - Professor Yanglet (Xiao-Yang) Liu - Email: liux33@rpi.edu | Discord: yanglet
-- Professor Jidong Xiao - Email: xiaoj8@rpi.edu
-- Professor David Goldschmidt - Email: goldsd3@rpi.edu
+- Professor John Sturman - Email: sturmj@rpi.edu | Discord: johnsturman
+- Professor Masoud Zarif - Email: zarifm@rpi.edu | Discord: masoudzn
+- Professor David Goldschmidt - Email: goldsd3@rpi.edu | Discord: davidgoldschmidtcsci2587
+
+### Teaching Assistants
+
+- Motaleb Hossen Manik - Email: zhum8@rpi.edu | Discord: manik_557_18979
+- Mingzhi Zhu - Email: manikm@rpi.edu | Discord: zmzfpc2023
 
 ### Coordinators
 
-- Anugraha Awasthi - Email: awasta@rpi.edu | Discord: webex.exe
-- Siggy Nazimowitz - Email: nazime@rpi.edu | Discord: sigalit
-- Jacob Weber - Email: weberj5@rpi.edu | Discord: jaw12346
-- Michael Anderson - Email: anderm18@rpi.edu | Discord: officialpie
-- Anthony Fabius - Email: fabiua@rpi.edu | Discord: coup1799
 - Samir Beall - Email: bealls@rpi.edu | Discord: vondeeble
+- Chris Boese - Email: boesec2@rpi.edu | Discord: crizbae
+- Anthony Fabius - Email: fabiua@rpi.edu | Discord: coup1799
+- Jon Ha - Email: haj3@rpi.edu | Discord: jonha123
+- Nilay Kapadia - Email: kapadn@rpi.edu | Discord: mrman.exe
+- Raven Levitt - Email: levitr@rpi.edu | Discord: surprise_mechanics
+- Tim Liakh - Email: liakht@rpi.edu | Discord: Grute
+- CJ Marino - Email: marinc8@rpi.edu | Discord: cjmarino1804
+- Ben Smith-Foley - Email: smithb15@rpi.edu | Discord: smoleyxd
 
 ## Grading Rubric for Students
 
