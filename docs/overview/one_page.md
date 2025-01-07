@@ -18,14 +18,13 @@ All members are encouraged to produce successful projects. Still, the primary go
 
 ## Faculty & Coordinators
 
-As of Spring 2024 these are the current Faculty Advisors and Coordinators, along with their emails and discord usernames.
+As of Spring 2025 these are the current Faculty Advisors and Coordinators, along with their emails and discord usernames.
 
 ### Faculty Advisors
 
 - Professor Wes Turner - Email: turnew2@rpi.edu | Discord: prof.turner
 - Professor Konstantin Kuzmin - Email: kuzmik2@rpi.edu | Discord: main.sparky
-- Professor Yanglet (Xiao-Yang) Liu - Email: liux33@rpi.edu | Discord: yanglet
-- Professor John Sturman - Email: sturmj@rpi.edu | Discord: johnsturman
+- Professor Uzma Mushtaque - Email: musta@rpi.edu | Discord: 
 - Professor Masoud Zarif - Email: zarifm@rpi.edu | Discord: masoudzn
 - Professor David Goldschmidt - Email: goldsd3@rpi.edu | Discord: davidgoldschmidtcsci2587
 
@@ -41,10 +40,7 @@ As of Spring 2024 these are the current Faculty Advisors and Coordinators, along
 - Anthony Fabius - Email: fabiua@rpi.edu | Discord: coup1799
 - Jon Ha - Email: haj3@rpi.edu | Discord: jonha123
 - Nilay Kapadia - Email: kapadn@rpi.edu | Discord: mrman.exe
-- Raven Levitt - Email: levitr@rpi.edu | Discord: surprise_mechanics
-- Tim Liakh - Email: liakht@rpi.edu | Discord: Grute
 - CJ Marino - Email: marinc8@rpi.edu | Discord: cjmarino1804
-- Ben Smith-Foley - Email: smithb15@rpi.edu | Discord: smoleyxd
 
 ## Grading Rubric for Students
 
