@@ -24,7 +24,7 @@ As of Spring 2025 these are the current Faculty Advisors and Coordinators, along
 
 - Professor Wes Turner - Email: turnew2@rpi.edu | Discord: prof.turner
 - Professor Konstantin Kuzmin - Email: kuzmik2@rpi.edu | Discord: main.sparky
-- Professor Uzma Mushtaque - Email: musta@rpi.edu | Discord: 
+- Professor Uzma Mushtaque - Email: mushtu@rpi.edu | Discord: uzma8391
 - Professor Masoud Zarif - Email: zarifm@rpi.edu | Discord: masoudzn
 - Professor David Goldschmidt - Email: goldsd3@rpi.edu | Discord: davidgoldschmidtcsci2587
 
