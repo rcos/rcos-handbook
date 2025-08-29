@@ -10,7 +10,8 @@ You can register for RCOS for any amount of free elective credits. You can also 
 
 ## How often does RCOS meet?
 
-RCOS meets twice weekly for two hours on Tuesdays and Fridays, typically from 4 pm to 6 pm, where attendance is required. Other one-off workshops and events are held throughout the semester, where attendance is optional.
+RCOS meets twice weekly for two hours on Tuesdays and Fridays, typically from 4 pm to 6 pm, where attendance is required. Other one-off workshops and events are held throughout the semester, where attendance is optional. These workshops will be inlcuded in the slide decks for each meeting and be posted to the meetings section on [The RCOS Website](https://new.rcos.io/meetings/)
+
 
 ## How much time is expected per week?
 
@@ -35,3 +36,7 @@ You do not need prior programming/hardware/CS experience to join RCOS; all major
 ## Why is RCOS a unique RPI organization?
 
 RCOS is a student-run organization that allows students to work on what interests them and receive course credit for it.
+
+## Where do I go if I have questions now answered in this handbook?
+
+The #helpdesk channel located in [our discord server](https://discord.gg/3XRCZg6YnY) is the best place to get questions you may have answered by one of the mentors, coordinators, or faculty. 

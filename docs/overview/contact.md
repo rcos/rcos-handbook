@@ -18,3 +18,6 @@
 - [RPISec](https://rpis.ec/)
 - [RPI UPE](http://www.cs.rpi.edu/~upe/)
 - [HackRPI](https://hackrpi.com)
+- [ACMW](https://rpiacmw.github.io/index.html)
+- [RCC]()
+- [Google Dev Groups]()
