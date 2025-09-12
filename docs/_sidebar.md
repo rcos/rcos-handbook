@@ -38,7 +38,8 @@
     <!-- - [Tech Talks](events/tech_talks.md) -->
     <!-- - [Code Jams](events/code_jams.md) -->
     <!-- - [Hackathons](events/hackathons.md) -->
-    - [Workshops](events/workshops.md)
+
+  - [Workshops](events/workshops.md)
     <!-- - [Accepted Students Day](events/accepted_students_day.md) -->
     <!-- - [NRB](events/nrb.md) -->
     <!-- - [Hosting an Event](events/hosting.md) -->
@@ -68,10 +69,10 @@
 
   - [Coordinators](leadership/coordinators)
   - [Faculty Advisors](leadership/faculty)
-  <!-- - [Semester Agenda](leadership/agenda) -->
-  <!-- - [Onboarding](leadership/onboarding) -->
-  <!-- - [Infrastructure](leadership/infrastructure) -->
-  <!-- - [Notes](leadership/notes.md) -->
+    <!-- - [Semester Agenda](leadership/agenda) -->
+    <!-- - [Onboarding](leadership/onboarding) -->
+    <!-- - [Infrastructure](leadership/infrastructure) -->
+    <!-- - [Notes](leadership/notes.md) -->
 
 - Student Resources
   <!-- * [Presentation Slides](resources/slides.md) TODO: return when we figure out slides -->
@@ -91,5 +92,5 @@
   - [Standards](resources/brand_standards.md)
   <!-- - [Press Kit](resources/press_kit.md) -->
 
-- RCOS Handbook
-  - [Overview](handbook/README.md)
+<!-- - RCOS Handbook -->
+<!-- - [Overview](handbook/README.md) -->
