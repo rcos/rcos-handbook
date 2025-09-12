@@ -71,10 +71,10 @@ Keeping us informed with a weekly status update and by keeping your project docu
 | **D** | Makes few status updates of little to no value and does not contribute to other forms of documentation.                                                                                                                                            |
 | **F** | Makes no status updates and contributes no effort toward documenting the project. Project does not have a meaningful README or license.                                                                                                            |
 
-### 15% - Presentations
+### 15% - Expo Presentation
 
 You need to develop the ability to represent yourself, your project and RCOS.
-Presentations like the Final Presentation at the RCOS expo are critical to this learning goal.
+Presentations like the Final Presentation at the RCOS Expo are critical to this learning goal.
 
 | Grade | Description                                                                                                                                                                             |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -134,7 +134,7 @@ These status updates specifically require, in addition to everything required in
 | **D** | Makes few status updates of little to no value and does not contribute to other forms of documentation.                                         |
 | **F** | Makes no status updates and contributes no effort toward documenting the project. Project does not have a meaningful README or license.                                                                                                            |
 
-### 15% - Presentations
+### 15% - Expo Presentation
 
 You need to develop the ability to represent yourself, your project and RCOS.
 Presentations like the Final Presentation at the RCOS Expo are critical to this learning goal.

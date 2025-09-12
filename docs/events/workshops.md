@@ -7,7 +7,7 @@ pertinent to their open source work.
 
 Anyone in RCOS is allowed to host a workshop. Mentors are required to host at least one.
 
-Workshops have historically be hosted mostly on Wednesdays, since most Computer Science majors at RPI are free on Wednesday afternoons. Despite this,
+Workshops have historically been hosted primarily on Wednesdays, since most Computer Science majors at RPI are free on Wednesday afternoons. Despite this,
 there is no requirement to what day you host a workshop on. Weekends are acceptable, as are most days of the week, as long as your workshop does not conflict
 with a Large Group meeting or Small Group meeting.
 

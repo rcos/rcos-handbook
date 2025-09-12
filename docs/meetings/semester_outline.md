@@ -30,7 +30,7 @@ This is usually the bulk of the semester.
 This is usually the last two weeks of the semester.
 
 - Last Contributions Submitted
-- Final Presentations
+- RCOS Expo
 - Final Commit Summary
 - Final Grading
   - Grade appeals
