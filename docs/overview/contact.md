@@ -10,6 +10,7 @@
 - [Blog](https://blog.rcos.io/)
 - [Facebook](https://www.facebook.com/RCOSatRPI)
 - [Twitter](https://twitter.com/rcosrpi)
+- [Discord](https://discord.gg/3XRCZg6YnY)
 
 ## Affiliates
 
@@ -19,5 +20,5 @@
 - [RPI UPE](http://www.cs.rpi.edu/~upe/)
 - [HackRPI](https://hackrpi.com)
 - [ACMW](https://rpiacmw.github.io/index.html)
-- [RCC]()
 - [Google Dev Groups]()
+- [RCPC]()

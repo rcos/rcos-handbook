@@ -24,27 +24,25 @@ As of Spring 2024 these are the current Faculty Advisors and Coordinators, along
 
 - Professor Wes Turner - Email: turnew2@rpi.edu | Discord: prof.turner
 - Professor Konstantin Kuzmin - Email: kuzmik2@rpi.edu | Discord: main.sparky
-- Professor Yanglet (Xiao-Yang) Liu - Email: liux33@rpi.edu | Discord: yanglet
 - Professor John Sturman - Email: sturmj@rpi.edu | Discord: johnsturman
-- Professor Masoud Zarif - Email: zarifm@rpi.edu | Discord: masoudzn
 - Professor David Goldschmidt - Email: goldsd3@rpi.edu | Discord: davidgoldschmidtcsci2587
+- Professor Neha Keshan - Email: keshan2@rpi.edu 
 
 ### Teaching Assistants
 
-- Motaleb Hossen Manik - Email: zhum8@rpi.edu | Discord: manik_557_18979
-- Mingzhi Zhu - Email: manikm@rpi.edu | Discord: zmzfpc2023
+- None this semester
 
 ### Coordinators
 
 - Samir Beall - Email: bealls@rpi.edu | Discord: vondeeble
-- Chris Boese - Email: boesec2@rpi.edu | Discord: crizbae
 - Anthony Fabius - Email: fabiua@rpi.edu | Discord: coup1799
-- Jon Ha - Email: haj3@rpi.edu | Discord: jonha123
 - Nilay Kapadia - Email: kapadn@rpi.edu | Discord: mrman.exe
 - Raven Levitt - Email: levitr@rpi.edu | Discord: surprise_mechanics
 - Tim Liakh - Email: liakht@rpi.edu | Discord: Grute
 - CJ Marino - Email: marinc8@rpi.edu | Discord: cjmarino1804
-- Ben Smith-Foley - Email: smithb15@rpi.edu | Discord: smoleyxd
+- Heman Kollah - Email: kollah@rpi.edu | Discord: voiderwolf
+- Gabe Dellario - Email: dellag@rpi.edu | Discord: gaberdell
+- Bulmaro Nava-Camal - Email: navacb@rpi.edu | Discord: forger2242
 
 ## Grading Rubric for Students
 
@@ -76,7 +74,7 @@ Keeping us informed with a weekly status update and by keeping your project docu
 ### 15% - Presentations
 
 You need to develop the ability to represent yourself, your project and RCOS.
-Presentations like the Final Presentation are critical to this learning goal.
+Presentations like the Final Presentation at the RCOS expo are critical to this learning goal.
 
 | Grade | Description                                                                                                                                                                             |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -139,7 +137,7 @@ These status updates specifically require, in addition to everything required in
 ### 15% - Presentations
 
 You need to develop the ability to represent yourself, your project and RCOS.
-Presentations like the Final Presentation are critical to this learning goal.
+Presentations like the Final Presentation at the RCOS Expo are critical to this learning goal.
 
 | Grade | Description                                                                                                                                                                             |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -189,7 +187,7 @@ This is usually the bulk of the semester.
 This is usually the last two weeks of the semester.
 
 - Last Contributions Submitted
-- Final Presentations
+- RCOS Expo
 - Final Commit Summary
 - Final Grading
   - Grade appeals

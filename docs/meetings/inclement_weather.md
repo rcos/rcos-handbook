@@ -12,7 +12,7 @@ If classes are not in session due to inclement weather, any RCOS events during t
 - Small Group Meetings
 - Workshops
 
-Large Groups that are canceled might be rescheduled to another RCOS period to make up.
+Meetings that are canceled might be rescheduled to another RCOS period to make up.
 
 ## Weekend or Holiday Events
 
@@ -21,7 +21,7 @@ If RPI's shuttle service or Safe Ride program is suspended due to inclement weat
 - Weekend work sessions
 - Code Jams
 - RCOS Hackathons
-- Weekend bonus sessions
+- Weekend bonus sessions 
 
 If a shuttle service or Safe Ride suspension is announced during an RCOS event, event hosts reserve the right to dismiss the event early so attendees can get home safely.
 
