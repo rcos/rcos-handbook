@@ -2,7 +2,7 @@
 
 <hr style='width:40%; border-color:#da291c;'>
 <h1 style="color: #da291c">Handbook</h1>
-<p style="color: #da291c">Spring 2025 | version 0.8</p>
+<p style="color: #da291c">Spring 2026 | version 0.9</p>
 
 [Get Started](#main)
 
