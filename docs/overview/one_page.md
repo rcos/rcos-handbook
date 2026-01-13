@@ -92,6 +92,22 @@ You cannot learn, participate, or share unless you are here.
 | **C** | Repeatedly misses meetings or does not make up unexcused absences. Does not attend additional bonus sessions.                                    |
 | **D** | Misses many meetings and does not attempt to make up unexcused absences.                                                                           |
 | **F** | Makes no effort to regularly attend meetings.                                                                                                      |
+### Additional Information for Introductory Sections (CSCI-1700 and CSCI-2700) 
+
+**Additional Lectures:**
+For CSCI-1700 and CSCI-2700, students will be required to attend additional lectures on Fridays for approximately the first half of the semester, to receive instruction in open-source tools, culture, licensing, and other background that will help prepare them to fully participate in open-source communities and succeed in their projects. These lectures will be accessible to, but not required for students in CSCI-4700 and CSCI-4710. Attendance, and/or homework assigned from these lectures will be used to give students in the introductory sections a grade boost relative to the more experienced students taking RCOS at the 4000 level.
+
+
+### Additional grading items for CSCI-4710
+
+CSCI-4710 is intended to provide additional learning activities for students who have significant previous RCOS experience. The grading rubric remains the same with distribution of points into categories, however, the Presentations and Outreach, Status Updates, and Open Source Contributions components will be adjusted as follows:
+Presentations and Outreach: In addition to participating in the group presentation (currently at an end-of-the-semester) 
+
+- Poster Session: Project Leads will be required to do an oral presentation of their project during the semester, typically during the last class of the semester. This will count as 2/3rds of the presentation grade.
+
+- Status Updates: For students in CSCI-4710, their status updates will be expected to talk about both personal and project status. To receive full points, the student will need to demonstrate knowledge of project status along with personal status and contributions.
+
+- Open Source Contributions: Project Leadership is a significant part of an open-source project and must be demonstrated to be successful in CSCI-4710. Students in CSCI-4710 will be required to meet periodically (bi-weekly?) with one or more instructors to discuss their project. Additionally, student contributions will be more heavily scruntinized for quality expected of a project leader, and for evidence of project leadership activity such as creation of issues, and comments/merging/review/testing of pull requests. 
 
 ---
 
@@ -104,16 +120,6 @@ projects in your group, and to regularly attend mentor meetings. Because of this
 
 At a minimum a mentor is **required** to host at least one workshop.
 
-## Additional grading items for CSCI-4710
-
-CSCI-4710 is intended to provide additional learning activities for students who have significant previous RCOS experience. The grading rubric remains the same with distribution of points into categories, however, the Presentations and Outreach, Status Updates, and Open Source Contributions components will be adjusted as follows:
-Presentations and Outreach: In addition to participating in the group presentation (currently at an end-of-the-semester) 
-
-- Poster Session: Project Leads will be required to do an oral presentation of their project during the semester, typically during the last class of the semester. This will count as 2/3rds of the presentation grade.
-
-- Status Updates: For students in CSCI-4710, their status updates will be expected to talk about both personal and project status. To receive full points, the student will need to demonstrate knowledge of project status along with personal status and contributions.
-
-- Open Source Contributions: Project Leadership is a significant part of an open-source project and must be demonstrated to be successful in CSCI-4710. Students in CSCI-4710 will be required to meet periodically (bi-weekly?) with one or more instructors to discuss their project. Additionally, student contributions will be more heavily scruntinized for quality expected of a project leader, and for evidence of project leadership activity such as creation of issues, and comments/merging/review/testing of pull requests. 
 
 ### 50% - Open Source Contributions & RCOS Community Service
 
@@ -166,12 +172,6 @@ You cannot learn, participate, mentor, or share unless you are here.
 | **C** | Repeatedly misses mentor/class meetings or does not make up unexcused absences. Does not give any workshops.                                    |
 | **D** | Misses many meetings and does not attempt to make up unexcused absences.  |
 | **F** | Makes no effort to regularly attend meetings.    |
-
-## Additional Information for Course Information Section: 
-### Additional Lectures
-
-For CSCI-1700 and CSCI-2700, students will be required to attend additional lectures on Fridays for approximately the first half of the semester, to receive instruction in open-source tools, culture, licensing, and other background that will help prepare them to fully participate in open-source communities and succeed in their projects. These lectures will be accessible to, but not required for students in CSCI-4700 and CSCI-4710. Attendance, and/or homework assigned from these lectures will be used to give students in the introductory sections a grade boost relative to the more experienced students taking RCOS at the 4000 level.
-
 
 ## Semester Outline
 
