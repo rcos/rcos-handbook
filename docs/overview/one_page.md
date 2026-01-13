@@ -25,6 +25,8 @@ As of Spring 2026 these are the current Faculty Advisors and Coordinators, along
 - Professor Wes Turner - Email: turnew2@rpi.edu | Discord: prof.turner
 - Professor Konstantin Kuzmin - Email: kuzmik2@rpi.edu | Discord: main.sparky
 - Professor David Goldschmidt - Email: goldsd3@rpi.edu | Discord: davidgoldschmidtcsci2587
+- Professor John Sturman - Email: sturmj@rpi.edu | Discord: johnsturman
+- Professor Neha Keshan - Email: keshan2@rpi.edu | Discord: tiger93
 
 ### Teaching Assistants
 
@@ -33,13 +35,13 @@ As of Spring 2026 these are the current Faculty Advisors and Coordinators, along
 ### Coordinators
 
 - Anthony Fabius - Email: fabiua@rpi.edu | Discord: coup1799
-- Nilay Kapadia - Email: kapadn@rpi.edu | Discord: mrman.exe
 - CJ Marino - Email: marinc8@rpi.edu | Discord: cjmarino1804
 - Heman Kollah - Email: kollah@rpi.edu | Discord: voiderwolf
 - Gabe Dellario - Email: dellag@rpi.edu | Discord: gaberdell
 - Bulmaro Nava-Camal - Email: navacb@rpi.edu | Discord: forger2242
 - Timothy Liakh - Email: liakht@rpi.edu | Discord: Grute
 - Raven Levitt - Email: levitr@rpi.edu | Discord: surprise\_mechanics
+- Samir Beall - Email: bealls@rpi.edu | Discord: vondeeble
 
 ## Grading Rubric for Students
 
