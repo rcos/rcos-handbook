@@ -18,29 +18,28 @@ All members are encouraged to produce successful projects. Still, the primary go
 
 ## Faculty & Coordinators
 
-As of Spring 2025 these are the current Faculty Advisors and Coordinators, along with their emails and discord usernames.
+As of Spring 2026 these are the current Faculty Advisors and Coordinators, along with their emails and discord usernames.
 
 ### Faculty Advisors
 
 - Professor Wes Turner - Email: turnew2@rpi.edu | Discord: prof.turner
 - Professor Konstantin Kuzmin - Email: kuzmik2@rpi.edu | Discord: main.sparky
-- Professor Uzma Mushtaque - Email: mushtu@rpi.edu | Discord: uzma8391
-- Professor Masoud Zarif - Email: zarifm@rpi.edu | Discord: masoudzn
 - Professor David Goldschmidt - Email: goldsd3@rpi.edu | Discord: davidgoldschmidtcsci2587
 
 ### Teaching Assistants
 
-- Motaleb Hossen Manik - Email: zhum8@rpi.edu | Discord: manik_557_18979
-- Mingzhi Zhu - Email: manikm@rpi.edu | Discord: zmzfpc2023
+- None this semester
 
 ### Coordinators
 
-- Samir Beall - Email: bealls@rpi.edu | Discord: vondeeble
-- Chris Boese - Email: boesec2@rpi.edu | Discord: crizbae
 - Anthony Fabius - Email: fabiua@rpi.edu | Discord: coup1799
-- Jon Ha - Email: haj3@rpi.edu | Discord: jonha123
 - Nilay Kapadia - Email: kapadn@rpi.edu | Discord: mrman.exe
 - CJ Marino - Email: marinc8@rpi.edu | Discord: cjmarino1804
+- Heman Kollah - Email: kollah@rpi.edu | Discord: voiderwolf
+- Gabe Dellario - Email: dellag@rpi.edu | Discord: gaberdell
+- Bulmaro Nava-Camal - Email: navacb@rpi.edu | Discord: forger2242
+- Timothy Liakh - Email: liakht@rpi.edu | Discord: Grute
+- Raven Levitt - Email: levitr@rpi.edu | Discord: surprise\_mechanics
 
 ## Grading Rubric for Students
 
@@ -69,10 +68,10 @@ Keeping us informed with a weekly status update and by keeping your project docu
 | **D** | Makes few status updates of little to no value and does not contribute to other forms of documentation.                                                                                                                                            |
 | **F** | Makes no status updates and contributes no effort toward documenting the project. Project does not have a meaningful README or license.                                                                                                            |
 
-### 15% - Presentations
+### 15% - Expo Presentation
 
 You need to develop the ability to represent yourself, your project and RCOS.
-Presentations like the Final Presentation are critical to this learning goal.
+Presentations like the Final Presentation at the RCOS Expo are critical to this learning goal.
 
 | Grade | Description                                                                                                                                                                             |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -105,6 +104,17 @@ projects in your group, and to regularly attend mentor meetings. Because of this
 
 At a minimum a mentor is **required** to host at least one workshop.
 
+## Additional grading items for CSCI-4710
+
+CSCI-4710 is intended to provide additional learning activities for students who have significant previous RCOS experience. The grading rubric remains the same with distribution of points into categories, however, the Presentations and Outreach, Status Updates, and Open Source Contributions components will be adjusted as follows:
+Presentations and Outreach: In addition to participating in the group presentation (currently at an end-of-the-semester) 
+
+- Poster Session: Project Leads will be required to do an oral presentation of their project during the semester, typically during the last class of the semester. This will count as 2/3rds of the presentation grade.
+
+- Status Updates: For students in CSCI-4710, their status updates will be expected to talk about both personal and project status. To receive full points, the student will need to demonstrate knowledge of project status along with personal status and contributions.
+
+- Open Source Contributions: Project Leadership is a significant part of an open-source project and must be demonstrated to be successful in CSCI-4710. Students in CSCI-4710 will be required to meet periodically (bi-weekly?) with one or more instructors to discuss their project. Additionally, student contributions will be more heavily scruntinized for quality expected of a project leader, and for evidence of project leadership activity such as creation of issues, and comments/merging/review/testing of pull requests. 
+
 ### 50% - Open Source Contributions & RCOS Community Service
 
 RCOS is, at heart, about participation in the Open Source Ecosystem. *Mentorship includes contributing to the RCOS community.*
@@ -132,10 +142,10 @@ These status updates specifically require, in addition to everything required in
 | **D** | Makes few status updates of little to no value and does not contribute to other forms of documentation.                                         |
 | **F** | Makes no status updates and contributes no effort toward documenting the project. Project does not have a meaningful README or license.                                                                                                            |
 
-### 15% - Presentations
+### 15% - Expo Presentation
 
 You need to develop the ability to represent yourself, your project and RCOS.
-Presentations like the Final Presentation are critical to this learning goal.
+Presentations like the Final Presentation at the RCOS Expo are critical to this learning goal.
 
 | Grade | Description                                                                                                                                                                             |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -156,6 +166,12 @@ You cannot learn, participate, mentor, or share unless you are here.
 | **C** | Repeatedly misses mentor/class meetings or does not make up unexcused absences. Does not give any workshops.                                    |
 | **D** | Misses many meetings and does not attempt to make up unexcused absences.  |
 | **F** | Makes no effort to regularly attend meetings.    |
+
+## Additional Information for Course Information Section: 
+### Additional Lectures
+
+For CSCI-1700 and CSCI-2700, students will be required to attend additional lectures on Fridays for approximately the first half of the semester, to receive instruction in open-source tools, culture, licensing, and other background that will help prepare them to fully participate in open-source communities and succeed in their projects. These lectures will be accessible to, but not required for students in CSCI-4700 and CSCI-4710. Attendance, and/or homework assigned from these lectures will be used to give students in the introductory sections a grade boost relative to the more experienced students taking RCOS at the 4000 level.
+
 
 ## Semester Outline
 
@@ -185,7 +201,7 @@ This is usually the bulk of the semester.
 This is usually the last two weeks of the semester.
 
 - Last Contributions Submitted
-- Final Presentations
+- RCOS Expo
 - Final Commit Summary
 - Final Grading
   - Grade appeals
